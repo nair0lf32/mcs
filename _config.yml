@@ -29,7 +29,7 @@ twitter_username: FlorianEdemessi
 github_username:  nair0lf32
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
