@@ -7,3 +7,5 @@ title: MedicalCheatSheets
 permalink: /index
 ---
 # Bienvenue
+Ceci est un petit pense-bete médical pour réviser rapidement (ou découvrir)
+l'essentiel à connaitre en pratique clinique au sujet de diverses pathologies.
