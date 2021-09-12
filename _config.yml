@@ -21,8 +21,10 @@
 title: Medical Cheat Sheets
 email: florianedem@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Un simple blog to pour stocker et partarger quelqes points important au sujet de diverses pathologies
-  sous formes de petites notes utilisant un format simple. (aka: un pense-bete médical) 
+  Un simple blog pour stocker et partager quelqes points importants au sujet de diverses pathologies
+  sous formes de petites notes utilisant un format simple.
+  (aka: un pense-bete médical) 
+  
 baseurl: "/MedicalCheatSheets" # the subpath of your site, e.g. /blog
 url: "https://nair0lf32.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FlorianEdemessi
