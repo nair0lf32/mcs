@@ -25,7 +25,7 @@ description: >
   (aka: un pense-bete médical) 
 
 baseurl: "/MedicalCheatSheets" # the subpath of your site, e.g. /blog
-url: "https://nair0lf32.github.io/MedicalCheatSheets" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://github.com/nair0lf32.io/MedicalCheatSheets/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FlorianEdemessi
 github_username:  nair0lf32
 
