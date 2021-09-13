@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: " en-US" }}">
+<html lang="{{ site.lang | default: " fr" }}">
 
 <head>
     <meta charset="UTF-8">
@@ -23,7 +23,7 @@
         <h3 class="project-tagline">{{ page.description | default: site.description | default:
             site.github.project_tagline }}</h3>
         {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+        <a href="{{ site.github.repository_url }}" class="btn">Voir sur GitHub</a>
         {% endif %}
         {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
@@ -32,7 +32,10 @@
     </header>
 
     <main id="content" class="main-content" role="main">
-        {{ content }}
+        <section>
+            {{ content }}
+        </section>
+
 
         <footer class="site-footer">
             {% if site.github.is_project_page %}
