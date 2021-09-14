@@ -3,71 +3,60 @@
 
 @import "{{ site.theme }}";
 
-nav ul {
+#navbar {
+    /*float: left;seems to do same thing as navbar ul li float left*/
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: gray;
+}
+
+#navbar ul {
     list-style-type: none;
-}
-nav li {
-    line-height: 30px;
-}
-nav a {
-    text-decoration: none;
-}
-nav li.active a {
-    color: #ffffff;
-}
-
-/* NAVIGATION BAR
- -------------------------------------------------- */
-#navigation {
-    min-height: 70px !important;
-    padding-top: 10px;
-}
-#navigation .navbar-brand {
-    padding-right: 28px;
-    width: 280px;
-    border-right: 3px solid rgba(255, 255, 255, 0.1);
-    font-family: "hobo-std", sans-serif;
-    font-style: italic;
-    font-size: 26px !important;
-    color: #5fcf80 !important;
-}
-#navigation .navbar-brand .site-logo {
+    margin: 0px;
+    padding: 0px;
     float: left;
-    margin-top: -10px;
-    margin-right: 1rem;
-    width: 250px;
-}
-#navigation #navbar {
-    float: right !important;
-    margin-right: -15px;
-    font-family: 'Helvetica Rounded', Arial, sans-serif;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 38px;
-    text-shadow: 0 1px 3px rgba(0, 0, 0, .5) !important;
-}
-@media (max-width: 768px) {
-    #navigation #navbar {
-        float: none !important;
-        margin-right: 0;
-    }
-}
-#navigation #navbar .navbar-nav li a {
-    color: #b2bbbd !important;
-}
-#navigation #navbar .navbar-nav li a:hover,
-#navigation #navbar .navbar-nav li a:focus {
-    color: #ffffff !important;
-    border-bottom: 2px solid #ffffff !important;
-}
-#navigation #navbar .navbar-nav .active a {
-    color: #ffffff !important;
-    border-bottom: 2px solid #ffffff !important;
-}
-#navigation #navbar .navbar-nav .dropdown-menu li a {
-    color: #515151 !important;
-    text-shadow: none !important;
 }
 
+#navbar ul li {
+    float: left; /*if active, makes everything inline, gray bg*/
+}
 
+#navbar ul li a, .dropdown-toggle {
+    color: white;
+    text-align: center; /*doesn't seem to do anything*/
+    padding: 14px 16px;
+    text-decoration: none;
+    display: inline-block;
+}
 
+#navbar ul li a:hover, .dropdown:hover .dropdown-toggle {
+    background-color: red;
+}
+
+.dropdown-menu {
+    display: none;
+    position: absolute;
+    background-color: black;
+    min-width: 50px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+#navbar .ddm a {
+    color: green;
+    padding: 14px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.ddm {
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: white;}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
