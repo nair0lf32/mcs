@@ -30,11 +30,9 @@ twitter_username: FlorianEdemessi
 github_username:  nair0lf32
 
 # Build settings
-remote_theme: pages-themes/cayman@v0.2.0
-
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
+
 
 
 destination: ./_site
