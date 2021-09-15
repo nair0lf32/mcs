@@ -2,37 +2,65 @@
 <html lang="{{ site.lang | default: " fr" }}">
 
 <head>
+    <link rel="stylesheet" href="{{ '/assets/css/style.scss?v=' | append: site.github.build_revision | relative_url }}">
 </head>
 
 <body>
-    <nav id="navbar">
-        <ul>
-            {% assign links = site.data.navigation %}
-            {% for link in links %}
-            {% assign class = nil %}
-            {% if page.url contains link.url %}
-            {% assign class = 'active' %}
-            {% endif %}
-            {% if link.sublinks %}
-            <li class="dropdown {{ class }}">
-                <a href="javascript:void(0)" class="dropdown-toggle">{{ link.title }} <span class="caret"></span></a>
-                <ul class="dropdown-menu">
-                    {% for sublink in link.sublinks %}
-                    <li class="ddm">
-                        <a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
-                    </li>
-                    {% endfor %}
-                </ul>
-            </li>
-            {% else %}
-            <li class="{{ class }}">
-                <a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
-            </li>
-            {% endif %}
-            {% endfor %}
-        </ul>
-    </nav>
+    <!-- Use any element to open the sidenav -->
+    <a class="btn" onclick="openNav()">open</a>
 
+    <div id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        {% assign links = site.data.navigation %}
+        {% for link in links %}
+        {% assign class = nil %}
+        {% if page.url contains link.url %}
+        {% assign class = 'active' %}
+        {% endif %}
+        {% if link.sublinks %}
+        <button class="accordion {{ class }}">{{ link.title }}</button>
+        {% for sublink in link.sublinks %}
+        <div class="panel">
+            <a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
+        </div>
+        {% endfor %}
+        {% else %}
+        <a class="{{ class }}" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+        {% endif %}
+        {% endfor %}
+    </div>
+
+
+
+
+    <script>
+        /* Set the width of the side navigation to 250px */
+        function openNav() {
+            document.getElementById("mySidenav").style.width = "250px";
+        }
+        /* Set the width of the side navigation to 0 */
+        function closeNav() {
+            document.getElementById("mySidenav").style.width = "0";
+        }
+
+        var acc = document.getElementsByClassName("accordion");
+        var i;
+        for (i = 0; i < acc.length; i++) {
+            acc[i].addEventListener("click", function () {
+                /* Toggle between adding and removing the "active" class,
+                to highlight the button that controls the panel */
+                this.classList.toggle("active");
+
+                /* Toggle between hiding and showing the active panel */
+                var panel = this.nextElementSibling;
+                if (panel.style.display === "block") {
+                    panel.style.display = "none";
+                } else {
+                    panel.style.display = "block";
+                }
+            });
+        }
+    </script>
 </body>
 
 </html>
