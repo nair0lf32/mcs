@@ -1,14 +1,19 @@
-- title: About
+- title: Accueil
+  url: /
+
+- title: A Propos
   url: /about
+
 - title: Contact
   url: /contact
-- title: Support
-  url: /support
+
+- title: Cheat Sheets
+  url: /cheatsheets
+
   sublinks:
-    - title: FAQ
-      url: /faq
+    - title: Post 1
+      url: /post1
+
     - title: Documentation
       url: /documentation
-    - title: separator
-    - title: Customer Support
-      url: /customer-support
+      

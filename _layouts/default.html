@@ -19,13 +19,14 @@
 </head>
 
 <body>
+
     <a id="skip-to-content" href="#content">Skip to the content.</a>
     <header class="page-header" role="banner">
         <h2 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h2>
         <h3 class="project-tagline">{{ page.description | default: site.description | default:
             site.github.project_tagline }}</h3>
 
-         {% include navigation.html %}
+        {% include navigation.html %}
 
         {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">Voir sur GitHub</a>
@@ -44,7 +45,8 @@
 
         <footer class="site-footer">
             {% if site.github.is_project_page %}
-            <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name
+            <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{
+                    site.github.repository_name
                     }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name
                     }}</a>.</span>
             {% endif %}
@@ -52,6 +54,7 @@
                     Pages</a>.</span>
         </footer>
     </main>
+
 </body>
 
 </html>
