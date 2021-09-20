@@ -124,7 +124,7 @@
 
 .wrapper
 {
-display: flex;
+display: block;
 justify-content: center;
 justify-self: center;
 }
@@ -132,6 +132,6 @@ justify-self: center;
 .logo
 {
   
-  width: 10vw;
-  height: 15vh;
+  width: 20%;
+  height: 20%;
 }
