@@ -7,15 +7,19 @@
 <head>
     <meta charset="UTF-8">
 
-    <!-- insert favicons -->
-    <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon-16x16.png">
-    <link rel="manifest" href="/assets/images/site.webmanifest">
-    <link rel="shortcut icon" href="/assets/images/favicon.ico">
+    <!-- insert favicons by favicon generator-->
+    <link rel="apple-touch-icon" sizes="180x180"
+        href="{{ '/assets/images/apple-touch-icon.png?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="icon" type="image/png" sizes="32x32"
+        href="{{ '/assets/images/favicon-32x32.png?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="icon" type="image/png" sizes="16x16"
+        href="{{ '/assets/images/favicon-16x16.png?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="manifest"
+        href="{{ '/assets/images/site.webmanifest?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="shortcut icon"
+        href="{{ '/assets/images/favicon.ico?v=' | append: site.github.build_revision | relative_url }}">
     <meta name="msapplication-TileColor" content="#157878">
     <meta name="msapplication-config" content=" ">
-
 
     {% seo %}
     <link rel="preconnect" href="https://fonts.gstatic.com">
