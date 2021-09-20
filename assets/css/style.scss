@@ -121,3 +121,17 @@
 .dropdown:hover .dropdown-menu {
     display: block;
 }
+
+.wrapper
+{
+display: flex;
+justify-content: center;
+justify-self: center;
+}
+
+.logo
+{
+  
+  width: 10vw;
+  height: 15vh;
+}
