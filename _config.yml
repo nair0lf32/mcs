@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -22,18 +22,19 @@ title: Medical Cheat Sheets
 email: florianedem@gmail.com
 description: >
   Un simple blog au sujet de diverses pathologies
-  (aka: un pense-bete médical) 
+  (aka: un pense-bete médical)
+
+encoding: utf-8
+markdown: kramdown
 
 baseurl: "/MedicalCheatSheets" # the subpath of your site, e.g. /blog
 url: "https://github.com/nair0lf32.io/MedicalCheatSheets/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FlorianEdemessi
-github_username:  nair0lf32
+github_username: nair0lf32
 
 # Build settings
 plugins:
   - jekyll-feed
-
-
 
 destination: ./_site
 
