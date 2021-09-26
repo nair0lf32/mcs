@@ -11,9 +11,8 @@
   url: /cheatsheets
 
   sublinks:
-    - title: Post 1
-      url: /post1
+    - title: Articles
+      url: /exemple
 
     - title: Documentation
       url: /documentation
-      
