@@ -22,7 +22,21 @@ Pour en savoir plus suivez ce lien:
 
 Bonne visite !
 
-<img src="https://avatars.githubusercontent.com/u/35136136?s=400&u=8f223af54eee04fd9bf7c0d5d5a07801aba8a540&v=4" 
-alt="avatar"  width="30%" height="30%" style=border-radius:50%; />
+<div class="author" align="left">
 
-![avatar](https://avatars.githubusercontent.com/u/35136136?s=400&u=8f223af54eee04fd9bf7c0d5d5a07801aba8a540&v=4)
+<img class="avatar" src="https://avatars.githubusercontent.com/u/35136136?s=400&u=8f223af54eee04fd9bf7c0d5d5a07801aba8a540&v=4" height="10%" width="10%" />
+  
+<p class="bio"> 
+Nairolf32: <br>
+Auteur de ce site, étudiant en médecine à la faculté des sciences de la santé de Cotonou, passionné d'informatique, de nouvelles technologies, Gaming , néophyte en  web-design et bloggeur du dimanche.
+ </p>
+
+<style>
+.avatar{
+    border-radius:50%;
+    border: 3px black solid;
+}
+.author{ display:flex;}
+.bio{font-size: 0.8rem; margin-left:1%;}
+</style>
+</div>
