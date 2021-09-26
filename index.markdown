@@ -17,26 +17,29 @@ La conception de ce site représente pour moi un exercice et il me permet de me 
 Les informations réunies sur ce site proviennent essentiellement des cours de pathologie et de sémiologie reçus à la faculté de médecine et de notes personnelles prises au cours des divers stages effectués en milieu hospitalier. Je m'efforcerai de retranscrire fidèlement ces informations et resterai ouvert à toute correction, suggestion, ou proposition.
 
 Ce projet Hébergé sur Github s'ouvre également à toute forme de contribution...surtout la rédaction des articles. en gros vous pouvez contribuer à écrire un ou plusieurs des articles de ce site en respectant le style de plan simple adopté et le format de texte Markdown (Md), version kramdown GFM.
-Pour en savoir plus suivez ce lien:  
-​
+Pour en savoir plus suivez ce lien:
+
+<a href="{{ site.baseurl }}{% link about.markdown %}" class=""> A propos </a>
 
 Bonne visite !
 
-<div class="author" align="left">
+<div align=center style="margin-top:5%;">
+<a href="{{ site.baseurl }}{% link about.markdown %}" class="visit-btn"> visiter</a>
+</div>
 
-<img class="avatar" src="https://avatars.githubusercontent.com/u/35136136?s=400&u=8f223af54eee04fd9bf7c0d5d5a07801aba8a540&v=4" height="10%" width="10%" />
-  
+<div class="author" align="left">
+<img class="avatar" src="https://avatars.githubusercontent.com/u/35136136?s=400&u=8f223af54eee04fd9bf7c0d5d5a07801aba8a540&v=4" height="80px" width="80px" />
+
 <p class="bio"> 
 Nairolf32: <br>
-Auteur de ce site, étudiant en médecine à la faculté des sciences de la santé de Cotonou, passionné d'informatique, de nouvelles technologies, Gaming , néophyte en  web-design et bloggeur du dimanche.
+Auteur de ce site, étudiant en médecine à la FSS Cotonou, passionné d'informatique, Gamer , néophyte en  web-design, flemmard à plein temps et bloggeur du dimanche.
  </p>
 
 <style>
-.avatar{
-    border-radius:50%;
-    border: 3px black solid;
-}
-.author{ display:flex;}
-.bio{font-size: 0.8rem; margin-left:1%;}
+.avatar{border-radius:50%; border: 3px black solid;}
+.author{ display:flex; margin-top:20%}
+.bio{font-size: 0.9rem; margin-left:3%; margin-top:0;}
+.visit-btn{border-radius:30%; padding:1%; font-size: 1.5rem; border: 1px black solid; text-decoration: none; outline: none;  background: none; color: green;}
+.visit-btn:hover{text-decoration: none; background:green; color:white;}
 </style>
 </div>
