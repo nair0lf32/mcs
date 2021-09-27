@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Welcome to Jekyll!"
+author:
 date: 2021-09-09 17:27:53 +0100
 categories: jekyll update
 permalink: /exemple/
