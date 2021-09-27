@@ -3,7 +3,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
         #myInput {
-            background-image: url('/css/searchicon.png');
+            background-image: url('{{ /assets/images/icon-search.png?v= | append: site.github.build_revision | relative_url }}');
             /* Add a search icon to input */
             background-position: 10px 12px;
             /* Position the search icon */
