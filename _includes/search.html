@@ -3,26 +3,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
         #myInput {
-            background-image: url('{{ /assets/images/icon-search.png?v= | append: site.github.build_revision | relative_url }}');
+            background-image: url("{{ '/assets/images/icon-search.png?v=' | append: site.github.build_revision | relative_url }}");
             /* Add a search icon to input */
             background-position: 10px 12px;
-            /* Position the search icon */
             background-repeat: no-repeat;
-            /* Do not repeat the icon image */
-            width: 100%;
-            /* Full-width */
+            width: 75%;
             font-size: 16px;
-            /* Increase font-size */
             padding: 12px 20px 12px 40px;
-            /* Add some padding */
             border: 1px solid #ddd;
-            /* Add a grey border */
             margin-bottom: 12px;
-            /* Add some space below the input */
         }
 
         #myUL {
-            /* Remove default list styling */
             list-style-type: none;
             padding: 0;
             margin: 0;
@@ -30,40 +22,35 @@
 
         #myUL li a {
             border: 1px solid #ddd;
-            /* Add a border to all links */
             margin-top: -1px;
-            /* Prevent double borders */
             background-color: #f6f6f6;
-            /* Grey background color */
             padding: 12px;
-            /* Add some padding */
             text-decoration: none;
-            /* Remove default text underline */
             font-size: 18px;
-            /* Increase the font-size */
             color: black;
-            /* Add a black text color */
             display: block;
-            /* Make it into a block element to fill the whole list */
+
         }
 
         #myUL li a:hover:not(.header) {
             background-color: #eee;
-            /* Add a hover effect to all links, except for headers */
         }
     </style>
 
     <head>
 
     <body>
-        <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names..">
+        <input type="search" id="myInput" onkeyup="myFunction()" placeholder="Search for names..">
 
         <script>
             function myFunction() {
 
                 var input = document.getElementById('myInput'),
                     filter = input.value.toUpperCase(),
-                    li = document.querySelectorAll(".ul li");
+
+                    //TODO: fix the selection for better search results display
+                    li = document.querySelectorAll(".ul li, .ul");
+
 
                 // Loop through all list items, and hide those who don't match the search query
                 for (var i = 0; i < li.length; i++) {
@@ -75,6 +62,9 @@
                         li[i].style.display = "none";
                     }
                 }
+
+
+
             }
         </script>
 
