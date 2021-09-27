@@ -24,7 +24,7 @@ Pour en savoir plus suivez ce lien:
 Bonne visite !
 
 <div align=center style="margin-top:5%;">
-<a href="{{ site.baseurl }}{% link about.markdown %}" class="visit-btn"> visiter</a>
+<a href="{{ site.baseurl }}{% link cheatsheets.markdown %}" class="visit-btn"> visiter</a>
 </div>
 
 <div class="author" align="left">

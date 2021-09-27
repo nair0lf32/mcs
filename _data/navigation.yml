@@ -4,15 +4,12 @@
 - title: A Propos
   url: /about
 
-- title: Contact
-  url: /contact
-
 - title: Cheat Sheets
   url: /cheatsheets
 
   sublinks:
-    - title: Articles
-      url: /exemple
+    - title: Tous les articles
+      url: /cheatsheets
 
-    - title: Documentation
-      url: /documentation
+    - title: Rhumatologie
+      url: /rhumatologie
