@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: " fr" }}">
+
+<head>
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+        integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+    <link rel="stylesheet" href="{{ '/assets/css/style.scss?v=' | append: site.github.build_revision | relative_url }}">
+</head>
+
+<body>
+
+    <div>
+
+        {% assign author = site.data.authors[page.author] %}
+        <a rel="author" href="https://github.com/{{ author.github}}" title="{{ author.name }}">
+            {{ author.name }}
+        </a>
+
+
+
+        {% if author.image %}
+        <img src="{{author.image}}" class="author-img">
+        {% endif %}
+        <div>
+            <h3> {{author.name}} &nbsp;
+
+                {% if author.twitter %}
+                <a href="{{author.twitter}}" class="icon fa-twitter"><span class="label">Twitter</span></a>
+                {% endif %}
+            </h3>
+        </div>
+
+        {{ author.bio }}
+    </div>
+
+
+</body>
