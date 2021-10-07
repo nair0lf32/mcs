@@ -8,7 +8,7 @@
 </head>
 
 <body>
-
+    <h3>Auteur: </h3>
     <div>
 
         {% assign author = site.data.authors[page.author] %}
@@ -16,18 +16,18 @@
             {{ author.name }}
         </a>
 
+        <h3> {{author.name}} &nbsp;
 
+            {% if author.twitter %}
+            <a href="{{author.twitter}}" class="icon fa-twitter"><span class="label">Twitter</span></a>
+            {% endif %}
+        </h3>
 
         {% if author.image %}
         <img src="{{author.image}}" class="author-img">
         {% endif %}
         <div>
-            <h3> {{author.name}} &nbsp;
 
-                {% if author.twitter %}
-                <a href="{{author.twitter}}" class="icon fa-twitter"><span class="label">Twitter</span></a>
-                {% endif %}
-            </h3>
         </div>
 
         {{ author.bio }}
