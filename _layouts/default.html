@@ -77,20 +77,20 @@
 
     <main id="content" class="main-content" role="main">
         <div id="main">
+            {{ content }}
+
+
+        </div>
+        <footer class="site-footer">
+
             {% if page.date %}
             <p>publié le {{ page.date | date: "%d/%m/%Y, à %R" }} </p>
             {% endif %}
 
-
-            {{ content }}
-        </div>
-
-
-        <footer class="site-footer">
-
             {% if page.author %}
             {% include author_bio.html %}
             {% endif %}
+
 
 
             {% if site.github.is_project_page %}

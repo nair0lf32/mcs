@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 title: Medical Cheat Sheets
+author: nairolf32
 permalink: #No permalik for the index page
 ---
 
@@ -29,19 +30,8 @@ Bonne visite !
 <a href="{{ site.baseurl }}{% link cheatsheets.markdown %}" class="visit-btn"> visiter</a>
 </div>
 
-<div class="author" align="left">
-<img class="avatar" src="https://avatars.githubusercontent.com/u/35136136?s=400&u=8f223af54eee04fd9bf7c0d5d5a07801aba8a540&v=4" height="80px" width="80px" />
-
-<p class="bio"> 
-Nairolf32: <br>
-Auteur de ce site, étudiant en médecine à la FSS Cotonou, passionné d'informatique, Gamer , néophyte en  web-design, flemmard à plein temps et bloggeur du dimanche.
- </p>
-
 <style>
-.avatar{border-radius:50%; border: 3px black solid;}
-.author{ display:flex; margin-top:20%}
-.bio{font-size: 0.9rem; margin-left:3%; margin-top:0;}
 .visit-btn{border-radius:10%; padding:2%; font-size: 1.3rem; border: 0.5px black solid; text-decoration: none; outline: none;  background: none; color: green;}
 .visit-btn:hover{text-decoration: none; background:green; color:white;}
 </style>
-</div>
+

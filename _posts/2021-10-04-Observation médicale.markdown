@@ -22,9 +22,9 @@ Ici on raconte brièvement l'histoire de la maladie en partant du motif de consu
 4. ## Antécédents:
 
     1. ### Personnels:
-    
+
         1. #### Médicaux: 
-    Maladies chroniques du patient (Hypertension artérielle, dabète, asthme​, hémoglobinopathie, autres à préciser...)
+        Maladies chroniques du patient (Hypertension artérielle, dabète, asthme​, hémoglobinopathie, autres à préciser...)
 
         2. #### Chirurgicaux:
          le patient a t'il été déja opéré? quelle opération a t'il subi? pourquoi? quand?
@@ -32,7 +32,7 @@ Ici on raconte brièvement l'histoire de la maladie en partant du motif de consu
         3. #### Gynéco-obstétricaux: 
         Très importants s'il s'agit d'une patiente. on précise la date des dernières règles(ddr), la gestité (grossesses portées) et la parité (accouchements avec enfants vivants/fausses couches?) (GxPx). Si la patiente est ménopausée on le précise aussi et également si elle a une supplémentation hormonale ou non
 
-    2. ### Familiaux: 
+    2. ### Familiaux:
 
         1. #### Ascendants​: 
         Père et mère vivants en bonne santé apparente? décédés? de quoi? Pathologie à caractère héréditaire?

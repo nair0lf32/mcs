@@ -8,30 +8,80 @@
 </head>
 
 <body>
+    {% assign author = site.data.authors[page.author] %}
     <h3>Auteur: </h3>
-    <div>
+    <p> {{author.name}} </p>
 
-        {% assign author = site.data.authors[page.author] %}
-        <a rel="author" href="https://github.com/{{ author.github}}" title="{{ author.name }}">
-            {{ author.name }}
-        </a>
-
-        <h3> {{author.name}} &nbsp;
-
-            {% if author.twitter %}
-            <a href="{{author.twitter}}" class="icon fa-twitter"><span class="label">Twitter</span></a>
-            {% endif %}
-        </h3>
-
+    <div class="author">
         {% if author.image %}
-        <img src="{{author.image}}" class="author-img">
+        <img src="{{author.image}}" class="avatar" alt="avatar">&nbsp;
         {% endif %}
-        <div>
+        <div class="bio">
+            {% if author.bio %}
+            <p> {{ author.bio }}</p>
+            {% endif %}
+            <div class="icons">
+                {% if author.github %}
+                <a href="https://github.com/{{author.github}}">
+                    <img class="icon"
+                        src="{{ '/assets/images/github_icon.png?v=' | append: site.github.build_revision | relative_url }}"
+                        alt="github_icon"></a>
+                {% endif %}
 
+                {% if author.email %}
+                <a href="mailto:{{author.email}}">
+                    <img class="icon"
+                        src="{{ '/assets/images/mail_icon.png?v=' | append: site.github.build_revision | relative_url }}"
+                        alt="mail_icon"></a>
+                {% endif %}
+
+                {% if author.twitter %}
+                <a href="https://twitter.com/{{author.twitter}}">
+                    <img class="icon"
+                        src="{{ '/assets/images/twitter_icon.png?v=' | append: site.github.build_revision | relative_url }}"
+                        alt="twitter_icon"></a>
+                {% endif %}
+
+                {% if author.tel %}
+                <a href="https://wa.me/{{author.tel}}">
+                    <img class="icon"
+                        src="{{ '/assets/images/whatsapp_icon.png?v=' | append: site.github.build_revision | relative_url }}"
+                        alt="whatsapp_icon"></a>
+                {% endif %}
+            </div>
         </div>
-
-        {{ author.bio }}
     </div>
 
 
+
+
+    <style>
+        .author {
+            display: flex;
+            margin-bottom: 2%;
+        }
+
+        .avatar {
+            border-radius: 50%;
+            border: 3px black solid;
+            height: 80px;
+            width: 80px;
+        }
+
+        .icons {
+            display: flex;
+        }
+
+        .icon {
+            margin-left: 5px;
+            height: 30px;
+            width: 30px;
+        }
+
+        .bio {
+            display: block;
+            margin-left: 3%;
+            margin-top: 0;
+        }
+    </style>
 </body>
