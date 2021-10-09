@@ -4,7 +4,7 @@
 layout: default
 title: Medical Cheat Sheets
 author: nairolf32
-permalink: #No permalik for the index page
+permalink: #No permalink for the index page
 ---
 
 # Bienvenue:
