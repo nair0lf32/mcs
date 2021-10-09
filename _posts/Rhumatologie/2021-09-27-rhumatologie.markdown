@@ -13,4 +13,5 @@ permalink: /rhumatologie/
 {% if post.categories contains category %}
 <li> <a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
 {% endif %}
+
 {% endfor %}
