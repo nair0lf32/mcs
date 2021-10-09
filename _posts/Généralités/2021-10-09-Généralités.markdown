@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Rhumatologie
-date: 2021-09-09 17:27:53 +0100
-categories: Rhumatologie
-permalink: /rhumatologie/
+title: Généralités
+author: nairolf32
+date: 2021-10-09 12:10:00 +0100
+categories: Généralités
+permalink: /généralités/
 ---
 
 {% assign category = page.title %}
@@ -14,3 +15,5 @@ permalink: /rhumatologie/
 <li> <a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
 {% endif %}
 {% endfor %}
+
+
