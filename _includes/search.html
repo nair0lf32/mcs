@@ -29,42 +29,44 @@
             font-size: 18px;
             color: black;
             display: block;
-
         }
 
         #myUL li a:hover:not(.header) {
             background-color: #eee;
         }
+
+        .articles>h2:only-child {
+            display: none;
+        }
     </style>
 
     <head>
 
+
+
+
     <body>
-        <input type="search" id="myInput" onkeyup="myFunction()" placeholder="Search for names..">
+        <input type="search" id="myInput" onkeyup="searchFunction()" placeholder="Cherchez un article..">
 
         <script>
-            function myFunction() {
+            function searchFunction() {
 
                 var input = document.getElementById('myInput'),
                     filter = input.value.toUpperCase(),
 
                     //TODO: fix the selection for better search results display
-                    li = document.querySelectorAll(".ul li, .ul");
-
+                    li = document.querySelectorAll(".ul li");
 
                 // Loop through all list items, and hide those who don't match the search query
                 for (var i = 0; i < li.length; i++) {
                     var a = li[i].querySelector("a");
 
                     if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                        li[i].style.display = "";
+                        li[i].style.display = "block";
                     } else {
                         li[i].style.display = "none";
                     }
                 }
-
-
-
             }
         </script>
 
