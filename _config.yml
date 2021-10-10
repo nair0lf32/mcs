@@ -21,13 +21,12 @@
 title: Medical Cheat Sheets
 email: florianedem@gmail.com
 description: >
-  Un simple blog au sujet de diverses pathologies
-  (aka: un pense-bete médical)
+  Un simple blog pense-bête médical
 
 encoding: utf-8
 markdown: kramdown
 
-baseurl: "/MedicalCheatSheets" # the subpath of your site, e.g. /blog
+baseurl: "/MedicalCheatSheets/" # the subpath of your site, e.g. /blog
 url: "https://github.com/nair0lf32.io/MedicalCheatSheets/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FlorianEdemessi
 github_username: nair0lf32
@@ -37,6 +36,9 @@ plugins:
   - jekyll-feed
 
 destination: ./_site
+
+include:
+  - static
 
 # Exclude from processing.
 # The following items will not be processed, by default.
