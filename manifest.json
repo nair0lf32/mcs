@@ -2,8 +2,8 @@
     "theme_color": "#157878",
     "background_color": "#fff",
     "display": "standalone",
-    "scope": "/",
-    "start_url": "/",
+    "scope": "./",
+    "start_url": ".",
     "name": "Medical Cheat Sheets",
     "short_name": "MCS",
     "icons": [
