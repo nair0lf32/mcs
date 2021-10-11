@@ -10,7 +10,6 @@ source "https://rubygems.org"
 
 # gem "jekyll", "~> 4.2.0"
 gem "github-pages", "~> 219", group: :jekyll_plugins
-gem 'rake-jekyll', '~> 1.1'
 gem 'jekyll-paginate'
 gem 'kramdown'
 gem 'pygments.rb'
