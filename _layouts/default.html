@@ -7,9 +7,9 @@
 <head>
     <meta charset="UTF-8">
     <!-- PWA -->
-    <link rel="manifest" href="{{ '/manifest.webmanifest?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="manifest" href="{{ '/manifest.json?v=' | append: site.github.build_revision | relative_url }}" />
     <script type="text/javascript"
-        src="{{ '/assets/js/script.js?v=' | append: site.github.build_revision | relative_url }}"></script>
+        src="{{ '/assets/js/main.js?=' | append: site.github.build_revision | relative_url }}"></script>
 
     <!-- insert favicons by favicon generator-->
     <link rel="apple-touch-icon" sizes="180x180"
