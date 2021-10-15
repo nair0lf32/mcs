@@ -24,3 +24,7 @@ si par exemple vous souhaiter changer l'apparence du site via le layout default,
 Pour tout le monde à présent, comment contribuer? D'abord le plus simple. pour toute suggestion pour modifier
 par exemple l'apparence du site, ajouter ou retirer une fonctionalité, corriger une erreur ou améliorer le contenu d'un article, veuillez simplement contacter l'auteur principal du site (moi), ou l'auteur de l'article concerné s'il s'agit
 d'une erreur.  
+
+
+le markDown:
+[markdown GFM](https://guides.github.com/features/mastering-markdown/)
