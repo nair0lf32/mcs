@@ -31,6 +31,6 @@ Bonne visite !
 </div>
 
 <style>
-.visit-btn{border-radius:10%; padding:2%; font-size: 1.3rem; border: 0.5px black solid; text-decoration: none; outline: none;  background: none; color: green;}
+.visit-btn{border-radius:10%; padding:1%; font-size: 1.3rem; border: 0.5px black solid; text-decoration: none; outline: none;  background: none; color: green;}
 .visit-btn:hover{text-decoration: none; background:green; color:white;}
 </style>
