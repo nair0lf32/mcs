@@ -1,0 +1,200 @@
+---
+layout: default
+title: "Goutte"
+author: "nairolf32"
+date: 2021-11-16 16:57:00 +0100
+categories: Rhumatologie
+permalink: /goutte/
+---
+
+# Goutte:​​​
+
+Définition: Atteinte articulaire inflammatoire liée à une surcharge importante et prolongée de l'organisme en acide urique aboutissant à une hyperuricémie ( > 60mg/L chez la femme et > 70mg/L chez l'homme )
+
+Etiopathogénie:
+
+Terrain:
+
+L'enfant n'a pas de goutte avant l'age du coit​
+
+La femme ne l'a pas avant la ménopause
+
+Les eunuques ne sont ni chauves ni goutteux
+
+facteurs :
+
+plus fréquente chez l'homme que la femme, mais cette différe,ce s'atténue à l'age de la ménopause
+
+forme primitive: Sujet obèse, bon vivant, amateur de bonne chair et de bons vins
+
+mécanisme:
+
+Hyperuricémie: résultant soit d'une production excessive, soit un défaut d'élimination
+
+Précipitation: fortement liée à la chronicité de l'hyperuricémie, et des facteurs comme le PH sanguin et la température ambiante
+
+Diagnostic positif:​ (tdd = crise aigue de goutte au gros orteil)
+
+signes cliniques:
+
+Signes fonctionnels:
+
+Douleur: spontanée ou déclenchée par un/des facteur(s) (excès alimentaire ou alcoolique, consommation de certains aliments, traumatisme local, surmenage physique ou intellectuel, maladie intercurrente, traitement diurétique ou hypouricémiant...). Parfois prodromes (malaises,troubles digestifs, fourmillements, paresthésies...)
+
+La crise débute la nuit au niveau de l'articulation métatarso-phalangienne du gros orteil. Il s'agit d'un véritable coup de tonnerre dans un ciel serein. Le patient est réveillé par une douleur d'apparition brutale qui devient vite violente et mémorable. Le patient se rappelle la date plusieurs années plus tard. Elle est pulsatile, lancinante à type de broiement. Elle est exacerbée par le moindre frolement, meme le frottement du drap sur l'orteil est insuportable obligeant le malade à rester confiné au lit. L'impotence fontionnelle est absolue. Le siège au niveau du gros orteil rend le port de chaussure impossible. La crise dure toute la nuit et cède partiellement au petit matin (chant du coq), reste sourde dans la journée pour reprendre de plus belle la nuit suivante (le malade a la hantise de la nuit) sur une durée de 7 à 10 jours (douleur dizaine de chapelet). La fin de la crise est caractérisée par une sensation de bien-etre du patient (le malade a l'impression d'etre délivré). la fin de la crise est marquée par une desquamation cutanée en pelure d'oignon.
+
+signes généraux:​
+
+patient agité​
+
+fièvre ( souvent > 39°c) sans altération de l'état général
+
+Signes physiques:​
+
+inspection: articulation tuméfiée, peau tendue, luisante, dilatation veineuse, sueur​
+
+palapation: chaleur locale​
+
+mobilisation: impossible à cause de la douleur
+
+ponction articulaire: liquide infllammatoire
+
+signes paracliniques:​
+
+Biologie:​
+
+hémogramme (NFS): hyperleucocytose ( > 15000/mm3 ) à prédominace neutrophile​ (normale entre 5000 et 1000) une trombocytose ( > 400000/mm3) (normale entre 150000 et 300000)
+
+vitesse de sédimentation (VS): élevée, pouvant dépasser 100 mm à h1 (normale < 10)
+
+protéine c réactive (CRP): augmentée > 100mg/L voire 200 (normale < 6mg/L)
+
+dosage du taux d'acide urique (uricémie): > 70mg/L chez l'homme et > 60mg/L chez la femme. l'hyperuricémie est inconstante durant la crise et doit etre différée 3-4 jours après la crise
+
+anlyse du liquide de ponction: liquide trouble parfois purulent avec plus de 50000 éléments par mm3 et contenant des cristaux d'urate de sodium (fines aiguilles pointues aux deux extrémités, souvent à l'intérieur d'un polynucléaire qu'ils embrochent, fortement biréfringents en lumière polarisée. confirment le diagnostic). il n'y a pas de germe.
+
+Evolution:​
+
+surveillance:
+
+clinique: douleur par EVA, signes locaux de l'inflammation ( mal traitée: évolution vers la chronicité )
+
+paraclinique: NFS, VS, CRP, uricémie
+
+Formes cliniques:
+
+compliquée ( goutte chronique ):
+
+tophus/tophi: masses sous-cutanées indolores, de consistance ferme, de taille variable pouvant atteindre une "orange"​, d'abord mou puis ferme,en cas d'ulcération laisse soudre une bouillie crayeuse blanchatre. ils siègent aux mains, coudes, médiotarses, gros orteil, pavillon des oreilles..
+
+Lésions articulaires (arthropathie uratique): conséquences de la destruction articulaire, siégeant aux meme endroits que les tophi, tuméfaction et déformation régulière bosselée, douleurs à la mobilisation, raideur articualire. géodes à la radiographie articulaire avec des lacunes et des lésions pseudoarthrosiques en "hallebarde"
+
+atteinte rénale: lithiase rénale secondaire à une congrégation de cristaux dans les voies urinaires, colique néphrétique, échographie rénale et voies urinaires. On peut aussi avoir une insuffisance rénale secondaire à une lithiase obstructive avec retentissement sur le haut appareil urinaire et dépot d'urate de sodium dans le parenchyme rénal.
+
+topographiques:​
+
+autres articulations: cheville, genou, main, coude (monoarticulaire, oligoarticulaire, ou polyarticulaire) (prédomine à une articulation du membre inférieur)
+
+extra-articualires: ténosynovite (tendon et gaine), bursite (bourses séreuses)
+
+symptomatiques:
+
+forme suraigue,pseudo-phlegmoneuse: tableau fébrile et signes fluxionnaires locaux intenses
+
+goutte asthénique: phénomènes inflammatoires modérés , peu intenses et tableau peu caractérisque
+
+selon le terrain: ​
+
+sexe: maladie de l'homme, possible chez la femme ménopausée et secondaire chez la femme non-ménopausée..
+
+age: rares chez l'enfant, liées à un défict en HGPRT ( hypoxanthine-guanine-phospho-ribosyl-transférase ), maladie de LESCH NYHAN
+
+diagnostic différentiel:​
+
+arthrite septique (similitude clinique et biologique, porte d'entée, terrain favorisant, ponction articulaire+++)
+
+poussée congestive d'arthrose (pas de signes inflammatoires locaux, ni biologiques)
+
+choncrocalcinose articulaire (similitude clinique, femme agée++, liserés calciques à la radiographie des genous et des poignets soit une méniscocalcinose, la ponction articulaire montre des cristaux de pyrophosphate de calcium dihydratés avec une forme paralépipède)
+
+arthrite réactionelle
+
+rhumatisme psoriasique
+
+polyarthrite rhumatoide
+
+diagnostic étiologique: ​
+
+goutte primitive ou idiopathique​
+
+goutte secondaire:
+
+causes rénales:​ insuffisance rénale chronique, polykystose rénale, saturnisme (intoxication au plomb)
+
+causes hématologiques: leucémies, myélome, hémoglobinopathies
+
+causes endocriniennes: diabète sucré, hypothyroidie, hyperparathyroidie
+
+cause iatrogènes: aspirine à faible dose, diurétiques, betabloquants, antituberculeux (pyrazinamide et ethambutol)
+
+autres causes: psoriasis étendu, sarcoidose...
+
+goutte enzymopathique: liée à un déficit en HGPRT ( hypoxanthine-guanine-phospho-ribosyl-transférase ) ou maladie de LESH NYHAN ( forme complète avec retard mental encéphalopathie, automutilation, incompatible avec la vie )​
+
+Traitement: (curatif, séparé de la prévention pour un souci de lisibilité)
+
+buts: ​lutter contre l'inflammation,éviter les récidives et les complications...
+
+moyens:
+
+non médicamenteux: éducation thérapeutique, mesures hygiéno-diététiques(régime alimentaire pauvre en viande et alcool, perte de poids...)
+
+médicamenteux:
+
+antigouteux (symptomatique):
+
+colchicine 1mg oral 1 à 3cp/24h, ESI: diarrhée
+
+anti-inflammatoires non stéroidiens (AINS):
+
+diclofénac 50/75/100 mg oral 100 à 150 mg/24h en 3 prises (Les AINS sont toujours pris au milieu d'un repas, expliquer au patient) ESI: ulcère gastroduodénal, insufisance rénale..
+
+corticoides:
+
+prednisone 1,5,20mg oral ou injection locale ,ESI: dépendance par voie orale, préférer l'infiltration locale en absence formelle d'arthrite septique​
+
+Biothérapie: anticorps anti II-1​
+
+Hypouricémiants:
+
+Allopurinol 100,200,300mg, posologie de base 100mg​, ESi: intolérance rénale...
+
+Benzbromarone 100mg, 50 à 100mg sans dépasser 300mg/24h
+
+Febuxostat 80, 120mg, 1cp de 80mg/24h, si objectif non atteint passer à 120mg/24h
+
+chirurgicaux:
+
+exérèse de tophi
+
+réparation de lésion ostéoarticulaire
+
+indications:​
+
+crise aigue de goutte: colchicine 1mg 1cpx3/24h pendant 1 jour puis 1cpx2/24h les deux jours suivants, puis 1cp/24h, +/- diclofénac 50mg 1cpx3/24h + mesures hygiéno-diététiques ( pas d'hypouricémiant )
+
+goutte chronique: mesures hygiéno-diététiques + hypouricémiant + colchicine ou AINS
+
+surveillance: ​​
+
+maladie:
+
+clinique: douleur par l'EVA
+
+paraclinique: uricémie tous les 15 jours au début, puis tous les 3 mois si objectif atteint
+
+tolérance médicamenteuse: ​
+
+clinique: diarrhée (colchicine), prurit (allopurinol)​
+
+paraclinique: créatininémie+++ et transaminases
