@@ -1,0 +1,114 @@
+---
+layout: default
+title: "Arthrose"
+author: "nairolf32"
+date: 2021-11-16 16:33:53 +0100
+categories: Rhumatologie
+permalink: /arthrose/
+---
+
+# Arthrose:​​​
+
+Définition: Maladie de l'articulation caractérisée par une usure du cartilage articulaire
+
+Etiopathogénie:
+
+facteurs de ​risque:
+
+généraux:​ age ( > 50 ans ) , sexe ( prédominance féminine) , métaboliques (carences en vitamines C ou D , dyslipidémies...) , ménopause, obésité
+
+biomécaniques: Malformations (congénitales ou acquises ) , troubles statiques, traumatismes, pathologies méniscales ou méniscectomie, activités professionnelles et sportives, faiblesse musculaire....
+
+Ces facteurs de risque agissent sur le cartilage entrainant une inflammation locale (responsable de la douleur et de l'épanchement ) qui conduit progressivement à la dégradation du cartilage donc à l'arthrose.​
+
+classification:
+
+selon la localisation anatomique (coxarthrose, gonarthrose, omarthrose, arthrose de la main...)​
+
+La mise en évidence ou non d'un facteur causal
+
+arthrose primitive (idiopathique) ou secondaire (défaut structural sous-jacent)
+
+nombre d'articulations touchées (unifocale/localisée, multifocale, polyarthrose...)
+
+Diagnostic positif:​
+
+signes cliniques:
+
+Signes fonctionels:
+
+Douleur: Sujet de +40 ans avec une douleur progressive d'horaire mécanique, survenant à la marche, station debout prolongée, changements de position...soulagée par le repos, ne réveillant pas le patient la nuit.
+
+raideur: dans certaines positions, voire le matin au réveil avec dérouillage matinal rapide (quelques minutes)
+
+impotence fonctionelle: liée aux douleurs et à la raideur. index de Lequesne et womac.
+
+Signes physiques:​
+
+inspection: déformation, attitude viceuse, troubles statiques, boiterie d'esquive, steppage...
+
+palpation: douleur aux interlignes articulaires, majoration du trouble statique...​
+
+mensurations: recherche d'une amyotrophie...
+
+Mobilité: limitation des mouvements passifs, épanchement, instabilité articulaire, tester la force musculaire...
+
+Etat général non altéré , recharcher d'autres facteurs de comorbidité
+
+signes paracliniques:​
+
+Radiographie standard:​ (trépied radiologique de l'arthrose évoluée)
+
+pincement articulaire localisé​
+
+sclérose sous chondrale (condensation de l'os sous chondral) associée ou non à des géodes
+
+ostéophytose à la jonction os-cartilage
+
+biologie:​ absence de syndrome biologique inflammatoire
+
+Evolution:​
+
+type 1: ​érosion cartilagineuse lente + ostéophytose importante
+
+type 2: chonfrolyse avec poussées congestives et période de stabilité articulaire
+
+type 3: chondrolyse rapide avec absence d'ostéophytes le plus souvent. complication = arthropathie destructrice rapide.
+
+Diagnostic différentiel:​
+
+arthrite​ (devant la poussée congestive..)
+
+tendinite (ou une autre douleur projetée..)
+
+Diagnostic étiologique:
+
+Arthrose primitive​
+
+Arthrose secondaire
+
+Traitement: (curatif, séparé de la prévention pour un souci de lisibilité)
+
+buts: ​lutter contre la douleur et la raideur, éviter les complications...
+
+moyens:
+
+non médicamenteux: mesures hygiéno-diététiques, ménagement de l'articulation, activité de marche régulière, adapter l'activité professionelle...​
+
+médicamenteux:
+
+antalgiques: paracétamol (+/-dextropropoxyphène, caféine, codéine..), tramadol, morphiniques (selon l'intensité: palier 1 = 1-3, palier 2 =4-7, palier 3 = 8-10)
+
+anti-inflammatoires non stéroidiens (AINS): diclofénac, piroxicam, kétoprofène,ibuprofène, les coxibs... (Les AINS sont toujours pris au milieu d'un repas, expliquer au patient)
+
+chondroprotecteurs / anti-arthrosiques symptomatiques d'action lente (ASAAL): diacérhéine, insaponifiables d'avocats et de soja, chondoritine sulfate...
+
+traitement local: infiltration de corticoides (hexatrione, cortivazol, betaméthazone, methylprednisolone), injection d'acide hyaluronique, lavage articulaire
+
+chirurgicaux: ostéotomie (conservateur) , prothèses (radical)​
+
+prévention:​
+
+primaire: ​controle des facteurs de risque environementaux (lutter contre l'obésité, éviction des accidents sportifs, traitement précoce des traumatismes...)
+
+secondaire: chirurgie précoce de certaines dysplasies et troubles statiques
