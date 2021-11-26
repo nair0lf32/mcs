@@ -4,7 +4,7 @@ title: Urgences et Réanimation
 author: nairolf32
 date: 2021-11-26 14:45:00 +0100
 categories: Menu
-permalink: /urgences-réanimation/
+permalink: /urgences-reanimation/
 ---
 
 {% assign category = page.title %}
