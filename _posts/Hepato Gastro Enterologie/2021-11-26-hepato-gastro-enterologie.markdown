@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Hépato-gastro-entérologie
+title: Hépato-gastro-enterologie
 author: nairolf32
-date: 2021-11-26 14:10:00 +0100
+date: 2021-11-26 15:02:00 +0100
 categories: Menu
 permalink: /hepatogastroenterologie/
 ---
