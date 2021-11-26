@@ -38,8 +38,11 @@
     - title: Hématologie
       url: /hematologie
 
-    - title: Hépato-gastro-entérologie
-      url: /hepatogastroentérologie
-
     - title: Infectiologie
       url: /infectiologie
+
+    - title: MPR
+      url: /mpr
+
+    - title: Hépato-gastro-entérologie
+      url: /hepatogastroentérologie
