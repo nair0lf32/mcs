@@ -4,7 +4,7 @@ title: Hépato-gastro-entérologie
 author: nairolf32
 date: 2021-11-26 14:10:00 +0100
 categories: Menu
-permalink: /hge/
+permalink: /hepatogastroenterologie/
 ---
 
 {% assign category = page.title %}
