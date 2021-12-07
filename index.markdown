@@ -27,10 +27,10 @@ Pour en savoir plus suivez ce lien:
 Bonne visite !
 
 <div align=center style="margin-top:5%;">
-<a href="{{ site.baseurl }}{% link cheatsheets.markdown %}" class="visit-btn"> visiter</a>
+<a href="{{ site.baseurl }}{% link cheatsheets.markdown %}" class="visit-btn"> Articles</a>
 </div>
 
 <style>
-.visit-btn{border-radius:10%; padding:1%; font-size: 1.3rem; border: 0.5px black solid; text-decoration: none; outline: none;  background: none; color: green;}
+.visit-btn{border-radius:50%; padding:1%; font-size: 1.3rem; border: 2px black solid; text-decoration: none; outline: none;  background: none; color: green;}
 .visit-btn:hover{text-decoration: none; background:green; color:white;}
 </style>
