@@ -7,30 +7,160 @@ categories: Exemple
 permalink: /exemple/
 ---
 
-A REDIGER PLUS TARD **FLEMME***
+```
+Tout article doit comporter l'en-tete qui suit. copiez et collez le dans votre article.
+Si vous contribuez directement sur github inspirez vous des autres articles. S'il s'agit surtout de
+votre tout premier article, vous pouvez utiliser le modèle suivant. certaines infos ne sont pas obligatoires. Les 3 tirets qui encadrent l'en-tete sont obligatoires.
 
+---
+title: Exemple d'Article (le titre de l'article)
+author: nairolf32 (votre pseudo ou nom)
+name: votre nom complet (c'est facultatif')
+email: votre adresse email (facultatif si vous avez déja fourni un autre contact)
+github: votre github (facultatif)
+twitter: votre twitter (facultatif s'il y a déja un autre contact)
+tel: votre numéro de téléphone (facultatif si on peut vous joindre autrement))
+bio: votre bio, le texte qui s'affiche à coté de votre nom (c'est facultatif)
+image: un lien vers votre image de profil (c'est facultatif mais ça fait cool)
+date: 2021-09-09 17:27:53 +0100 (date et heure de publication)
+categories: Exemple (catégorie de votre article)
+---
 
+Il y a d'autres infos capitales commes le layout, le permalink, les tags qui seront
+ajoutées à votre article, mais si vous contribuez via github et que vous savez comment faire, vous pouvez les ajouter vous meme.
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+```
 
-Jekyll requires blog post files to be named according to the following format:
+# Titre de l'article / Nom de la pathologie
 
-`YEAR-MONTH-DAY-title.MARKUP`
+## Definition:
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Il est important de savoir de quoi l'on parle alors la défiition
+est quand meme capitale je pense.
 
-Jekyll also offers powerful support for code snippets:
+## Ethiopathogénie
 
-{% highlight ruby %}
-def print_hi(name)
-puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+```
+En fait ici cette sous-section vous pouvez la nommer comme vous voulez, mais si
+vous voulez parler des mécanismes physiopathologiques d'une maladie faites le en UNE SEULE section le plus brièement possible. Les articles de ce site ne sont pas des documents de recherche ou des articles scientifiques. ce sont
+juste de petits pense-bete donc le souci numéro un c'est d'etre concis.
+Il est possible et vivement recommandé d'utiliser de LIENS vers d'autres
+articles du site ou autres sources externes fiables. nous verrons plus tard comment
+mettre un lien en markdown, parce qu'il y en aura beaucoup
+```
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+- terrain / facteurs favorisants
+- mécanismes physiopathologiques
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+## Diagnostic positif
+
+```
+Vous pouvez encore mettre le sous-titre que vous voulez.
+Encore ici il faut donner les éléments clés du diagnostic. LISTEZ les signes et faites des liens vers
+des pages ou articles qui les décrivent plus amplement...si vous tenez absolument à décrire les signes faites le en une phrase.
+```
+
+### signes cliniques :
+
+#### signes fonctionnels :
+
+- signe 1
+- signe 2
+- signe 3
+
+#### signes généraux :
+
+- signe 1
+- signe 2
+- signe 3
+
+#### signes physiques:
+
+- inspecton: signe 1, signe 2, signe 3
+- palpation: signe 4, signe 5, signe 6
+- percussion: signe 7, signe 8, signe 9
+- auscultation: signe 10, signe 11, signe 12
+- mobilisation: signe 13, signe 14, signe 15
+
+### signes paracliniques:
+
+#### biologie:
+
+- examen1: résultat vs normale
+- examen2: résultat vs normale
+
+#### imagerie:
+
+- examen1: résultat vs normale
+- examen2: résultat vs normale
+
+```
+ici si vous avez des images il est fortement recommandé de les ajouter
+```
+
+#### complications possibles
+
+- complication 1
+- complication 2
+
+## Formes cliniques:
+
+```
+Ici vous pouvez détailler brièvement les formes cliniques de la maladie.
+classez les par catégories, listez les et citez les différences clés avec le type de description.
+```
+
+### topographiques
+
+- forme 1
+- forme 2
+
+### symptomatiques
+
+- forme 1
+- forme 2
+
+### selon le terrain
+
+- forme 1
+- forme 2
+
+## diagnostic différentiel
+
+- pathologie 1
+- pathologie 2
+
+```
+ici encore listez simplement. Il est vivement recommandé de faire des liens vers
+les articles qui décrivent les signes cliniques...sur ce site ou ailleurs
+```
+
+## traitement
+
+### buts:
+
+pourquoi pas?
+
+### moyens:
+
+- moyen 1
+- moyen 2
+- moyen 3
+
+### indications:
+
+- indication 1
+- indication 2
+- indication 3
+
+#### surveillance
+
+- De la maladie:
+
+  - clinique: signe 1, signe 2, signe 3
+  - paraclinique: signe 4, signe 5, signe 6
+
+- Du traitement:
+
+  - clinique: signe 7, signe 8, signe 9
+  - paraclinique: signe 10, signe 11, signe 12
