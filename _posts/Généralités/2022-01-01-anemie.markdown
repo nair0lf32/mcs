@@ -1,0 +1,104 @@
+---
+layout: default
+title: Anémie
+author: nairolf32
+date: 2022-01-01 17:42:00 +0100
+categories: Généralités
+permalink: /anemie/
+---
+
+# Anémie
+
+## Definition
+
+L'anémie est la diminution du taux d'hémoglobine circulante en dessous des valeurs physiologiques normales:
+
+- ♂ adulte: 12 - 17g/dL
+- ♀ adulte: 11,5 - 16g/dL
+- ♀ enceinte: ≥ 10g/dL
+- Nouveau-né: 14 - 19g/dL
+
+Il faut également tenir compte du volume plasmatique qui doit etre normal.
+
+En cas d'Hémodilution on peut avoir une fausse anémie ou une majoration de l'anémie (Grossesse, Waldenstrom, Cirrhose, Hypersplénisme)
+et en cas d'Hémoconcentration l'anémie peut etre masquée (Déshydratation).
+
+La conduite pratique à adopter face à une anémie est capitale à maitriser. La fréquence des anémies n'est plus à démontrer
+et l'erreur d'une supplémentation systématique en fer est trop courante et reste à éviter.
+
+## Ethiopathogénie
+
+Pour résumer les mécanismes de survenue de l'anémie, on peut classer princpalement:
+
+- L'Anémie centrale liée à un défaut de production de l'hémoglobine (le taux de reticulocytes est bas)
+- L'Anémie périphérique liée à une consommation excessive de l'hémoglobine (le taux de reticulocytes est normal/élevé)
+
+Les causes sot nombreuses et seron abordées plus bas.
+
+## Diagnostic positif
+
+Le diagnostic positif de l'anémie est paraclinique mais il existe des signes évocateurs
+
+### Signes cliniques
+
+#### Signes fonctionnels
+
+- signes cardiovasculaires (dyspnée,palpitations,lipothymie,douleur thoracique...)
+
+- signes neurosensoriels (acouphènes,vertiges,scotomes,céphalées...)
+
+#### Signes généraux
+
+- asthénie
+
+#### Signes physiques
+
+- Paleur : C'est le maitre symptome de l'anémie. S'il faut en retenir un c'est lui.
+
+Cette paleur (blancheur) cutanéo-muqueuse est évidente et se localise aux ongles, lèvres, muqueuses buccale, conjonctive occulaire +++
+
+Elle peut-etre masquée par un ictère, une cyanose ou se confondre avec un myxoedème, un vitiligo, une chlorose...
+
+On peut ensuite avoir d'autres signes indirects ou liés aux étiologies comme:
+
+- cheveux secs, ongles cassants
+- glossite
+- hyppocratisme digital...
+
+### Signes paracliniques
+
+#### Biologie
+
+Le diagnostic de l'anémie se fait à l'hémogramme ou anciennement, NFS (numératon formule sanguine)
+
+Les valeurs normales du taux d'hémoglobine ayant déja été données en définition voici les valeurs des autres paramètres:
+
+!["valeurs normales hémogramme"](/assets/posts-assets/hemogramme.jpg)
+
+## Diagnostic étiologique
+
+L'anémie n'est pas une pathologie mais un signe. Il importe donc d'en rechercher la cause et la traiter.
+
+Essentiellement trois situations peuvent être observées en observant le volume globulaire moyen (VGM):
+
+VGM = Hte / GR x 10 (normale entre 80-90 femtolitre (fL) )
+
+- macrocytose
+- normocytose
+- microcytose
+
+Par ailleurs on peut également apprécier la chromie
+
+CCMH = Hb / Hte X 100 32-36 % normochromie
+
+TGMH = Hb / GR 25-32 pg hypochromie
+
+Ensuite l'origine centrale ou périphérique de l'anémie est définie par le taux de reticulocytes.
+
+Réticulocytes (normale 20-80 G/L, considérer 120 G/L si anémie présente)
+
+- Régénérative (cause périphérique)
+
+- Arégénérative (cause centrale)
+
+### Anémie microcytaire
