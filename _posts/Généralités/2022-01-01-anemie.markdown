@@ -73,7 +73,7 @@ Le diagnostic de l'anémie se fait à l'hémogramme ou anciennement, NFS (numér
 
 Les valeurs normales du taux d'hémoglobine ayant déja été données en définition voici les valeurs des autres paramètres:
 
-!["valeurs normales hémogramme"](/assets/posts-assets/hemogramme.jpg)
+<img src="{{ '/assets/posts-assets/hemogramme.jpg?v=' | append: site.github.build_revision | relative_url }}" alt="Valeurs normales nfs" width=600 />
 
 ## Diagnostic étiologique
 
@@ -101,4 +101,8 @@ Réticulocytes (normale 20-80 G/L, considérer 120 G/L si anémie présente)
 
 - Arégénérative (cause centrale)
 
-### Anémie microcytaire
+Pour garder cet article court et simple nous ne détaillerons pas ici la démarche étiologique et le traitement (qui lui meme dépend de l'étiologie)
+
+D'autres articles seront écrits pour détailler les trois situations, mais nous finirons par un schéma global pour illustrer la démarche à adopter
+
+<img src="{{ '/assets/posts-assets/anemie.jpg?v=' | append: site.github.build_revision | relative_url }}" alt="Valeurs normales nfs"  />
