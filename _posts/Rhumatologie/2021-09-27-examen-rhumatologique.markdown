@@ -90,7 +90,7 @@ la flexion est réalisée en demandant au malade de faire le gros dos et on rech
 
 C'est le premier examen somatique qui accompagne l'examen du rachis. Il est orienté selon les signes fonctionnels et recherche un déficit moteur/sensitif, un syndrome pyramidal, un syndrome radiculaire (dans les lombosciatiques+++)...Le reste de l'examen somatique est complété en cas de radiculagies par plusieurs manoeuvres détaillées dans la sémiologie des radiculagies. On conclut l'examen du rachis par une étoile de Maigne:
 
-![Maigne](/assets/posts-assets/Étoile_de_Maigne.webp)​
+<img src="{{ '/assets/posts-assets/etoile-maigne.webp?v=' | append: site.github.build_revision | relative_url }}" alt="Etoile de maigne"/>
 
 F: flexion antérieure
 
