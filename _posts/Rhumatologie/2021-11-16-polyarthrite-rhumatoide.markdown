@@ -7,29 +7,31 @@ categories: Rhumatologie
 permalink: /polyarthriterhumatoide/
 ---
 
-Polyarthrite Rhumatoide (PR):​​​
+# Polyarthrite Rhumatoide (PR):​​​
 
-Définition: Maladie autoimmune systémique caractérisée par une atteinte polyarticulaire, de topographie bilatérale et symmétrique, à tendance extensive déformative et érosive.
+## Définition:
 
-Etiopathogénie:
+Maladie autoimmune systémique caractérisée par une atteinte polyarticulaire, de topographie bilatérale et symmétrique, à tendance extensive déformative et érosive.
 
-Terrain:
+## Etiopathogénie:
 
-Femme +++ ( 4-5 femmes pour 1 homme)
+### Terrain:
 
-prédomine entre 30 et 45 ans
+- Femme +++ ( 4-5 femmes pour 1 homme)
 
-facteurs :
+- prédomine entre 30 et 45 ans
 
-génétiques: antigènes d'histocompatibilité de classe II (HLA-DR1-DR4) épitope partagé
+### facteurs :
 
-environnementaux: virus EBV (epstein barr-virus), mycobactéries, tabac
+- génétiques: antigènes d'histocompatibilité de classe II (HLA-DR1-DR4) épitope partagé
 
-hormonaux
+- environnementaux: virus EBV (epstein barr-virus), mycobactéries, tabac
 
-immunologiques
+- hormonaux
 
-mécanisme: ​
+- immunologiques
+
+### mécanisme: ​
 
 sous l'influence des facteurs, une cellule présentatrice d'antigène (CPA) active un lymphocytes T et B (LT et LB) qui secrètent les cytokines activant les macrophages​
 
@@ -37,268 +39,279 @@ les macrophages secrètent les cytokines pro-inflammatoires (TNF, IL1, IL6..), d
 
 ces différentes substances agissent sur la synoviale, le cartilage, l'os et les viscères
 
-Diagnostic positif:​ (tdd = polyarthrite rhumatoide de la jeune femme à la phase de début)
+## Diagnostic positif:​
 
-signes cliniques:
+(tdd = polyarthrite rhumatoide de la jeune femme à la phase de début)
 
-Signes fonctionnels:
+### signes cliniques:
 
-Douleur: inflammatoire, permanente avec épisodes de recrudescence nocturne, siégeant préférentiellement aux articulations du membre supérieur (poignet, métacarpo-phalangiennes, interphalangiennes proximales des doigts 2 et 3, épargnant les articulations interphalangiennes distales)
+#### Signes fonctionnels:
 
-raideur matinale prolongée ( au moins une heure), soit un dérouillage matinal long
+- Douleur: inflammatoire, permanente avec épisodes de recrudescence nocturne, siégeant préférentiellement aux articulations du membre supérieur (poignet, métacarpo-phalangiennes, interphalangiennes proximales des doigts 2 et 3, épargnant les articulations interphalangiennes distales)
 
-Signes physiques:​​
+- raideur matinale prolongée ( au moins une heure), soit un dérouillage matinal long
 
-signes inflammatoire locaux aux articulations concernées ( tuméfaction, douleur, rougeur, chaleur locale)​
+#### Signes physiques:​​
 
-polyarthrite (atteinte inflammatoire de plus de 3 articulations), bilatérale, symmétrique (articulations homonymes touchées avec la meme intensité), souvent nue (ne s'accompagne pas de signes généraux)
+- signes inflammatoire locaux aux articulations concernées ( tuméfaction, douleur, rougeur, chaleur locale)​
 
-Etat général conservé (parfois fébricule à 38°C)
+- polyarthrite (atteinte inflammatoire de plus de 3 articulations), bilatérale, symmétrique (articulations homonymes touchées avec la meme intensité), souvent nue (ne s'accompagne pas de signes généraux)
 
-signes paracliniques:​
+- Etat général conservé (parfois fébricule à 38°C)
 
-Biologie:​
+### signes paracliniques:​
 
-hémogramme (NFS): hyperleucocytose ( > 10000/mm3 ) à prédominace neutrophile​, anémie modérée à 10-11 g/dL de type inflammatoire
+#### Biologie:​
 
-vitesse de sédimentation (VS): élevée > 10mm à h1)
+- hémogramme (NFS): hyperleucocytose ( > 10000/mm3 ) à prédominace neutrophile​, anémie modérée à 10-11 g/dL de type inflammatoire
 
-protéine c réactive (CRP): augmentée > 6mg/L)
+- vitesse de sédimentation (VS): élevée > 10mm à h1)
 
-recherche des facteurs rhumatoides (techniques d'agglutination waaler Rose+++, ELIZA): à la phase de début souvent négative et les facteurs rhumatoides sont parfois retrouvés chez les sujets sains et dans d'autres maladies
+- protéine c réactive (CRP): augmentée > 6mg/L)
 
-recherche des anticorps anti peptides citrullinés ( anti-CCP2): bonne spécificité à 98% mais retrouvés dans 40-60% des polyarthrites rhumatoides
+- recherche des facteurs rhumatoides (techniques d'agglutination waaler Rose+++, ELIZA): à la phase de début souvent négative et les facteurs rhumatoides sont parfois retrouvés chez les sujets sains et dans d'autres maladies
 
-si PR du genou, la ponction ramène un liquide inflammatoire sans germe ni cristaux
+- recherche des anticorps anti peptides citrullinés ( anti-CCP2): bonne spécificité à 98% mais retrouvés dans 40-60% des polyarthrites rhumatoides
 
-Imagerie:​
+- si PR du genou, la ponction ramène un liquide inflammatoire sans germe ni cristaux
 
-Radiographie des mains prenant les poignets de face:​
+#### Imagerie:​
 
-déminéralisation épiphysaire en bande​
+- Radiographie des mains prenant les poignets de face:​
 
-Radiographie des avant-pieds:​
+  - déminéralisation épiphysaire en bande​
 
-érosion asymptomatique de la tete du 5e métatarsien ( signe de Braun)​
+- Radiographie des avant-pieds:​
 
-Echographie/IRM: ​
+  - érosion asymptomatique de la tete du 5e métatarsien ( signe de Braun)​
 
-lésions précliniques​
+- Echographie/IRM: ​
 
-Evolution:​
+  - lésions précliniques​
 
-surveillance:
+### Evolution:​
 
-clinique: douleur par EVA, NAD, NAG
+#### surveillance:
 
-paraclinique: NFS, VS, CRP, uricémie
+- clinique: douleur par EVA, NAD, NAG
 
-indice c composite: DAS28
+- paraclinique: NFS, VS, CRP, uricémie
 
-Formes cliniques:
+- indice c composite: DAS28
 
-Evolutive( PR à la phase d'état ):
+## Formes cliniques:
 
-​main rhumatoide ( déformation des mains et doigts):
+- Evolutive ( PR à la phase d'état ):
 
-coup de vent radial/ulnaire​
+  - main rhumatoide ( déformation des mains et doigts):
 
-déformation de la main en dos de chameau
+    - coup de vent radial/ulnaire​
 
-doigt en boutonnière
+    - déformation de la main en dos de chameau
 
-doit en col de cygne
+    - doigt en boutonnière
 
-doigt en maillet
+    - doigt en col de cygne
 
-pouce en Z
+    - doigt en maillet
 
-déformations des pieds:​
+    - pouce en Z
 
-avant-pied triangulaire​
+  - déformations des pieds:​
 
-coup de vent fibulaire
+    - avant-pied triangulaire​
 
-pied plat
+    - coup de vent fibulaire
 
-orteil en griffe
+    - pied plat
 
-pied valgus
+    - orteil en griffe
 
-extension topographique: atteinte possible de toutes les articulations, épaules, coudes, genoux, hanches (coxite rhumatoide, grave), rachis cervical​ (risque de luxation atloido-axoidienne: sur une radiographie de profil en flexion/extension forcée on retrouve un espace > 5cm entre l'arc antérieur et le processus odontoide. Risque de mort subite par compressiondu bulbe rachidien )
+    - pied valgus
 
-facteurs rhumatoides et anti-CCP2 souvent positifs
+  - extension topographique: atteinte possible de toutes les articulations, épaules, coudes, genoux, hanches (coxite rhumatoide, grave), rachis cervical​ (risque de luxation atloido-axoidienne: sur une radiographie de profil en flexion/extension forcée on retrouve un espace > 5cm entre l'arc antérieur et le processus odontoide. Risque de mort subite par compressiondu bulbe rachidien )
 
-signes radiologiques:
+  - facteurs rhumatoides et anti-CCP2 souvent positifs
 
-déminéralisation métaphyso-diaphysaire​
+  - signes radiologiques:
 
-érosions épiphysaires
+    - déminéralisation métaphyso-diaphysaire​
 
-pincement de l'interligne articulaire
+    - érosions épiphysaires
 
-géodes sous chondrales
+    - pincement de l'interligne articulaire
 
-carpite fusionnante
+    - géodes sous chondrales
 
-topographiques:​
+    - carpite fusionnante
 
-formes oligo-articulaires: 2-3 articulations, surtout au début
+- topographiques:​
 
-forme mono-articualire: genou +++
+  - formes oligo-articulaires: 2-3 articulations, surtout au début
 
-formes extra-articulaires: ténosynovites, tendinites, nodules sous-cutanés
+  - forme mono-articualire: genou +++
 
-symptomatiques:
+  - formes extra-articulaires: ténosynovites, tendinites, nodules sous-cutanés
 
-Altération de l'état général
+- symptomatiques:
 
-atteinte pulmonaire: toux, dyspnée, parfois hémoptysie, radographie pulmonaire montre une fibrose pulmonaire, une pneumopathie interstitielle diffuse, syndrome de caplan-collinet ( PR + silicose pulmonaire )
+  - Altération de l'état général
 
-atteinte hématologique: anémie modérée +/- adénopathies, splénomégalie, leuconeutropénie (syndrome de Felty)
+  - atteinte pulmonaire: toux, dyspnée, parfois hémoptysie, radographie pulmonaire montre une fibrose pulmonaire, une pneumopathie interstitielle diffuse, syndrome de caplan-collinet ( PR + silicose pulmonaire )
 
-atteinte cardiaque: péricardite symptomatique (2% des cas)
+  - atteinte hématologique: anémie modérée +/- adénopathies, splénomégalie, leuconeutropénie (syndrome de Felty)
 
-syndrome de Gougerot-sjogren: sécheresse buccale, occulaire, secondaire à la PR
+  - atteinte cardiaque: péricardite symptomatique (2% des cas)
 
-Formes particulièrement sévères:
+  - syndrome de Gougerot-sjogren: sécheresse buccale, occulaire, secondaire à la PR
 
-atteinte d'emblée polyarticulaire​
+- Formes particulièrement sévères:
 
-HLA-DR1 ou DR4
+  - atteinte d'emblée polyarticulaire​
 
-VS et CRP très élevées
+  - HLA-DR1 ou DR4
 
-Facteur rhumatoide et anti-CCP2 très élevés
+  - VS et CRP très élevées
 
-lésions radiologiques très précoces
+  - Facteur rhumatoide et anti-CCP2 très élevés
 
-Formes particulièrement bénignes:​
+  - lésions radiologiques très précoces
 
-oligo/monoarthrite​
+- Formes particulièrement bénignes:​
 
-discret syndrome inflammatoire biologique
+  - oligo/monoarthrite​
 
-Facteur rhumatoide et anti-CCP2 peu élevés
+  - discret syndrome inflammatoire biologique
 
-absence de lésions radiologiques
+  - Facteur rhumatoide et anti-CCP2 peu élevés
 
-selon le terrain: ​
+  - absence de lésions radiologiques
 
-homme: pas de particularité clinique mais semble moins sévère
+- selon le terrain: ​
 
-Enfant: altération de l'état général marquée avec des signes généraux au début
+  - homme: pas de particularité clinique mais semble moins sévère
 
-personne agée: polyarthrite oedémateuse peu érosive
+  - Enfant: altération de l'état général marquée avec des signes généraux au début
 
-rémission de la PR sur certains terrains: ictère, hémiplégie, grossesse
+  - personne agée: polyarthrite oedémateuse peu érosive
 
-critère diagnostiques:​
+  - rémission de la PR sur certains terrains: ictère, hémiplégie, grossesse
+
+## critère diagnostiques:​
 
 ACR 1987 (collège américain de rhumatologie):​​​ 4 critères au moins
 
-raideur articulaire​
+- raideur articulaire​
 
-arthrite au moins 3 articulations
+- arthrite au moins 3 articulations
 
-arthrite touchant la main
+- arthrite touchant la main
 
-arthrite symmétrique
+- arthrite symmétrique
 
-nodules rhumatoides
+- nodules rhumatoides
 
-facteur rhumatoide
+- facteur rhumatoide
 
-lésions radiographiques​​
+- lésions radiographiques​​
 
-diagnostic différentiel:​
+## diagnostic différentiel:​
 
-polyarthrite septique:
+- [polyarthrite septique]({{ site.baseurl }}{% link _posts/Rhumatologie/2021-11-26-arthrite-infectieuse.markdown %})
 
-​virale: hépatite B ou C (transaminases, recherche de l'antigène Hbs et anticorps anti VHC), VIH (sérologie rétrovirale)​
+  - virale: hépatite B ou C (transaminases, recherche de l'antigène Hbs et anticorps anti VHC), VIH (sérologie rétrovirale)​
 
-bactérienne: fièvre, frissons, hémocultures positives, ponction articulaire purulente et isolant un germe (staphylocoque +++)
+  - bactérienne: fièvre, frissons, hémocultures positives, ponction articulaire purulente et isolant un germe (staphylocoque +++)
 
-Rhumatisme psoriasique (RP): oligoartrite siégeant aux membres inférieurs,présence/antécédents de psoriasis, répartition asymétrique et dissociée des atteintes articulaires, absence des anticoprs anti-CCP2
+- [rhumatisme psoariasique]({{ site.baseurl }}{% link _posts/Rhumatologie/2021-11-26-spondylarthrites.markdown %}) (RP): oligoartrite siégeant aux membres inférieurs,présence/antécédents de psoriasis, répartition asymétrique et dissociée des atteintes articulaires, absence des anticoprs anti-CCP2
 
-Lupus érithémateux systémique: atteinte systémique plus marquée avec lésions dermatologiques ( érythème malaire), polyarthrite souvent bilatérale, symétrique, déformante (main de Jaccoud) mais non érosive, présence d'anticorps anti-DNA natifs)
+- Lupus érithémateux systémique: atteinte systémique plus marquée avec lésions dermatologiques ( érythème malaire), polyarthrite souvent bilatérale, symétrique, déformante (main de Jaccoud) mais non érosive, présence d'anticorps anti-DNA natifs)
 
-goutte polyarticulaire
+- [goutte polyarticulaire]({{ site.baseurl }}{% link _posts/Rhumatologie/2021-11-16-goutte.markdown %})
 
-arthrose digitale
+- [arthrose ]({{ site.baseurl }}{% link _posts/Rhumatologie/2021-11-16-arthrose.markdown %}) digitale
 
-arthrite réactionelle: manifestations extra-articulaires (diarrhée, conjonctivite, uréthrite ou vulvo-vaginite) sur terrain de VIH +++
+- [arthrite réactionelle]({{ site.baseurl }}{% link _posts/Rhumatologie/2021-11-26-spondylarthrites.markdown %}): manifestations extra-articulaires (diarrhée, conjonctivite, uréthrite ou vulvo-vaginite) sur terrain de VIH +++
 
-Traitement: (curatif, séparé de la prévention pour un souci de lisibilité)
+## Traitement:
 
-buts: ​calmer la douleur,bloquer ou réduire l'activité auto-immune, prévenir le handicap fonctionnel
+(curatif, séparé de la prévention pour un souci de lisibilité)
 
-moyens:
+### buts: ​
 
-non médicamenteux: éducation thérapeutique (fondamentale, porte sur l'évolution de la maladie, les possibilités thérapeutiques, effets secondaires...), repos (uniquement en cas de poussée inflammatoire)
+calmer la douleur,bloquer ou réduire l'activité auto-immune, prévenir le handicap fonctionnel
 
-médicamenteux:​​
+### moyens:
 
-symptomatique:
+#### non médicamenteux:
 
-antalgiques palier 1 ou associations palier 2 (symptomatique):
+- éducation thérapeutique (fondamentale, porte sur l'évolution de la maladie, les possibilités thérapeutiques, effets secondaires...)
+- repos (uniquement en cas de poussée inflammatoire)
 
-paracétamol 2-4g/24h, ou associé avec la caféine, la codeine
+#### médicamenteux:​​
 
-tramadol 150-300mg/24h en 2 ou 3 prises
+##### symptomatique:
 
-le recours aux morphiniques est exceptionnel
+- antalgiques palier 1 ou associations palier 2 (symptomatique):
 
-anti-inflammatoires non stéroidiens (AINS) et coxibs:
+  - paracétamol 2-4g/24h, ou associé avec la caféine, la codeine
 
-diclofénac 150 mg/24h en 3 prises
+  - tramadol 150-300mg/24h en 2 ou 3 prises
 
-kétoprofène 150-300mg/24h en 2 ou 3 prises
+  - le recours aux morphiniques est exceptionnel
 
-célécoxib 200 à 400mg/24h en 2 prises (Les AINS sont toujours pris au milieu d'un repas, expliquer au patient) ESI: ulcère gastroduodénal, insufisance rénale..
+- anti-inflammatoires non stéroidiens (AINS) et coxibs:
 
-corticoides: en alternative ou complément des autres traitements de PR active invalidante insuffisement calmée par les anti-inflammatoires. posologie < 10mg/24h d'équivalent prednisone de l'ordre de 5 à 7 mg. fortes doses en bolus cortisoniques (500mg à 1g de méthylprednisone par 24h, 1 à 3 jours de suite) peuvent servir en cas de poussées sévères
+  - diclofénac 150 mg/24h en 3 prises
 
-​traitements locaux: lorsqu'une ou deux articulations restent actives et inflammatoire malgré un triatement général globalement efficace
+  - kétoprofène 150-300mg/24h en 2 ou 3 prises
 
-infiltrations cortisoniques: corticoide retard (surtout pour les grosses articulations)​
+  - célécoxib 200 à 400mg/24h en 2 prises (Les AINS sont toujours pris au milieu d'un repas, expliquer au patient) ESI: ulcère gastroduodénal, insufisance rénale..
 
-synoviorthèses
+- corticoides: en alternative ou complément des autres traitements de PR active invalidante insuffisement calmée par les anti-inflammatoires. posologie < 10mg/24h d'équivalent prednisone de l'ordre de 5 à 7 mg. fortes doses en bolus cortisoniques (500mg à 1g de méthylprednisone par 24h, 1 à 3 jours de suite) peuvent servir en cas de poussées sévères
 
-Traitement de fond:​ (pleinement efficaces après plusieurs semaines)
+- traitements locaux: lorsqu'une ou deux articulations restent actives et inflammatoire malgré un triatement général globalement efficace
 
-méthotrexate (novatrex): oral, intramusculaire ou sous-cutané, 7,5 à 25mg/semaine​, associer avec de l'acide folique à petite dose (ESI éventuels)
+  - infiltrations cortisoniques: corticoide retard (surtout pour les grosses articulations)​
 
-léflunomide (arava): 20mg/24h, ESI = digestifs, hépatiques et HTA
+  - synoviorthèses
 
-sulfasalazine (salazopyrine): dose progressive 500mg à 2g par 24h par pallier de 500mg
+##### Traitement de fond:​
 
-hydrochloroquine (plaquenil): antimalarique
+(pleinement efficaces après plusieurs semaines)
 
-sels d'or (chrysothérapie): rarement utilisée
+- méthotrexate (novatrex): oral, intramusculaire ou sous-cutané, 7,5 à 25mg/semaine​, associer avec de l'acide folique à petite dose (ESI éventuels)
 
-trovolol (D-pénicillamine)
+- léflunomide (arava): 20mg/24h, ESI = digestifs, hépatiques et HTA
 
-ciclosporine (neoral)
+- sulfasalazine (salazopyrine): dose progressive 500mg à 2g par 24h par pallier de 500mg
 
-autres immunosupreseurs (cyclophosphamide, azathiopyrine)
+- hydrochloroquine (plaquenil): antimalarique
 
-Biothérapie: anticorps anti IL-1​ (anakinra), anti-TNF (infliximab, etanercept), anti-IL6 (tociluzimab), anti-CD20 (ritiximab), anti-TLB, anti-JAk
+- sels d'or (chrysothérapie): rarement utilisée
 
-chirurgicaux:
+- trovolol (D-pénicillamine)
 
-synovectomie (arthroscopique ou chirurgicale)
+- ciclosporine (neoral)
 
-arthroplastie (totale++) de la hanche, genou, épaule..
+- autres immunosupreseurs (cyclophosphamide, azathiopyrine)
 
-arthrodèse (arthroscopique ou cirurgicale)
+- Biothérapie: anticorps anti IL-1​ (anakinra), anti-TNF (infliximab, etanercept), anti-IL6 (tociluzimab), anti-CD20 (ritiximab), anti-TLB, anti-JAk
 
-orthèses d'ergothérapie
+#### chirurgicaux et autres:
 
-physiothérapie et rééducation
+- synovectomie (arthroscopique ou chirurgicale)
 
-indications:​
+- arthroplastie (totale++) de la hanche, genou, épaule..
 
-PR active sans signe de gravité: methotrexate/ léflunomide/sulfasalazine + traitement symptomatique
+- arthrodèse (arthroscopique ou cirurgicale)
 
-PR active sévère d'emblée: association méthotrexate+biothérapie +traitement symptomatique
+- orthèses d'ergothérapie
+
+- physiothérapie et rééducation
+
+### indications:​
+
+- PR active sans signe de gravité: methotrexate/ léflunomide/sulfasalazine + traitement symptomatique
+
+- PR active sévère d'emblée: association méthotrexate+biothérapie +traitement symptomatique
