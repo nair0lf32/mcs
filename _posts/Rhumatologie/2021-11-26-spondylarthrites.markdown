@@ -8,383 +8,391 @@ permalink: /spondylarhrites/
 ---
 
 # Spondylarthrites:
-Définition: Les spondylarthrites ou spondylarthropathies (spa) regroupent plusieurs rhumatismes inflammatoires ayant en commun: (06)
 
-un syndrome pelvi-rachidien​
+## Définition:
 
-un syndrome articulaire périphérique
+Les spondylarthrites ou spondylarthropathies (spa) regroupent plusieurs rhumatismes inflammatoires ayant en commun: (06)
 
-un syndrome enthésopathique
+- un syndrome pelvi-rachidien​
 
-un terrain génétique lié au gène HLA B27
+- un syndrome articulaire périphérique
 
-des signes extra-articulaires (occulaires, cutanéo-muqueux, urogénital, digestif..)
+- un syndrome enthésopathique
 
-une bonne sensibilité aux AINS
+- un terrain génétique lié au gène HLA B27
+
+- des signes extra-articulaires (occulaires, cutanéo-muqueux, urogénital, digestif..)
+
+- une bonne sensibilité aux AINS
 
 les différentes SPA:​ (07)
 
-La spondylarthrite ankylosante​ (pelvispondylite rhumatismale)
+- La spondylarthrite ankylosante​ (pelvispondylite rhumatismale)
 
-Les arthrites réactionnelles
+- Les arthrites réactionnelles
 
-Le rhumatisme psoriasique
+- Le rhumatisme psoriasique
 
-Le rhumatisme axial des entérocolopathies
+- Le rhumatisme axial des entérocolopathies
 
-les SPA juvéniles
+- les SPA juvéniles
 
-Le syndrome SAPHO (synovite-acné-pustulose-hyperostose-osteite)
+- Le syndrome SAPHO (synovite-acné-pustulose-hyperostose-osteite)
 
-Les SPA indifférenciées
+- Les SPA indifférenciées
 
-Etiopathogénie:​​
+## Etiopathogénie:​​
 
-terrain / facteurs : 
+### terrain / facteurs :
 
-génétiques: déterminant, avec antigène HLA-B27 présent chez 90% des patients de spondylarthrite ankylosante
+- génétiques: déterminant, avec antigène HLA-B27 présent chez 90% des patients de spondylarthrite ankylosante
 
-environnementaux: particulièrement évident dans les arthrites réactionelles (Chlamydia trachomatis, Yersinia enterolitica, Salmonella enteridis, Shigella flexneri), dans la spondylarthite ankylosante (Klebsiella pneumoniae), dans les entérocolopathies inflammatoires (enterobacteries), dans le psoriasis (streptocoques cutanés) , et dans le syndrome SAPHO (Propionibacterium acnes).
+- environnementaux: particulièrement évident dans les arthrites réactionelles (Chlamydia trachomatis, Yersinia enterolitica, Salmonella enteridis, Shigella flexneri), dans la spondylarthite ankylosante (Klebsiella pneumoniae), dans les entérocolopathies inflammatoires (enterobacteries), dans le psoriasis (streptocoques cutanés) , et dans le syndrome SAPHO (Propionibacterium acnes).
 
-mécanisme:  ​
+### mécanisme: ​
 
-L'enthèse: zone d'ancrage des ligaments. L'enthésopathie inflammatoire évolue en trois phases:
+- L'enthèse: zone d'ancrage des ligaments. L'enthésopathie inflammatoire évolue en trois phases:
 
-phase inflammatoire initiale: érosions osseuses​
+- phase inflammatoire initiale: érosions osseuses​
 
-phase de fibrose cicatricielle
+- phase de fibrose cicatricielle
 
-phase d'ossification: peut s'étendre au ligament formant un enthésophyte, ou au périoste formant des appositions périostées
+- phase d'ossification: peut s'étendre au ligament formant un enthésophyte, ou au périoste formant des appositions périostées
 
-Rachis: L'enthésopathie se traduit initialement par une petite érosion de l'angle du corps vertébral (signe de Romanus), puis apparait la phase ossifiante avec la formation d'enthésophytes ici appelés syndesmophytes qui ont tendance à fusionner entre eux formant des ponts osseux unissant les corps vertébraux (aspect en colonne bambou) expliquant l'ankylose rachidienne.​
+- Rachis: L'enthésopathie se traduit initialement par une petite érosion de l'angle du corps vertébral (signe de Romanus), puis apparait la phase ossifiante avec la formation d'enthésophytes ici appelés syndesmophytes qui ont tendance à fusionner entre eux formant des ponts osseux unissant les corps vertébraux (aspect en colonne bambou) expliquant l'ankylose rachidienne.​
 
-Les sacro-iliaques: La sacro-iliite évolue comme une enthésopathie:
+- Les sacro-iliaques: La sacro-iliite évolue comme une enthésopathie:
 
-phase initiale oedémateuse (stade 1): pseudo-élargissement de l'articulation​
+- phase initiale oedémateuse (stade 1): pseudo-élargissement de l'articulation​
 
-phase intermédiaire: pincement et érosion des berges articulaires donnant un aspect radiologique en timbre de poste (stade 2)
+- phase intermédiaire: pincement et érosion des berges articulaires donnant un aspect radiologique en timbre de poste (stade 2)
 
-phase ossifiante: condensation osseuse (stade 3)
+- phase ossifiante: condensation osseuse (stade 3)
 
-phase terminale: fusion articulaire complète (stade 4)
+- phase terminale: fusion articulaire complète (stade 4)
 
-Autres sites: calcanéum (riche en enthèses).....​
+- Autres sites: calcanéum (riche en enthèses).....​
 
-Synovite: serait secondaire à l'enthésopathie, le processus inflammatoire se propageant de l'enthèse à la synoviale
+- Synovite: serait secondaire à l'enthésopathie, le processus inflammatoire se propageant de l'enthèse à la synoviale
 
-Diagnostic positif:​ (tdd = SPA dans sa forme mixte prédominate du sujet jeune)
+## Diagnostic positif:​
 
-signes cliniques:
+(tdd = SPA dans sa forme mixte prédominate du sujet jeune)
 
-Signes fonctionnels: 
+### signes cliniques:
 
-Douleurs rachidiennes: Lombaires ou dorsales le plus souvent, inflammatoires avec une raideur matinale importante et amélioration à l'éffort mais ne cédant pas au repos
+#### Signes fonctionnels:
 
-Pygalgies: douleurs fessières ou pseudo-sciatiques tronquées irradiant à la face postérieure de la cuisse sans dépasser le genou. ces douleurspeuvent etre unilatérales, bilatérales ou à bascule.
+- Douleurs rachidiennes: Lombaires ou dorsales le plus souvent, inflammatoires avec une raideur matinale importante et amélioration à l'éffort mais ne cédant pas au repos
 
-Douleurs thoraciques: douleurs intercostales, arthrites sterno-claviculaires ou manubrio-sternales
+- Pygalgies: douleurs fessières ou pseudo-sciatiques tronquées irradiant à la face postérieure de la cuisse sans dépasser le genou. ces douleurspeuvent etre unilatérales, bilatérales ou à bascule.
 
-Arthralgies périphériques: mono ou plus souvent oligo-articulaires, voire polyarticulaires, asymétriques, avec des gonflements. prédominent au membre pelvien touchant les grosses articulations mais aussi les petites (gonflement de l'ensemble du doigt ou de l'orteil, réalisant la dactylite avec déformation du doigt oue de l'orteil en saucisse)
+- Douleurs thoraciques: douleurs intercostales, arthrites sterno-claviculaires ou manubrio-sternales
 
-Talalgies: inférieures ou postérieures, souvent bilatérales, d'horaire inflammatoire
+- Arthralgies périphériques: mono ou plus souvent oligo-articulaires, voire polyarticulaires, asymétriques, avec des gonflements. prédominent au membre pelvien touchant les grosses articulations mais aussi les petites (gonflement de l'ensemble du doigt ou de l'orteil, réalisant la dactylite avec déformation du doigt oue de l'orteil en saucisse)
 
-Signes physiques:​​
+- Talalgies: inférieures ou postérieures, souvent bilatérales, d'horaire inflammatoire
 
-Raideur rachidienne ( indice de shober et distance doigt-sol, occiput-mur, menton-sternum, ampliation thoracique)
+#### Signes physiques:​​
 
-atteinte sacro-illiaque: 
+- Raideur rachidienne ( indice de shober et distance doigt-sol, occiput-mur, menton-sternum, ampliation thoracique)
 
-signe du trepied​
+- atteinte sacro-illiaque:
 
-signe de Patrick
+- signe du trepied​
 
-Enthésopathies périphériques (coiffe des rotateurs, épicondyliens ou épitrochléens, tendons des poignets, des moyens fessiers, patte d'oie, des chevilles)
+- signe de Patrick
 
-mono ou oligo-arthrite des membres inférieurs (habituellement asymétrique et concernat les grosses articulations des membres inférieurs)
+- Enthésopathies périphériques (coiffe des rotateurs, épicondyliens ou épitrochléens, tendons des poignets, des moyens fessiers, patte d'oie, des chevilles)
 
-uvéite antérieure (plus rare, parfois récidivante) 
+- mono ou oligo-arthrite des membres inférieurs (habituellement asymétrique et concernat les grosses articulations des membres inférieurs)
 
-signes paracliniques:​
+- uvéite antérieure (plus rare, parfois récidivante)
 
-Biologie:​
+### signes paracliniques:​
 
-syndrome inflammatoire biologique (hyperleucocytose à la NFS, CRP et VS élevées), le plus souvent peu marqué voire absent
+#### Biologie:​
 
-antigène HLA-B27 présent dans 90% des cas
+- syndrome inflammatoire biologique (hyperleucocytose à la NFS, CRP et VS élevées), le plus souvent peu marqué voire absent
 
-Imagerie:​
+- antigène HLA-B27 présent dans 90% des cas
 
-Radiographie standard (lésions évoluées) / scanner/IRM (lésions débutantes):​
+#### Imagerie:​
 
-sacro-iliaques​: atteinte quasi-constante, bilatérale le plus souvent, plus ou moins symétrique
+- Radiographie standard (lésions évoluées) / scanner/IRM (lésions débutantes):​
 
-stade 1: déminéralisation des berges articulaires entrainant unpseudo-élargissement de l'interligne 
+  - sacro-iliaques​: atteinte quasi-constante, bilatérale le plus souvent, plus ou moins symétrique
 
-stade 2: pincement et érosion des berges articulaires donnant un aspect radiologique en timbre de poste 
+    - stade 1: déminéralisation des berges articulaires entrainant unpseudo-élargissement de l'interligne
 
-stade 3: condensation osseuse des berges articulaires 
+    - stade 2: pincement et érosion des berges articulaires donnant un aspect radiologique en timbre de poste
 
-stade 4:fusion complète des berges articulaires et disparition de l'interligne
+    - stade 3: condensation osseuse des berges articulaires
 
-Rachis: ​
+    - stade 4:fusion complète des berges articulaires et disparition de l'interligne
 
-signe de romanus: érosion du rebord du corps vertébral parfois cernée d'ostéosclérose pouvant aboutir à une mise au carré du corps vertébral par effacement de sa concavité antérieure naturelle ​
+  - Rachis: ​
 
-Syndesmophytes: ossification très fine au niveau de l'angle du corps vertébral, de trajet vertical. Les syndesmophytes peuvent fusionner,
-former un pont intersomatique donnant un aspect en colonne bambou. Le ligament interépineux peut aussi s'ossifier donnant un aspect en ram de tramway
+    - signe de romanus: érosion du rebord du corps vertébral parfois cernée d'ostéosclérose pouvant aboutir à une mise au carré du corps vertébral par effacement de sa concavité antérieure naturelle ​
 
-Les articulaires postérieures peuvent etre sièges d'érosion ou d'une ankylose
+    - Syndesmophytes: ossification très fine au niveau de l'angle du corps vertébral, de trajet vertical.
+    - Les syndesmophytes peuvent fusionner,former un pont intersomatique donnant un aspect en colonne bambou.
+    - Le ligament interépineux peut aussi s'ossifier donnant un aspect en ram de tramway
 
-Lésions de spondilodiscopathies: plus rares, remaniements érosifs et condensants des plateaux vertébraux (pouvant simuler une spondylodiscite infectieuse)
+    - Les articulaires postérieures peuvent etre sièges d'érosion ou d'une ankylose
 
-atteinte coxo-fémorale: plusieurs formes, scléreuse, destructrice ou ankylosante
+    - Lésions de spondilodiscopathies: plus rares, remaniements érosifs et condensants des plateaux vertébraux (pouvant simuler une spondylodiscite infectieuse)
 
-enthésopathies: aspect hérissé de l'os au niveau des enthèses (épine ischiatique, massifs trochantériens, face postérieure du calcanéum +++)
+  - atteinte coxo-fémorale: plusieurs formes, scléreuse, destructrice ou ankylosante
 
-Evolution:​
+  - enthésopathies: aspect hérissé de l'os au niveau des enthèses (épine ischiatique, massifs trochantériens, face postérieure du calcanéum +++)
 
-surveillance:
+### Evolution:​
 
-clinique: douleur par EVA, asthénie, raideur
+#### surveillance:
 
-paraclinique: VS, CRP
+- clinique: douleur par EVA, asthénie, raideur
 
-indice c composite: BASDAI, BASMI, BASFI
+- paraclinique: VS, CRP
 
-complications:​
+- indice c composite: BASDAI, BASMI, BASFI
 
-ankylose rachidienne: spontanément en cyphose, pouvant aboutir à une perte du regard horizontal, pouvant entrainer une insuffisance respiratoire (cage thoracique)​
+- complications:​
 
-fractures du rachis (ankylosé): traumatismes mineurs, peut causer des lésions neurologiques majeures
+  - ankylose rachidienne: spontanément en cyphose, pouvant aboutir à une perte du regard horizontal, pouvant entrainer une insuffisance respiratoire (cage thoracique)​
 
-sub-luxaton rachidienne: peut rarement causer une compression médullaire, un syndrome de la queue de cheval peut se développer
+  - fractures du rachis (ankylosé): traumatismes mineurs, peut causer des lésions neurologiques majeures
 
-ankylose coxo-fémorale: compromet la marche, nécessite la mise en place de prothèses
+  - sub-luxaton rachidienne: peut rarement causer une compression médullaire, un syndrome de la queue de cheval peut se développer
 
-complications extra-articualires: rares, néphropathies à IgA, amyloses, blocs auriculo-ventriculaires, valvulopathies...
+  - ankylose coxo-fémorale: compromet la marche, nécessite la mise en place de prothèses
 
-Formes cliniques:
+  - complications extra-articualires: rares, néphropathies à IgA, amyloses, blocs auriculo-ventriculaires, valvulopathies...
 
-topographiques:
+## Formes cliniques:
 
-Spondylarthrites axiales:
+- topographiques:
 
-signes pelvi-rachidiens +++
+  - Spondylarthrites axiales:
 
-spondylarthites avec sacroiliite radiographiques
+    - signes pelvi-rachidiens +++
 
-spondylarthrites sans sacroiliite radiographique
+  - spondylarthites avec sacroiliite radiographiques
 
-Spondylarthrite périphérique articulaire:
+  - spondylarthrites sans sacroiliite radiographique
 
-érosives
+  - Spondylarthrite périphérique articulaire:
 
-non-érosives
+    - érosives
 
-Spondylarthrites périphériques enthésitiques
+    - non-érosives
 
-Etiologiques:
+  - Spondylarthrites périphériques enthésitiques
 
-Spondylarthrite ankylosante (pelvispondylite rhumatismale ou maladie de BECHTEREW):
+- Etiologiques:
 
-Arthrites réactionelles: arthrites aseptiques survenant classiquement quelques semaines après d'une infection urogénitale ou digestive à distance de l'articulation
+  - Spondylarthrite ankylosante (pelvispondylite rhumatismale ou maladie de BECHTEREW):
 
-germes incriminés dans les arthrites post-vénériennes:​
+  - Arthrites réactionelles: arthrites aseptiques survenant classiquement quelques semaines après d'une infection urogénitale ou digestive à distance de l'articulation. Germes incriminés dans les arthrites post-vénériennes:​
 
-Chlamydiae trachomatis (40-60% des cas)​
+    - Chlamydiae trachomatis (40-60% des cas)​
 
-Ureaplasma urealyticum
+    - Ureaplasma urealyticum
 
-dans les arthrites post_dysentériques:​
+    dans les arthrites post_dysentériques:​
 
-Salmonella enteridis​
+    - Salmonella enteridis​
 
-Yersinia enterolitica
+    - Yersinia enterolitica
 
-Shigella flexneri
+    - Shigella flexneri
 
-Campylobacter jejuni
+    - Campylobacter jejuni
 
-forme clinique typique: syndrome uréthro-occulo-synovial de Fiessinger-Leroy-reiter​
+    forme clinique typique: syndrome uréthro-occulo-synovial de Fiessinger-Leroy-reiter​
 
-signes articualires: oligoarthrite subaigue, asymétrique, touchant plus les membres inférieurs (genoux et chevilles), s'accomp​agnant parfois de déformations de doigts ou orteils en saucisse, en radis et talalgies
+    - signes articualires: oligoarthrite subaigue, asymétrique, touchant plus les membres inférieurs (genoux et chevilles), s'accomp​agnant parfois de déformations de doigts ou orteils en saucisse, en radis et talalgies
 
-signe occulaires: conjonctivite bilatérale fugace, puvant se compliquer d'uveite ou de kératite
+    - signe occulaires: conjonctivite bilatérale fugace, puvant se compliquer d'uveite ou de kératite
 
-signes génito-urinaires: uréthrite souvent inaugurale, fugace, parfois cervicite ou annexite chez la femme
+    - signes génito-urinaires: uréthrite souvent inaugurale, fugace, parfois cervicite ou annexite chez la femme
 
-signes digestifs: diarrhée, syndrome dysentérique
+    - signes digestifs: diarrhée, syndrome dysentérique
 
-autres signes(plus inconstants): cutanéo-muqueux (macules rouges sombre dans la bouche, kératodermie palmo-plantaire, balanite,circinée), généraux (fièvre, altération de l'état général), viscéraux...
+    - autres signes(plus inconstants): cutanéo-muqueux (macules rouges sombre dans la bouche, kératodermie palmo-plantaire, balanite,circinée), généraux (fièvre, altération de l'état général), viscéraux...
 
-Rhumatisme psoariasique:   signes articulaires associés à un psoriasis plus ou moins évident
+  - Rhumatisme psoariasique: signes articulaires associés à un psoriasis plus ou moins évident
 
-signes articulaires: ​
+    - signes articulaires: ​
 
-arthrites périphériques: polyarthrite chronique déformante et destructrice évoquant la Polyarthrite rhumatoide, avec cependant quelques particularités: asymétrie et non systématisation des atteintes, atteinte prédominant aux interphalangiennes distales des doigts, déformations plus typiques avec doigts en saucisses ou en radis, au pieds l'atteinte de la métatrso-phalngienne rappele souvent la goutte, cette polyarthrite es séronégative (sans facteur rhumatoide et anticorps anti-CCP2)
+      - arthrites périphériques: polyarthrite chronique déformante et destructrice évoquant la Polyarthrite rhumatoide, avec cependant quelques particularités: asymétrie et non systématisation des atteintes, atteinte prédominant aux interphalangiennes distales des doigts, déformations plus typiques avec doigts en saucisses ou en radis, au pieds l'atteinte de la métatrso-phalngienne rappele souvent la goutte, cette polyarthrite es séronégative (sans facteur rhumatoide et anticorps anti-CCP2)
 
-Rachialgies: cervicale, dorsale, ou lombaire, inflammatoire avec raideur rachidienne
+      - Rachialgies: cervicale, dorsale, ou lombaire, inflammatoire avec raideur rachidienne
 
-pygalgies ​
+      - pygalgies ​
 
-enthésopathies: talagies leplus souvent plantaires
+      - enthésopathies: talagies leplus souvent plantaires
 
-Radiologie: coexistance de signes de destruction et reconstruction (articulations périphériques), image de sacro-iliite et de syndesmophytes
+      - Radiologie: coexistance de signes de destruction et reconstruction (articulations périphériques), image de sacro-iliite et de syndesmophytes
 
-Psoriasis: type et intensité variables, érythémato-squameux vulgaire, en goutte, nummulaire, ou en nappe, pustuleux, érythrodermie psoriasique...​
+      - Psoriasis: type et intensité variables, érythémato-squameux vulgaire, en goutte, nummulaire, ou en nappe, pustuleux, érythrodermie psoriasique...​
 
-face postérieure des coudes +++, avant du genou, cuir chevelu, région retro auriculaire, péri-ombilicale, plis inguinaux, axillaires...​
+      - face postérieure des coudes +++, avant du genou, cuir chevelu, région retro auriculaire, péri-ombilicale, plis inguinaux, axillaires...​
 
-atteinte des ongles: ongles en dé à coudre, hyperkératose des ongles
+      - atteinte des ongles: ongles en dé à coudre, hyperkératose des ongles
 
-Rhumatisme axial des entérocolopathies:​
+  - Rhumatisme axial des entérocolopathies:​
 
-entérocolopathies pouvant s'accompagner de manifestations articulaires inflammatoires:​
+    - entérocolopathies pouvant s'accompagner de manifestations articulaires inflammatoires:​
 
-maladie de crohn​
+    - maladie de crohn​
 
-maladie de whipple
+    - maladie de whipple
 
-entéropathies infectieuses
+    - entéropathies infectieuses
 
-autres (entéropathie au gluten, collite collagène, hyperplasie lymphoide nodulairedu grele avec agammaglobulinémie....)
+    - autres (entéropathie au gluten, collite collagène, hyperplasie lymphoide nodulairedu grele avec agammaglobulinémie....)
 
-manifestations articulaires;​
+    - manifestations articulaires;​
 
-oligoarthrite, monoarthrite, ou polyarthrite asymétrique, subaigue, résolutive, habituellement non destructrice​
+    - oligoarthrite, monoarthrite, ou polyarthrite asymétrique, subaigue, résolutive, habituellement non destructrice​
 
-sacroiliite bilatérale, isolée ou associée aux atteintes périphériques
+    - sacroiliite bilatérale, isolée ou associée aux atteintes périphériques
 
-spondylarthrite ankylosante
+  - spondylarthrite ankylosante
 
-ostéoporose
+    - ostéoporose
 
-ostéomalacie
+    - ostéomalacie
 
-ostéonécrose due à une corticothérapie
+    - ostéonécrose due à une corticothérapie
 
-ostéo-arthropathie hypertrophiante (périostose, hippocratisme digital)
+    - ostéo-arthropathie hypertrophiante (périostose, hippocratisme digital)
 
-Spondylarthrites juvéniles (enfant < 16 ans )​
+  - Spondylarthrites juvéniles (enfant < 16 ans )​
 
-Syndrome SAPHO (synovite-acné-pustulose-hyperostose-ostéite):
+  - Syndrome SAPHO (synovite-acné-pustulose-hyperostose-ostéite):
 
-atteinte osseuse: paroi thoracique antérieure +++, amphi-arthroses (symphyse pubienne, sacro-iliaque​, disques intervertébraux), petits os plus rarement
+    - atteinte osseuse: paroi thoracique antérieure +++, amphi-arthroses (symphyse pubienne, sacro-iliaque​, disques intervertébraux), petits os plus rarement
 
-Spondylarthrites indifférenciées:​
+  - Spondylarthrites indifférenciées:​
 
-syndrome articulaire périphérique: synovites oligoarticulaires asymétriques, préférentiellement ​des membres pelviens (genoux, chevilles, pieds) avec orteil ou doigt en saucisse
+    - syndrome articulaire périphérique: synovites oligoarticulaires asymétriques, préférentiellement ​des membres pelviens (genoux, chevilles, pieds) avec orteil ou doigt en saucisse
 
-syndrome pelvi-rachidien: atteinte sacro-iliaque avec pygalgies inflammatoires, atteinte rachidienne avec rachialgies inflammatoires depuis au moins 3mois, atteinte thoracique avec douleurs intercostales, arthrites sterno-claviculaires ou manubriosternales
+    - syndrome pelvi-rachidien: atteinte sacro-iliaque avec pygalgies inflammatoires, atteinte rachidienne avec rachialgies inflammatoires depuis au moins 3mois, atteinte thoracique avec douleurs intercostales, arthrites sterno-claviculaires ou manubriosternales
 
-syndrome enthésopathique: talalgie inflammatoire plantaire ou postérieure
+    - syndrome enthésopathique: talalgie inflammatoire plantaire ou postérieure
 
-sensibilité aux anti-inflammatoires non-stéroidiens (AINS): atténuation ou disparition des douleurs en 24-48h sous AINS et leur réapparition rapide à l'arret du traitement
+    - sensibilité aux anti-inflammatoires non-stéroidiens (AINS): atténuation ou disparition des douleurs en 24-48h sous AINS et leur réapparition rapide à l'arret du traitement
 
-syndrom extra-articulaire: 
+    - syndrome extra-articulaire:
 
-uveite aigue antérieure: peut s'associer à toutes le SPA​, uni ou bilatérale, voire à bascule, s'associe rarement à une atteinte postérieure
+    - uveite aigue antérieure: peut s'associer à toutes le SPA​, uni ou bilatérale, voire à bascule, s'associe rarement à une atteinte postérieure
 
-entérocolopathie inflammatoire: diarrhées, banle ou glairo-sanglante, doit faire rechercher une maladie de crohn ou une rectocolite hémorragique
+    - entérocolopathie inflammatoire: diarrhées, banle ou glairo-sanglante, doit faire rechercher une maladie de crohn ou une rectocolite hémorragique
 
-psoriasis
+    - psoriasis
 
-atteinte cardiaque: valvulopathies tardives, troubles du rythme ou de la conduction au moment des poussées inflammatoires
+    - atteinte cardiaque: valvulopathies tardives, troubles du rythme ou de la conduction au moment des poussées inflammatoires
 
-terrain génétique: antécédents personnels ou familiaux de psoriasis, d'entérocolopathie inflammatoire, de SPA, présence d'antigène HLA-B27 
+    - terrain génétique: antécédents personnels ou familiaux de psoriasis, d'entérocolopathie inflammatoire, de SPA, présence d'antigène HLA-B27
 
-critère diagnostiques:​​​​ 
+## critère diagnostiques:​​​​
 
-anciens critères:​
+- anciens critères:​
 
-critères d'amor​
+- critères d'amor​
 
-critères ESSG
+- critères ESSG
 
-nouveaux critères:​
+- nouveaux critères:​
 
-critères ASAS 2009​
+- critères ASAS 2009​
 
-critères de new york modifiés
+- critères de new york modifiés
 
-critères de classification CASPAR
+- critères de classification CASPAR
 
-diagnostic différentiel:​
+## diagnostic différentiel:​
 
-Spondylodiscite tuberculeuse ( syndrome d'imprégnation tuberculeuse et fuseau paravertébral radiologique )​
+- [spondylodiscite]({{ site.baseurl }}{% link _posts/Rhumatologie/2021-11-26-spondylodiscites.markdown %}) tuberculeuse ( syndrome d'imprégnation tuberculeuse et fuseau paravertébral radiologique )​
 
-arthrite septique...
+- [arthrite septique]({{ site.baseurl }}{% link _posts/Rhumatologie/2021-11-26-arthrite-infectieuse.markdown %})...
 
-Traitement: (curatif, séparé de la prévention pour un souci de lisibilité)
+## Traitement:
 
-buts: ​calmer la douleur,prévenir et traiter les complications, ralentir ou arreter l'évolution de la amladie
+(curatif, séparé de la prévention pour un souci de lisibilité)
 
-moyens:
+### buts:
 
-non médicamenteux:  éducation thérapeutique (fondamentale, porte sur l'évolution de la maladie, les possibilités thérapeutiques, effets secondaires...) 
+​calmer la douleur,prévenir et traiter les complications, ralentir ou arreter l'évolution de la amladie
 
-médicamenteux:​​
+### moyens:
 
-symptomatique:​
+#### non médicamenteux:
 
-anti-inflammatoires non stéroidiens (AINS) et coxibs: pierre angulaire du traitement, dose optimale. En cas d'échec après quelques jours, changer d'AINS​
+- éducation thérapeutique (fondamentale, porte sur l'évolution de la maladie, les possibilités thérapeutiques, effets secondaires...)
 
-antalgiques et myorelaxants: en complément aux AINS, surtout en cas de manifestations enthésopathique ou rachidienne, palier 1 et 2 pour les antalgiques, rarement les morphiniques
+#### médicamenteux:​​
 
-​traitements locaux: en cas d'arthrite ou enthésopathie rebelle au traitement. infiltration cortisonique +++, ou physiothérapie, ergothérapie et techniques d'appareillage​
+##### symptomatique:​
 
-Traitement de fond:​ (pleinement efficaces après plusieurs semaines)​
+- anti-inflammatoires non stéroidiens (AINS) et coxibs: pierre angulaire du traitement, dose optimale. En cas d'échec après quelques jours, changer d'AINS​
 
-sulfasalazine (salazopyrine): dose progressive 500mg à 2g par 24h par pallier de 500mg, arthrites périphériques +++ et formes avec uveite antérieure
+- antalgiques et myorelaxants: en complément aux AINS, surtout en cas de manifestations enthésopathique ou rachidienne, palier 1 et 2 pour les antalgiques, rarement les morphiniques
 
-methotrexate (novatrex): antifolinique 10-25 mg par semaine, formes périphériques +++ , associer acide folique
+​- traitements locaux: en cas d'arthrite ou enthésopathie rebelle au traitement. infiltration cortisonique +++, ou physiothérapie, ergothérapie et techniques d'appareillage​
 
-léflonuomide (arava): 20 mg/ 24h 
+##### Traitement de fond:​ (pleinement efficaces après plusieurs semaines)​
 
-Biothérapie: anticorps anti IL-1​ (anakinra), anti-TNF (infliximab, etanercept), anti-IL6 (tociluzimab), anti-CD20 (ritiximab), anti-TLB, anti-JAk
+- sulfasalazine (salazopyrine): dose progressive 500mg à 2g par 24h par pallier de 500mg, arthrites périphériques +++ et formes avec uveite antérieure
 
-Autres médicaments:​
+- methotrexate (novatrex): antifolinique 10-25 mg par semaine, formes périphériques +++ , associer acide folique
 
-biphosphonates: pamidronate 60mg en perfusion de 3h, mensuelles pendant 3-6 mois, effet anti-inflammatoire axial +++​
+- léflonuomide (arava): 20 mg/ 24h
 
-antibiotiques: dans les arthrites réactionelles (porte d'entrée génitale) Erythromycine 2g/24h , doxicycline 200mg/24h, rifampicine 600mg/24h
+- Biothérapie: anticorps anti IL-1​ (anakinra), anti-TNF (infliximab, etanercept), anti-IL6 (tociluzimab), anti-CD20 (ritiximab), anti-TLB, anti-JAk
 
-thalidomide: immunomodulateur ihnibiteur de production de TNF-alpha et d'IL12, 100-400mg/24h (en cours d'évaluation), ESI: tératogène++, neuropathie périphérique, somnolence, constipation, troubles hématologiques
+- Autres médicaments:​
 
-Autres moyens non- médicamenteux:
+  - biphosphonates: pamidronate 60mg en perfusion de 3h, mensuelles pendant 3-6 mois, effet anti-inflammatoire axial +++​
 
-En période douloureuse:​ pour calmer la douleur et éviter les déformations:
+  - antibiotiques: dans les arthrites réactionelles (porte d'entrée génitale) Erythromycine 2g/24h , doxicycline 200mg/24h, rifampicine 600mg/24h
 
-repos+ techniques passives (posture d'extension du tronc, physiothérapie antalgique, massage décontracturants, gymnastique respiratoire)​
+  - thalidomide: immunomodulateur ihnibiteur de production de TNF-alpha et d'IL12, 100-400mg/24h (en cours d'évaluation), ESI: tératogène++, neuropathie périphérique, somnolence, constipation, troubles hématologiques
 
-cryothérapie et ionisations pour améliorer les enthésopathies, port de talonnettes pour les talalgies
+#### Autres moyens non-médicamenteux:
 
-orthèses de posture et de stabilisation (formes sévères)
+- En période douloureuse:​ pour calmer la douleur et éviter les déformations:
 
-En période non douloureuse:​ afin de récupérer une bonne mobilité et une bonne musculature axiale et périphérique:
+  - repos+ techniques passives (posture d'extension du tronc, physiothérapie antalgique, massage décontracturants, gymnastique respiratoire)​
 
-activité sportive: natation +++​
+  - cryothérapie et ionisations pour améliorer les enthésopathies, port de talonnettes pour les talalgies
 
-gymnastique à domicile (étirement musculaire global des membres, extension du rachis, étirement de la paroi thoracique et de la musculature pectorale, exercices respiratoires)
+  - orthèses de posture et de stabilisation (formes sévères)
 
-chirurgicaux:​
+- En période non douloureuse:​ afin de récupérer une bonne mobilité et une bonne musculature axiale et périphérique:
 
-synoviorthèses chirurgicales
+  - activité sportive: natation +++​
 
-correction des cyphoses dorsales (indication exceptionelle)
+  - gymnastique à domicile (étirement musculaire global des membres, extension du rachis, étirement de la paroi thoracique et de la musculature pectorale, exercices respiratoires)
 
-prothèse totale de hanche (coxite)
+#### chirurgicaux:​
 
-arthroplasties (en cas de délabrememnt articulaire)
+- synoviorthèses chirurgicales
 
-prothèses des épaules
+-correction des cyphoses dorsales (indication exceptionelle)
 
-arthrodèse (arthroscopique ou cirurgicale)
+- prothèse totale de hanche (coxite)
 
-indications:​
+- arthroplasties (en cas de délabrememnt articulaire)
 
-Forme axiale: AINS + sulfasalazine 2g/24h si persistance + biothérapie si persistance​
+- prothèses des épaules
 
-Forme périphérique: AINS + methotrexate si persistance + biothérapie si persistance
+- arthrodèse (arthroscopique ou cirurgicale)
 
+### indications:​
 
+- Forme axiale: AINS + sulfasalazine 2g/24h si persistance + biothérapie si persistance​
+
+- Forme périphérique: AINS + methotrexate si persistance + biothérapie si persistance
