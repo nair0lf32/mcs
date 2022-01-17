@@ -8,17 +8,21 @@ permalink: /arthrite/
 ---
 
 # Arthrite Infectieuse (septique):
-Définition: inflammation articulaire due à la présence et à la prolifération d'une bactérie pathogène au sein d'une articulation
 
-Etiopathogénie:
+## Définition:
 
-Terrain:
+inflammation articulaire due à la présence et à la prolifération d'une bactérie pathogène au sein d'une articulation
 
-​diabète ​
-ethylisme chronique
-hémoglobinopathie SS ou Sc
-Immunodépression (VIH, insuffisances rénale, hépatique, hémodialyse, toxicomanie, corticoides, immunosuppresseurs, surmenage physique ou intellectuel...) 
-pathogénie: 
+## Etiopathogénie:
+
+### Terrain:
+
+- diabète ​
+- ethylisme chronique
+- hémoglobinopathie SS ou Sc
+- Immunodépression (VIH, insuffisances rénale, hépatique, hémodialyse, toxicomanie, corticoides, immunosuppresseurs, surmenage physique ou intellectuel...)
+
+### pathogénie:
 
 sur un terrain favorable on a la présence également d'une porte d'entrée (dentaire, pulmonaire, digestive, urologique, cardiaque ou une plaie cutanée...)
 
@@ -26,230 +30,250 @@ la bactérie provoque une septicémie avec fièvre, frissons...puis se localise 
 
 trois voies de dissémination de la bactérie:
 
-voie hématogène​ (sanguine): au décours de la septicémie
+- voie hématogène​ (sanguine): au décours de la septicémie
 
-inoculation directe (effraction cutanée par plaie, fracture, geste chirurgical....)
+- inoculation directe (effraction cutanée par plaie, fracture, geste chirurgical....)
 
-contiguité (à partir d'un foyer d'ostéomyélite) exceptionnellement
+- contiguité (à partir d'un foyer d'ostéomyélite) exceptionnellement
 
-Diagnostic positif:​ (tdd = monoarthrite aigue fébrile du genou à germes banals)
+## Diagnostic positif:​
 
-signes cliniques:
+(tdd = monoarthrite aigue fébrile du genou à germes banals)
 
-Signes fonctionels: 
+### signes cliniques:
 
-Douleur: gonalgie, de début brutal (coup de tonnerre dans un ciel serein) d'horaire inflammatoire, très intense avec tuméfaction et chaleur locale
+#### Signes fonctionels:
 
-impotence fonctionnelle relative: liée aux douleurs 
+- Douleur: gonalgie, de début brutal (coup de tonnerre dans un ciel serein) d'horaire inflammatoire, très intense avec tuméfaction et chaleur locale
 
-fièvre: apparue souvent quelques jours avant l'atteinte articulaire (38-39° voire 40°) accompagnée de frissons, tachycardie et asthénie
+- impotence fonctionnelle relative: liée aux douleurs
 
-Signes physiques:​
+- fièvre: apparue souvent quelques jours avant l'atteinte articulaire (38-39° voire 40°) accompagnée de frissons, tachycardie et asthénie
 
-inspection: tuméfaction du genou avec modification cutanée en regard (peau luisante, plaie en regard souvent...)
+#### Signes physiques:​
 
-palpation: douce, retrouve une douleur, une chaleur locale augmentée, le choc rotulien retrouve une hydarthrose. La ponction intra-articulaire (avec asepsie, le genou  en extension, sub-luxation de la patella en externe) est systématique avec examen cytologique et bactériologique du liquide.
+- inspection: tuméfaction du genou avec modification cutanée en regard (peau luisante, plaie en regard souvent...)
 
-Mobilité: extrement douloureuse
+- palpation: douce, retrouve une douleur, une chaleur locale augmentée, le choc rotulien retrouve une hydarthrose. La ponction intra-articulaire (avec asepsie, le genou en extension, sub-luxation de la patella en externe) est systématique avec examen cytologique et bactériologique du liquide.
 
-Examen loco-régional: recherche des adénopathies satellites et compléter par un examen général pour retrouver un probable foyer infectieux à distance...
+- Mobilité: extrement douloureuse
 
-signes paracliniques:​
+- Examen loco-régional: recherche des adénopathies satellites et compléter par un examen général pour retrouver un probable foyer infectieux à distance...
 
-Biologie:
+### signes paracliniques:​
 
-hémogramme (NFS): hyperleucocytose ( > 10000/mm3 ) à prédominace neutrophile​
+#### Biologie:
 
-vitesse de sédimentation (VS): supérieure à 20 mm à h1 (normale < 10)
+- hémogramme (NFS): hyperleucocytose ( > 10000/mm3 ) à prédominace neutrophile​
 
-protéine c réactive (CRP): augmentée > 100mg/L (normale < 6mg/L)
+- vitesse de sédimentation (VS): supérieure à 20 mm à h1 (normale < 10)
 
-cytologie et bactériologie du liquide de ponction:​ liquide inflammatoire soit liquide trouble voire purulent contenant plus de 50000 polynucléaires neutrophiles à plus de 80%. la culture retrouve le germe en cause (staphylocoque dans 50% des cas)
+- protéine c réactive (CRP): augmentée > 100mg/L (normale < 6mg/L)
 
-autres techniques de recherche du germe en cause:
+- cytologie et bactériologie du liquide de ponction:​ liquide inflammatoire soit liquide trouble voire purulent contenant plus de 50000 polynucléaires neutrophiles à plus de 80%. la culture retrouve le germe en cause (staphylocoque dans 50% des cas)
 
-hémoculture: ​trois hémocultures répétéeslors de chaque pic fébrile
+- autres techniques de recherche du germe en cause:
 
-examen cytobactériologique des urines (ECBU)
+  - hémoculture: ​trois hémocultures répétéeslors de chaque pic fébrile
 
-prélèvement d'une porte d'entrée: une plaie par exemple...
+  - examen cytobactériologique des urines (ECBU)
 
-sérologie VIH: systématique dans notre contexte
+  - prélèvement d'une porte d'entrée: une plaie par exemple...
 
-imagerie:
+  - sérologie VIH: systématique dans notre contexte
 
-radiographie face et profil des deux genous (comparative):​ normale au début, peut montrer un épaississement des parties molles ou un pincement global de l'interligne articulaire
+#### imagerie:
 
-scintigraphie au technécium 99
+- radiographie face et profil des deux genous (comparative):​
 
-échographie: recherche un épanchement de petite abondance
+normale au début, peut montrer un épaississement des parties molles ou un pincement global de l'interligne articulaire
 
-imagerie par résonnance magnétique (IRM): montre une synovite non spécifique et des érosions articulaires
+- scintigraphie au technécium 99
 
-biopsie ostéo-articulaire: utile seulement lorsque les cultures des différents liquides biologiques sont négatives​
+- échographie: recherche un épanchement de petite abondance
 
-Evolution:​
+- imagerie par résonnance magnétique (IRM): montre une synovite non spécifique et des érosions articulaires
 
-surveillance:
+- biopsie ostéo-articulaire: utile seulement lorsque les cultures des différents liquides biologiques sont négatives​
 
-clinique: fièvre, douleur, état général, examen local (quotidien)
+## Evolution:​
 
-paraclinique: NFS, VS, CRP (hebdomadaire), radiographie (mensuel)
+### surveillance:
 
-complications: ankylose du genou (si traitée tardivement), locorégionales (myosite,ostéo-arthrite, arthro-myosite), générales (sepsis, endocardite, méningite..extension articulaire et viscérale, décès..)
+- clinique: fièvre, douleur, état général, examen local (quotidien)
 
-Formes cliniques: 
+- paraclinique: NFS, VS, CRP (hebdomadaire), radiographie (mensuel)
 
-topographiques:​
+- complications:
+  - ankylose du genou (si traitée tardivement)
+  - locorégionales (myosite,ostéo-arthrite, arthro-myosite)
+  - générales (sepsis, endocardite, méningite..extension articulaire et viscérale, décès..)
 
-formes monoarticulaires (arthrose de la cheville, omarthrose, coxarthrose dont le diagnostic est souvent difficile et s'aide de l'échographie, une arthrose le l'articulation sacro-illiaque, des doigts et orteils...)​
+## Formes cliniques:
 
-formes oligoarticulaires: deux ou trois articulations atteites d'emblée
+- topographiques:​
 
-formes polyarticulaires: rares, le terrain est souvent évident lié à une immunodépression (VIH+++)...
+  - formes monoarticulaires (arthrose de la cheville, omarthrose, coxarthrose dont le diagnostic est souvent difficile et s'aide de l'échographie, une arthrose le l'articulation sacro-illiaque, des doigts et orteils...)​
 
-symptomatiques:
+  - formes oligoarticulaires: deux ou trois articulations atteites d'emblée
 
-selon la durée: on peut avoir une évolution chronique​​ ( dans les formes abatardies par une antibiothérapie inadaptée ou le cas de la tuberculose)
+  - formes polyarticulaires: rares, le terrain est souvent évident lié à une immunodépression (VIH+++)...
 
-selon les signes généraux: on peut avoir des états non fébriles (tuberculose+++ remplacées par un fébricule vespéral associé à un syndrome d'imprégnation tuberculeuse: hypersudation nocturne, asthénie, anorexie...les signes inflamtoires locaux sont modérés. l'IDR est positif, la biopsie avec histologie confirme le diagnostic)
+- symptomatiques:
 
-selon le terrain: ​
+  - selon la durée: on peut avoir une évolution chronique​​ ( dans les formes abatardies par une antibiothérapie inadaptée ou le cas de la tuberculose)
 
-enfant: Haemophilus influenzae+++​
+  - selon les signes généraux: on peut avoir des états non fébriles (tuberculose+++ remplacées par un fébricule vespéral associé à un syndrome d'imprégnation tuberculeuse: hypersudation nocturne, asthénie, anorexie...les signes inflamtoires locaux sont modérés. l'IDR est positif, la biopsie avec histologie confirme le diagnostic)
 
-vieillard: bacilles gram négatif +++, pronostic vital menacé
+- selon le terrain: ​
 
-immunodéprimé: sepsis et atteinte polyarticulaire
+  - enfant: Haemophilus influenzae+++​
 
-infection de prothèse: urgence, ablation de la prothèse
+  - vieillard: bacilles gram négatif +++, pronostic vital menacé
 
-infection post-cortisonique
+  - immunodéprimé: sepsis et atteinte polyarticulaire
 
-diagnostic différentiel:​
+  - infection de prothèse: urgence, ablation de la prothèse
 
-hygroma surinfecté, bursite, myosite, ostéite, ostéomyélite​
+  - infection post-cortisonique
 
-goutte, chondrocalcinose, algoneurodystrophie, arthrose destructrice rapide
+## diagnostic différentiel:​
 
-rhumatisme psoriasique
+- hygroma surinfecté
+- bursite, myosite, ostéite, ostéomyélite...
+- [goutte]({{ site.baseurl }}{% link _posts/Rhumatologie/2021-11-16-goutte.markdown %})
+- chondrocalcinose,
+- algoneurodystrophie
+- [arthrose destructrice rapide]({{ site.baseurl }}{% link _posts/Rhumatologie/2021-11-16-arthrose.markdown %})
+- [rhumatisme psoriasique]({{ site.baseurl }}{% link _posts/Rhumatologie/2021-11-26-spondylarthrites.markdown %})
+- [arthrite réactionelle]({{ site.baseurl }}{% link _posts/Rhumatologie/2021-11-26-spondylarthrites.markdown %})
+- [rhumatisme psoariasique]({{ site.baseurl }}{% link _posts/Rhumatologie/2021-11-26-spondylarthrites.markdown %})
+- Lupus érythémateux systémique
 
-arthrite réactionnelle
+## diagnostic étiologique: ​
 
-polyarthrite rhumatoide
+- germes banals:​ (adulte jeune,porte d'entrée, signe bruyants, inflammation franche...)
 
-Lupus érythémateux systémique
+  - Staphylococcus aureus​ (60% des cas)
 
-diagnostic étiologique: ​
+  - Staphylococcus epidermidis
 
-germes banals:​ (adulte jeune,porte d'entrée, signe bruyants, inflammation franche...)
+  - Bacilles gram négatif (Colibacilles, Pseudomonas aeruginosa, Serratia)(20% des cas)
 
-Staphylococcus aureus​ (60% des cas)
+  - Streptococcus pneumoniae (10% des cas)
 
-Staphylococcus epidermidis 
+  - Haemophilus influenzae (chez l'enfant+++)
 
-Bacilles gram négatif (Colibacilles, Pseudomonas aeruginosa, Serratia)(20% des cas)
+  - Pasteurella multocida (réservoir animal notamment le poisson, d'ou chez la ménagère+++)
 
-Streptococcus pneumoniae (10% des cas)
+- germes spécifiques:​
 
-Haemophilus influenzae (chez l'enfant+++)
+  - Mycobactérium tuberculosis (bacille de Koch)​ (tuberculose avec contage tuberculeux, amaigrissement+++,inflammation locale discrète, isolement du germe par PCR, biopsie synoviale avec granulome tuberculeux..)
 
-Pasteurella multocida (réservoir animal notamment le poisson, d'ou chez la ménagère+++)
+  - Brucella melitensis (brucellose)
 
-germes spécifiques:​
+  - Neisseria gonorrheae (gonhorree)
 
-Mycobactérium tuberculosis (bacille de Koch)​ (tuberculose avec contage tuberculeux, amaigrissement+++,inflammation locale discrète, isolement du germe par PCR, biopsie synoviale avec granulome tuberculeux..)
+  - Borrelia burgdorferi (maladie de Lyme, piqure de tique++)
 
-Brucella melitensis (brucellose)
+  - Bacille de Hansen (lèpre)
 
-Neisseria gonorrheae (gonhorree)
+- autres infections:​
 
-Borrelia burgdorferi (maladie de Lyme, piqure de tique++)
+  - virales: VIH, hépatite, rubéole, parvovirus B19​...
 
-Bacille de Hansen (lèpre)
+  - parasitaires: giardia, taenia, filaire de medine..
 
-autres infections:​
+  - mycosiques: candida albicans, cryptococcus neoformans...​
 
-virales: VIH, hépatite, rubéole, parvovirus B19​...
+## Traitement:
 
-parasitaires: giardia, taenia, filaire de medine..
+(curatif, séparé de la prévention pour un souci de lisibilité)
 
-mycosiques: candida albicans, cryptococcus neoformans...​
+### buts:
 
-Traitement: (curatif, séparé de la prévention pour un souci de lisibilité)
+​lutter contre la douleur,éradiquer la bactérie, éviter les complications...
 
-buts: ​lutter contre la douleur,éradiquer la bactérie, éviter les complications...
+### moyens:
 
-moyens:
+#### non médicamenteux:
 
-non médicamenteux: hospitalisation, éducation thérapeutique...​
+- hospitalisation
+- éducation thérapeutique...​
 
-médicamenteux:
+#### médicamenteux:
 
-antalgiques non anti-pyrétiques: tramadol (pas d'anti-inflammatoires)
+- antalgiques non anti-pyrétiques:
 
-antibiotiques:
+  - tramadol (pas d'anti-inflammatoires)
 
-penicilline M: oxacilline IV, 100mg/kg/24h en 3 à 4 injections​
+- antibiotiques:
 
-fluoroquinolones: ofloxacine oral, 400-600mg en deux prises
+  - penicilline M: oxacilline IV, 100mg/kg/24h en 3 à 4 injections​
 
-céphalosporines de 3e génération (C3g): ceftriaxone 2g/24h en IV lente
+  - fluoroquinolones: ofloxacine oral, 400-600mg en deux prises
 
-aminosides: gentamycine: 3mg /kg/24h en perfusion de 30 min
+  - céphalosporines de 3e génération (C3g): ceftriaxone 2g/24h en IV lente
 
-antituberculeux:
+  - aminosides: gentamycine: 3mg /kg/24h en perfusion de 30 min
 
-pyrazinamide (Z) 500mg 15-30mg/kg/24h​
+- antituberculeux:
 
-Ethambutol (E) 100 et 400mg 15-25mg/kg/24h
+  - pyrazinamide (Z) 500mg 15-30mg/kg/24h​
 
-Rifampicine (R) 150 et 300 mg 10mg/kg/j
+  - Ethambutol (E) 100 et 400mg 15-25mg/kg/24h
 
-Isoniazide (H) 100, 300 50mg (sirop) 5mg/kg/24h
+  - Rifampicine (R) 150 et 300 mg 10mg/kg/j
 
-Streptomycine (S) 1g et 4g (amp) 15mg/kg/24h
+  - Isoniazide (H) 100, 300 50mg (sirop) 5mg/kg/24h
 
-physiques: immobilisation, rééducation, traction...​
+  - Streptomycine (S) 1g et 4g (amp) 15mg/kg/24h
 
-chirurgicaux: drainage, lavage articulaire (par aiguille fine, arthrotomie ou arthroscopie...)
+#### physiques:
 
-indications:​
+- immobilisation
+- rééducation, traction...​
 
-germe identifié ( ​staphylocoque+++):
+#### chirurgicaux:
+
+- drainage, lavage articulaire (par aiguille fine, arthrotomie ou arthroscopie...)
+
+### indications:​
+
+- germe identifié ( ​staphylocoque+++):
 
 Oxacilline + Gentamycine IV pendant 10 jours puis Oxacilline + Ofloxacine (minimum 2 antibiotiques, relai oral selon la VS et la CRP): durée totale de 6 semaines (12 semaines si atteinte osseuse)​
 
-germe non identifié:​
+- germe non identifié:​
 
 traitement probabiliste associant deux antibiotiques à bonne diffusion osseuse: Oxacilline + 1 aminoside​
 
-tuberculose:​
+- tuberculose:​
 
- traitement anti-tuberculeux (REHZ pendant 2 mois puis RH pendant 10 mois) pendant 12 mois
+traitement anti-tuberculeux (REHZ pendant 2 mois puis RH pendant 10 mois) pendant 12 mois
 
-dans tous les cas: ​
+- dans tous les cas: ​
 
 immobilisation par platre de l'articulation en position neutre​
 
-surveillance: ​
+## surveillance: ​
 
-clinique: ​température, douleur(EVA), signes locaux, mesures comparatives du diamètre articulaire et de la mobilité (quotidienne)
+### maladie
 
-paraclinique: NFS,VS,CRP (hebdomadaire), radiographie de l'articulation (tous les 10-15 jours)
+- clinique: ​température, douleur(EVA), signes locaux, mesures comparatives du diamètre articulaire et de la mobilité (quotidienne)
 
-tolérance médicamenteuse: (fonction de la molécule)
+- paraclinique: NFS,VS,CRP (hebdomadaire), radiographie de l'articulation (tous les 10-15 jours)
 
-ESI des anti(tuberculeux: ​
+### tolérance médicamenteuse: (fonction de la molécule)
 
-E:​ névrite optique, hépatotoxicité, éruption cutanée +/- prurit
+- ESI des anti(tuberculeux: ​
 
-R: nausée,vomissements, coloration rouge/orangée des urines et larmes.., éruption cutanée +/- prurit, purpura thrombopénique, hépatotoxicité
+  - E:​ névrite optique, hépatotoxicité, éruption cutanée +/- prurit
 
-H: nausée,vomissements, neuropathie périphérique, hépatotoxicité ++, éruption cutanée +/- prurit,
+  - R: nausée,vomissements, coloration rouge/orangée des urines et larmes.., éruption cutanée +/- prurit, purpura thrombopénique, hépatotoxicité
 
-Z: hépatotoxicité +++, arthralgies,nausée,vomissements, éruption cutanée +/- prurit
+  - H: nausée,vomissements, neuropathie périphérique, hépatotoxicité ++, éruption cutanée +/- prurit,
 
-S: éruption cutanée +/- prurit, toxicité auditive,vestibulaire et néphrotoxicité (urémie-crétininémie), hépatotoxicité
+  - Z: hépatotoxicité +++, arthralgies,nausée,vomissements, éruption cutanée +/- prurit
 
-
+  - S: éruption cutanée +/- prurit, toxicité auditive,vestibulaire et néphrotoxicité (urémie-crétininémie), hépatotoxicité
