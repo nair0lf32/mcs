@@ -8,155 +8,182 @@ permalink: /gonarthrose/
 ---
 
 # Gonarthrose:
-Définition: Maladie de l'articulation du genou caractérisée par une usure du cartilage articulaire associée à des remaniements osseux
 
-Diagnostic positif:​ (tdd =  gonarthrose fémoro-tibiale chez une femme)
+## Définition:
 
-signes cliniques:
+Maladie de l'articulation du genou caractérisée par une usure du cartilage articulaire associée à des remaniements osseux
 
-Signes fonctionels: 
+## Diagnostic positif:
 
-Douleur: gonalgie progressive d'horaire mécanique, survenant à la marche, station debout prolongée, changements de position...soulagée par le repos, ne réveillant pas le patient la nuit. Exacerbée par la montée/descente d'escaliers, localisée à un compartiment du genou (externe surtout)
+​ (tdd = gonarthrose fémoro-tibiale chez une femme)
 
-blocage articulaire
+### signes cliniques:
 
-dérobement
+#### Signes fonctionels:
 
-instabilité articulaire
+- Douleur: gonalgie progressive d'horaire mécanique, survenant à la marche, station debout prolongée, changements de position...soulagée par le repos, ne réveillant pas le patient la nuit. Exacerbée par la montée/descente d'escaliers, localisée à un compartiment du genou (externe surtout)
 
-impotence fonctionnelle: difficulté à s'asseoir sur un tabouret ou utiliser des toilettes? utiliser l'index de Lequesne et womac.
+- blocage articulaire
 
-Signes physiques:​
+- dérobement
 
-inspection: surcharge pondérale?, troubles statiques (anomalies axiales surtout du plan frontal: genu varum/valgum), genou tuméfié avec disparition des reliefs osseux sans rougeur...
+- instabilité articulaire
 
-palpation: points douloureux du compartiment externe, absence de chaleur locale...​
+- impotence fonctionnelle: difficulté à s'asseoir sur un tabouret ou utiliser des toilettes? utiliser l'index de Lequesne et womac.
 
-Mensurations: recherche une amyotrophie quadricipitale
+#### Signes physiques:​
 
-Mobilité: mesure de la distance talon-fesse, choc rotulien avec hydarthrose. on réalise une ponction du liquide intra-articulaire qui ramène un liquide mécanique (liquide jaune citrin, visqueux, contenant moins de 1000 éléments, sans germe ni cristaux). Rechercher une hyperlaxité ligamentaire (latéral, tiroir antérieur)
+- inspection: surcharge pondérale?, troubles statiques (anomalies axiales surtout du plan frontal: genu varum/valgum), genou tuméfié avec disparition des reliefs osseux sans rougeur...
 
-Etat général non altéré, pas de fièvre, examen systématique de la hanche et de la cheville...
+- palpation: points douloureux du compartiment externe, absence de chaleur locale...​
 
-signes paracliniques:​
+- Mensurations: recherche une amyotrophie quadricipitale
 
-Radiographie standard:​ incidence de shuss, face et profil en charge (debout) des genoux droit et gauche (comparatif)​
+- Mobilité: mesure de la distance talon-fesse, choc rotulien avec hydarthrose. on réalise une ponction du liquide intra-articulaire qui ramène un liquide mécanique (liquide jaune citrin, visqueux, contenant moins de 1000 éléments, sans germe ni cristaux). Rechercher une hyperlaxité ligamentaire (latéral, tiroir antérieur)
 
-normale au début
+- Etat général non altéré, pas de fièvre, examen systématique de la hanche et de la cheville...
 
-au stade avancé, triade radiographique de l'arthrose/ signes cardinaux de la gonarthrose:
+### signes paracliniques:​
 
-pincement localisé de l'interligne articulaire​
+#### imagerie:
 
-ostéophytes tibiaux et fémoraux
+- Radiographie standard:​ incidence de shuss, face et profil en charge (debout) des genoux droit et gauche (comparatif)​
 
-condensation sous-chondrale +/- géodes
+  - normale au début
 
-biologie:​ utile seulement si hydarthrose pour éliminer une autre étiologie. Absence de syndrome biologique inflammatoire (NFS normale leucocytes entre 5000 et 10000/mm3, VS inférieure à 10mm à h1 ,CRP inférieure à 6mg/L)
+  - au stade avancé, triade radiographique de l'arthrose/ signes cardinaux de la gonarthrose:
 
-Evolution:​
+  - pincement localisé de l'interligne articulaire​
 
-surveillance: ​
+  - ostéophytes tibiaux et fémoraux
 
-clinique: douleur, impotence fonctionelle (indices de lequesne et womac)
+  - condensation sous-chondrale +/- géodes
 
-radiographique: pincement de l'interligne articulaire
+#### biologie:
 
-Formes cliniques:​ 
+utile seulement si hydarthrose pour éliminer une autre étiologie.
 
-topographiques:​
+Absence de syndrome biologique inflammatoire (NFS normale leucocytes entre 5000 et 10000/mm3, VS inférieure à 10mm à h1 ,CRP inférieure à 6mg/L)
 
-gonarthrose fémoro-patellaire: ​douleur antérieur irradiant vers le bas, plus marquée à la descente d'escaliers, signe de rabot souvent présent
+### Evolution:​
 
-gonarthrose tricompartimentale: ​atteinte des trois compartiments du genou,associe les signes fémoro-tibiaux interne, externe et fémoro-patellaires
+#### surveillance: ​
 
-selon le terrain: primitive chez l'homme, exceptionelle chez l'enfant (souvent secondaire à une méniscectomie ou une fracture des condyles fémoraux ou du plateau tibial...)​
+- clinique: douleur, impotence fonctionelle (indices de lequesne et womac)
 
-symptomatiques: 
+- radiographique: pincement de l'interligne articulaire
 
-gonarthrose en poussée congestive: ​douleur inflammatoire + hydarthrose. ponction systématique
+## Formes cliniques:​
 
-gonarthrose rapidement destructrice: ​évolution rapide vers le stade chirurgical, souvent associé à une chondrocalcinose
+- topographiques:​
 
-complications: hyperlaxité ligamentaire ( soit du pivot central, soit les ligaments latéraux)
+  - gonarthrose fémoro-patellaire: ​douleur antérieur irradiant vers le bas, plus marquée à la descente d'escaliers, signe de rabot souvent présent
 
-Diagnostic différentiel:​
+  - gonarthrose tricompartimentale: ​atteinte des trois compartiments du genou,associe les signes fémoro-tibiaux interne, externe et fémoro-patellaires
 
-lomboradiculalgies L3,L4,L5: Douleur lombaire à l'examen physique
+- selon le terrain: primitive chez l'homme, exceptionelle chez l'enfant (souvent secondaire à une méniscectomie ou une fracture des condyles fémoraux ou du plateau tibial...)​
 
-tendinite du genou: douleur exquise à la palpation, radiographie normale
+- symptomatiques:
 
-lésion méniscale: grinding test (voire examen du genou) positif
+  - gonarthrose en poussée congestive: ​douleur inflammatoire + hydarthrose. ponction systématique
 
-algodystrophie
+  - gonarthrose rapidement destructrice: ​évolution rapide vers le stade chirurgical, souvent associé à une chondrocalcinose
 
-arthrite septique: signes généraux (fièvre, altération de l'état général..), signes inflammatoires locaux (chaleur, rougeur..) ,ponction articulaire ramène un liquide louche/purulent avec >50000/mm3 et mise en évidence d'un germe.
+- complications: hyperlaxité ligamentaire ( soit du pivot central, soit les ligaments latéraux)
 
-goutte: liquide contenant des cristaux d'urate de sodium
+## Diagnostic différentiel:​
 
-chondrocalcinose: liquide contenant des cristaux de pyrophosphates de calcium déshydratés
+- [lomboradicualgies L3,L4,L5]({{ site.baseurl }}{% link _posts/Rhumatologie/2021-11-26-lombosciatiques-communes.markdown %}): Douleur lombaire à l'examen physique
 
-arthrite réactionelle: signes extra-articulaires
+- tendinite du genou: douleur exquise à la palpation, radiographie normale
 
-Diagnostic étiologique:
+- lésion méniscale: grinding test (voire examen du genou) positif
 
-Arthrose primitive​ (idiopathique): liée aux facteurs de risque (age,sexe,ménopause,surpoids,surmenage articulaire, sport intense...)
+- algodystrophie
 
-Arthrose secondaire: pathologie sous jacente (trouble statique, traumatisme, méniscectomie, laxité ligamentaire, arthrites...)
+- [arthrite septique]({{ site.baseurl }}{% link _posts/Rhumatologie/2021-11-26-arthrite-infectieuse.markdown %}): signes généraux (fièvre, altération de l'état général..), signes inflammatoires locaux (chaleur, rougeur..) ,ponction articulaire ramène un liquide louche/purulent avec >50000/mm3 et mise en évidence d'un germe.
 
-Traitement: (curatif, séparé de la prévention pour un souci de lisibilité)
+- [goutte]({{ site.baseurl }}{% link _posts/Rhumatologie/2021-11-16-goutte.markdown %}): liquide contenant des cristaux d'urate de sodium
 
-buts: ​lutter contre la douleur et ralentir la progression, éviter les complications...
+- chondrocalcinose: liquide contenant des cristaux de pyrophosphates de calcium déshydratés
 
-moyens:
+- [arthrite réactionelle]({{ site.baseurl }}{% link _posts/Rhumatologie/2021-11-26-spondylarthrites.markdown %}): signes extra-articulaires
 
-non médicamenteux: mesures hygiéno-diététiques, ménagement de l'articulation, activité de marche régulière, adapter l'activité professionelle...​
+## Diagnostic étiologique:
 
-médicamenteux:
+- Arthrose primitive​ (idiopathique): liée aux facteurs de risque (age,sexe,ménopause,surpoids,surmenage articulaire, sport intense...)
 
-antalgiques:
+- Arthrose secondaire: pathologie sous jacente (trouble statique, traumatisme, méniscectomie, laxité ligamentaire, arthrites...)
 
-paracétamol 1g oral 4g/24h soit toutes les 6h
+## Traitement:
 
-tramadol 50/100/200 mg oral 400mg/24h en 2 ou 3 prises, ESI: nausées,vomissements,vertiges
+(curatif, séparé de la prévention pour un souci de lisibilité)
 
-anti-inflammatoires non stéroidiens (AINS):
+### buts: ​
 
-diclofénac 50/75/100 mg oral 150 mg/24h en 3 prises (Les AINS sont toujours pris au milieu d'un repas, expliquer au patient) ESI: ulcère, insufisance rénale..
+lutter contre la douleur et ralentir la progression, éviter les complications...
 
-anti-inflammatoires stéroidiens (AIS):
+### moyens:
 
-cortivazol en infiltration locale
+#### non médicamenteux:
 
-chondroprotecteurs / anti-arthrosiques symptomatiques d'action lente (ASAAL):
+- mesures hygiéno-diététiques
+- ménagement de l'articulation
+- activité de marche régulière
+- adapter l'activité professionelle...​
 
-diacérhéine 50 mg
+#### médicamenteux:
 
-insaponifiables d'avocats et de soja
+- antalgiques:
 
-chondoritine sulfate...
+  - paracétamol 1g oral 4g/24h soit toutes les 6h
 
-acide hyaluronique (viscosupplémentation)
+  - tramadol 50/100/200 mg oral 400mg/24h en 2 ou 3 prises, ESI: nausées,vomissements,vertiges
 
-physiques: aide à la marche (canne, béquille, orthèses, semelles..), rééducation
+- anti-inflammatoires non stéroidiens (AINS):
 
-chirurgicaux: réparation axiale, arthroplastie....
+  - diclofénac 50/75/100 mg oral 150 mg/24h en 3 prises (Les AINS sont toujours pris au milieu d'un repas, expliquer au patient) ESI: ulcère, insufisance rénale..
 
-Indications:​​
+- anti-inflammatoires stéroidiens (AIS):
 
-gonarthrose modérée sur trouble statique: ​ostéotomie de correction (chirurgie)
+  - cortivazol en infiltration locale
 
-poussée congestive: ​AINS ou infiltration locale de corticoides
+- chondroprotecteurs / anti-arthrosiques symptomatiques d'action lente (ASAAL):
 
-gonarthrose peu symptomatique/peu évoluée: ​antalgiques, anti-arthrosiques, acide hyaluronique
+  - diacérhéine 50 mg
 
-gonarthrose évoluée avec hyperlaxité ligamentaire : ​prothèse totale du genou(chirurgie)
+  - insaponifiables d'avocats et de soja
 
-surveillance: clinique (effets secondaires indésirables = ESI), paraclinique (fonction hépatique, rénale, glycémie..​
+  - chondoritine sulfate...
 
-prévention:​
+  - acide hyaluronique (viscosupplémentation)
 
-primaire: ​correction précoce des troubles statiques
+#### physiques:
 
-secondaire: prise en charge précoce de l'arthrose au début
+- aide à la marche (canne, béquille, orthèses, semelles..), rééducation
 
+#### chirurgicaux:
+
+- réparation axiale
+- arthroplastie....
+
+### Indications:​​
+
+- gonarthrose modérée sur trouble statique: ​ostéotomie de correction (chirurgie)
+
+- poussée congestive: ​AINS ou infiltration locale de corticoides
+
+- gonarthrose peu symptomatique/peu évoluée: ​antalgiques, anti-arthrosiques, acide hyaluronique
+
+- gonarthrose évoluée avec hyperlaxité ligamentaire : ​prothèse totale du genou(chirurgie)
+
+## surveillance:
+
+- clinique (effets secondaires indésirables = ESI)
+- paraclinique (fonction hépatique, rénale, glycémie..​
+
+## prévention:​
+
+- primaire: ​correction précoce des troubles statiques
+
+- secondaire: prise en charge précoce de l'arthrose au début
