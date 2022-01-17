@@ -8,23 +8,26 @@ permalink: /osteoporose/
 ---
 
 # Ostéoporose commune:
-Définition: Fragilisation du tissu osseux en rapport avec une diminution de la masse osseuse et une détérioration de la microarchitecture de l'os secondaire à la ménopause ou à un age > 60 ans
 
-Etiopathogénie:​​
+## Définition:
 
-facteurs : 
+Fragilisation du tissu osseux en rapport avec une diminution de la masse osseuse et une détérioration de la microarchitecture de l'os secondaire à la ménopause ou à un age > 60 ans
 
-age > 60 ans
+## Etiopathogénie:​​
 
-Ménopause précoce
+### facteurs :
 
-prédisposition génétique
+- age > 60 ans
 
-sédentarité
+- Ménopause précoce
 
-ethylisme et tabagisme chronique
+- prédisposition génétique
 
-mécanisme:  ​
+- sédentarité
+
+- ethylisme et tabagisme chronique
+
+### mécanisme: ​
 
 L'action des facteurs favorisants est à à l'origine d'une perturbation du remodelage osseux avec une augmentation de l'activité des ostéoclastes et une diminution de celle des ostéoblastes, entrainant une fragilité osseuse.
 
@@ -32,194 +35,208 @@ diminution de la densité minérale osseuse (DMO) cortical (type 2) et trabécul
 
 des contraintes mécaniques (minimes++) seront à l'origine de fractures avec douleur et déformations
 
-Diagnostic positif:​ (tdd = ostéoporose commune rachidienne post ménopausique)
+## Diagnostic positif:​
 
-signes cliniques:
+(tdd = ostéoporose commune rachidienne post ménopausique)
 
-Signes fonctionnels: 
+### signes cliniques:
 
-Rachialgies aigues:  dorsale ou lombaire, brutale, spontannée, intenses, permanentes, exacerbées par le moindre mouvement, irradiant (rarement) en hémi-ceinture ou en sciatalgie ou cruralgie
+#### Signes fonctionnels:
 
-Rachialgies chroniques: Progressives, moins intenses, mécaniques
+- Rachialgies aigues: dorsale ou lombaire, brutale, spontannée, intenses, permanentes, exacerbées par le moindre mouvement, irradiant (rarement) en hémi-ceinture ou en sciatalgie ou cruralgie
 
-Impotence fonctionelle
+- Rachialgies chroniques: Progressives, moins intenses, mécaniques
 
-Signes généraux: absensts​
+- Impotence fonctionelle
 
-Signes physiques:​​
+#### Signes généraux:
 
-inspection: déformations (cyphose, scoliose, effacement de la lordose lombaire), diminution de la taille
+absensts​
 
-palpation: douleur exacerbée à la palpation des apophyses épineuses
+#### Signes physiques:​​
 
-mobilisation: douloureuse avec raideur rachidienne diffuse
+- inspection: déformations (cyphose, scoliose, effacement de la lordose lombaire), diminution de la taille
+
+- palpation: douleur exacerbée à la palpation des apophyses épineuses
+
+- mobilisation: douloureuse avec raideur rachidienne diffuse
 
 compléter par un examen régional et général systématique
 
-signes paracliniques:​​
+### signes paracliniques:​​
 
-Imagerie:​
+#### Imagerie:​
 
-Radiographies standard du rachis face/profil et du bassin de profil:​
+- Radiographies standard du rachis face/profil et du bassin de profil:​
 
-normales au début
+  - normales au début
 
-déminéralisation diffuse homogène​​​
+  - déminéralisation diffuse homogène​​​
 
-tassement vertébral (vertèbres cuneiformes, concaves, en galettes)
+  - tassement vertébral (vertèbres cuneiformes, concaves, en galettes)
 
-scintigraphie osseuse au technécium 99m:​
+- scintigraphie osseuse au technécium 99m:​
 
-lésions d'hyperfixation​
+  - lésions d'hyperfixation​
 
-ostéodensitométrie (absorptiométrie biphotonique au rayon x): mesure la masse osseuse grace à la densité minérale osseuse (DOM)​
+- ostéodensitométrie (absorptiométrie biphotonique au rayon x): mesure la masse osseuse grace à la densité minérale osseuse (DOM)​
 
--1 < T-score: normal​
+  - -1 < T-score: normal​
 
--2,5 < T-score < -1: ostéopénie
+  - -2,5 < T-score < -1: ostéopénie
 
-T-score < -2,5: ostéoporose
+  - T-score < -2,5: ostéoporose
 
-fractures + T-score < -2,5: ostéoporose sévère
+  - fractures + T-score < -2,5: ostéoporose sévère
 
-histologie: après biopsie de la crete iliaque au trocart, signes histomorphiques = raréfaction des travées osseuses​
+- histologie: après biopsie de la crete iliaque au trocart, signes histomorphiques = raréfaction des travées osseuses​
 
-Biologie:​
+#### Biologie:​
 
-NFS, VS, CRP normales​
+- NFS, VS, CRP normales​
 
-marqueurs de remodelage:
+- marqueurs de remodelage:
 
-aumentaion des phosphatases alcalines (PAL) osseuse et ostéocalcine (sanguine)​
+- aumentaion des phosphatases alcalines (PAL) osseuse et ostéocalcine (sanguine)​
 
-augmentation des CTX (crosslap dans les urines) en cas d'évènement osseux récent
+- augmentation des CTX (crosslap dans les urines) en cas d'évènement osseux récent
 
-Evolution:​
+### Evolution:​
 
-surveillance:
+#### surveillance:
 
-clinique: douleur par EVA, retentissement fonctionnel, déformations, taille
+- clinique: douleur par EVA, retentissement fonctionnel, déformations, taille
 
-paraclinique: Rx: nouveaux tassements
+- paraclinique: Rx: nouveaux tassements
 
-Formes cliniques:
+## Formes cliniques:
 
-topographiques:
+- topographiques:
 
-fracture du col du fémur​​
+  - fracture du col du fémur​​
 
-fracture du bassin
+  - fracture du bassin
 
-fracture de l'extrémité inférieure du radius ( pouteau-colles)
+  - fracture de l'extrémité inférieure du radius ( pouteau-colles)
 
-métatarsiens
+  - métatarsiens
 
-selon le terrain:​
+- selon le terrain:​
 
-ostéoporose sénile​
+  - ostéoporose sénile​
 
-ostéoporose juvénile
+  - ostéoporose juvénile
 
-symptomatiques:​
+- symptomatiques:​
 
-asymptomatiques​
+  - asymptomatiques​
 
-complications:
+- complications:
 
-fractures​
+  - fractures​
 
-décubitus (respiratoires, thrombo-emboliques, urinaires)
+  - décubitus (respiratoires, thrombo-emboliques, urinaires)
 
-déformations (scoliose, cyphose)
+  - déformations (scoliose, cyphose)
 
-critère diagnostiques:​​​​ 
+## critère diagnostiques:​​​​
 
-terrain: ménopause, age > 60 ans
+- terrain: ménopause, age > 60 ans
 
-signes: douleur, déformations
+- signes: douleur, déformations
 
-radiographie: fractures, déminéralisation
+- radiographie: fractures, déminéralisation
 
-ostéodensitométrie: T-score < -2,5​​
+- ostéodensitométrie: T-score < -2,5​​
 
-diagnostic différentiel:​
+## diagnostic différentiel:​
 
-Spondylodiscite infectieuse
+- [spondylodiscite infectieuse]({{ site.baseurl }}{% link _posts/Rhumatologie/2021-11-26-spondylodiscites.markdown %})
 
-myélome multiple
+- myélome multiple
 
-métastases osseuses
+- métastases osseuses
 
-ostéoporose secondaire ( endocrinienne; iatrogène, mastocytose, spondylarthrite..)
+- ostéoporose secondaire ( endocrinienne; iatrogène, mastocytose, spondylarthrite..)
 
-ostéomalacie (trouble de la minéralisation osseuse, douleur mécanique avec myopathie proximale, Rx: aspect cotonneux, flou , stries ou fissures de LOOSER-MILKMAN)
+- ostéomalacie (trouble de la minéralisation osseuse, douleur mécanique avec myopathie proximale, Rx: aspect cotonneux, flou , stries ou fissures de LOOSER-MILKMAN)
 
-Traitement: (curatif, séparé de la prévention pour un souci de lisibilité)
+## Traitement:
 
-buts: ​calmer la douleur,prévenir et traiter les complications, ralentir ou arreter l'évolution de la maladie, favoriser la réinsertion sociale
+(curatif, séparé de la prévention pour un souci de lisibilité)
 
-moyens:
+### buts:
 
-non médicamenteux:  hospitalisation, éducation thérapeutique, mesures hygiéno-diététiques (régime amincissant, suppression de l'alcool et tabac, supplémentation calcique)
+​calmer la douleur,prévenir et traiter les complications, ralentir ou arreter l'évolution de la maladie, favoriser la réinsertion sociale
 
-médicamenteux:​​
+### moyens:
 
-Antalgiques:
+#### non médicamenteux:
 
-paracétamol 1g oral, 4g/24h en 4 prises (toutes les 6h)​
+- hospitalisation
+- éducation thérapeutique
+- mesures hygiéno-diététiques (régime amincissant, suppression de l'alcool et tabac, supplémentation calcique)
 
-tramadol 50,100,200 mg oral, 400mg/24h en 2 ou 3 prises, ESI: nausées, vomissements, vertiges
+#### médicamenteux:​​
 
-calcium 1g/24h​
+- Antalgiques:
 
-vitamine D3 800 UI/ 24h
+  - paracétamol 1g oral, 4g/24h en 4 prises (toutes les 6h)​
 
-SERM
+  - tramadol 50,100,200 mg oral, 400mg/24h en 2 ou 3 prises, ESI: nausées, vomissements, vertiges
 
-Raloxifène 60mg/24h
+  - calcium 1g/24h​
 
-Biphosphonates:
+  - vitamine D3 800 UI/ 24h
 
-alendronate 70 mg/ semaine oral​
+- SERM
 
-ibandronate 40 mg/ mois en perfusion
+  - Raloxifène 60mg/24h
 
-zolédronate 5 mg / 6 mois
+- Biphosphonates:
+
+  - alendronate 70 mg/ semaine oral​
+
+  - ibandronate 40 mg/ mois en perfusion
+
+  - zolédronate 5 mg / 6 mois
 
 ESI: digestifs, généraux, ostéonécrose de la machoire
 
-nouvelles molécules:​
+- nouvelles molécules:​
 
-Tériparatide​
+  - Tériparatide​
 
-Strontium
+  - Strontium
 
-dénosumab​
+  - dénosumab​
 
-physiques:​  rééducation douce (contre l'amyotrophie)​
+#### physiques:​
 
-orthopédiques: corset, immobilisation platrée
+- rééducation douce (contre l'amyotrophie)​
 
-chirurgicaux:​
+- orthopédiques: corset, immobilisation platrée
 
-cimentoplastie
+#### chirurgicaux:​
 
-vertébroplastie
+- cimentoplastie
 
-ostéosynthèse
+- vertébroplastie
 
-indications:​
+- ostéosynthèse
 
-ostéoporose commune non fracturaire: IEC,CA-VITD, BP
+### indications:​
 
-ostéoporose commune fracturaire: hospitalisation, orthopédie, chirurgie, BP antalgique
+- ostéoporose commune non fracturaire: IEC,CA-VITD, BP
 
-prévention:​
+- ostéoporose commune fracturaire: hospitalisation, orthopédie, chirurgie, BP antalgique
 
-primaire: éviction des facteurs favorisants​
+## prévention:​
 
-secondaire: prise en charge précoce de la pathologie
+- primaire: éviction des facteurs favorisants​
 
-tertiaire: prise en charge précoce des fractures
+- secondaire: prise en charge précoce de la pathologie
 
-FRASC: probabilité de faire une ostéoporose dans 10 ans​
+- tertiaire: prise en charge précoce des fractures
+
+- FRASC: probabilité de faire une ostéoporose dans 10 ans​
