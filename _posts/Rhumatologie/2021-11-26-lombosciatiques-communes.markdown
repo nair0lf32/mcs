@@ -8,351 +8,210 @@ permalink: /lombosciatique/
 ---
 
 # Lombosciatiques communes:
-Définition: Douleur localisée au rachis lombaire avec irradiation dans les membres inférieurs suivant le trajet du nerf sciatique, due à une détérioration du disque intervertébral et/ou des articulations vertébrales postérieures.
 
-Etiopathogénie:
+## Définition:
 
-Terrain: adulte jeune, prédilection 30-50 ans, légère prédominance masculine
+Douleur localisée au rachis lombaire avec irradiation dans les membres inférieurs suivant le trajet du nerf sciatique, due à une détérioration du disque intervertébral et/ou des articulations vertébrales postérieures.
 
-facteurs : 
+## Etiopathogénie:
 
-obésité
+### Terrain:
 
-surmenage articulaire​​
+- adulte jeune
+- prédilection 30-50 ans
+- légère prédominance masculine
 
-mécanisme: détérioration des éléments du rachis lombaire entrainant un compression nerveuse par:
+### facteurs :
 
-conflit disco-radiculaire
+- obésité
 
-conflit ostéo-radiculaire​
+- surmenage articulaire​​
 
-  ces conflits sont à l'origine d'un phénomène inflammatoire local responsable en grande partie des       poussées douloureuses.​
+### mécanisme:
 
-Diagnostic positif:​ (tdd = Lombosciatique aigue non compliquée)
+- détérioration des éléments du rachis lombaire entrainant un compression nerveuse par:
 
-signes cliniques:
+- conflit disco-radiculaire
 
-Signes fonctionnels: 
+- conflit ostéo-radiculaire​
 
-Douleur: Lombalgie vive, de début brutal à l'occasion d'un effort avec sensation de blocage, parfois pas de facteur déclenchant, évoluant depuis moins d'un mois (aigue), d'horaire mécanique, impulsive et intense.
+ces conflits sont à l'origine d'un phénomène inflammatoire local responsable en grande partie des poussées douloureuses.​
 
-Sciatalgie (douleur) soit dans le territoire de L5 ou S1 (voire examen du rachis)
+## Diagnostic positif:​
 
-impotence fonctionnelle majeure
+(tdd = Lombosciatique aigue non compliquée)
 
-pas de signes généraux mais antécédents de lombalgie souvent, préciser le contexte socio-professionnel (nature du travail exercé, habitudes de vie..)
+### signes cliniques:
 
-Signes physiques:​
+#### Signes fonctionnels:
 
-syndrome rachidien: 
+- Douleur: Lombalgie vive, de début brutal à l'occasion d'un effort avec sensation de blocage, parfois pas de facteur déclenchant, évoluant depuis moins d'un mois (aigue), d'horaire mécanique, impulsive et intense.
 
-trouble statique: ​attitude scoliotique (position antalgique) et effacement de la lordose lombaire (physiologique)
+- Sciatalgie (douleur) soit dans le territoire de L5 ou S1 (voire examen du rachis)
 
-spinalgie palpatoire L4-L5 ou L5-S1 avec ou sans contracture des muscles paravertébraux
+- impotence fonctionnelle majeure
 
-Raideur rachidienne élective (affecte certains mouvements, les autres sont conservés)
+- pas de signes généraux mais antécédents de lombalgie souvent, préciser le contexte socio-professionnel (nature du travail exercé, habitudes de vie..)
 
-syndrome radiculaire: 
+#### Signes physiques:​
 
-signe de la sonnette​
+- syndrome rachidien:
 
-signe de lasègue
+  - trouble statique: ​attitude scoliotique (position antalgique) et effacement de la lordose lombaire (physiologique)
 
-signe du talon
+  - spinalgie palpatoire L4-L5 ou L5-S1 avec ou sans contracture des muscles paravertébraux
 
-signe de la pointe
+  - Raideur rachidienne élective (affecte certains mouvements, les autres sont conservés)
 
-L'examen neurologique est normal (le tdd étant non compliqué), mais il doit etre systématiquement réalisé​ à la recherche d'un syndrome neurogène périphérique...
+- syndrome radiculaire:
 
-Etat général conservé
+  - signe de la sonnette​
 
-signes paracliniques:​
+  - signe de lasègue
 
-Biologie:
+  - signe du talon
 
-NFS (leucocytes 5000 à 10000/mm3),VS(< 10mm à h1) ,CRP(< 6mg/L) normales
+  - signe de la pointe
 
-imagerie:
+- L'examen neurologique est normal (le tdd étant non compliqué), mais il doit etre systématiquement réalisé​ à la recherche d'un syndrome neurogène périphérique...
 
-radiographie du rachis dorso-lombo-pelvi-fémorale (incidence de sèze):​ normale au peut montrer un pincement. il faut aussi s'assurer de la parfaite visibilité des pédicules, des épineuses et des pédicules transverses et d'absence de modification de la densité osseuse, d'une diminution de la hauteur du corps vertébral, et de l'altération des contours osseux.
+- Etat général conservé
 
-le scanner(TDM) et l'imagerie par résonnance magnétique (IRM): confirment le diagnostic en précisant la topographie de l'atteinte
+### signes paracliniques:​
 
-Evolution:​
+#### Biologie:
 
-surveillance:
+- NFS (leucocytes 5000 à 10000/mm3),VS(< 10mm à h1) ,CRP(< 6mg/L) normales
 
-clinique: douleur lombaire et radiculaire par EVA, contracture paravertébrale, mobilité rachidienne (quotidien)
+#### imagerie:
 
-Formes cliniques: 
+- radiographie du rachis dorso-lombo-pelvi-fémorale (incidence de sèze):​ normale au peut montrer un pincement. il faut aussi s'assurer de la parfaite visibilité des pédicules, des épineuses et des pédicules transverses et d'absence de modification de la densité osseuse, d'une diminution de la hauteur du corps vertébral, et de l'altération des contours osseux.
 
-topographiques:​
+- le scanner(TDM) et l'imagerie par résonnance magnétique (IRM): confirment le diagnostic en précisant la topographie de l'atteinte
 
-Lombosciatique bilatérale
+### Evolution:​
 
-Lombosciatique tronquée
+#### surveillance:
 
-symptomatiques:
+- clinique: douleur lombaire et radiculaire par EVA, contracture paravertébrale, mobilité rachidienne (quotidien)
 
-forme hyperalgique
+## Formes cliniques:
 
-Lombosciatique claudicante (périmètre de marche à définir)
+- topographiques:​
 
-évolutives: ​
+  - Lombosciatique bilatérale
 
-Lombosciatique chronique: persistance des douleurs > 3 mois​, retentissement socio-professionel, économique et psychoaffectif important, examen clinique plus pauvre
+  - Lombosciatique tronquée
 
-Lombosciatique paralysante: déficit sensitivo-moteur L5 ou S1, syndrome de la queue de cheval, ou du cone terminal
+- symptomatiques:
 
-selon le terrain: ​
+  - forme hyperalgique
 
-enfant, adolescent
+  - Lombosciatique claudicante (périmètre de marche à définir)
 
-sujet agé
+- évolutives: ​
 
-diagnostic différentiel:​
+  - Lombosciatique chronique: persistance des douleurs > 3 mois​, retentissement socio-professionel, économique et psychoaffectif important, examen clinique plus pauvre
 
-myélome multiple ( sujet agé > 60ans, rachialgies diffuses, plasmocytose médullaire)
+  - Lombosciatique paralysante: déficit sensitivo-moteur L5 ou S1, syndrome de la queue de cheval, ou du cone terminal
 
-métastases osseuses ( cancers ostéophyles: prostate et sein+++)
+- selon le terrain: ​
 
-mal de pott ( la radiographie montre la spondylodiscite)
+  - enfant, adolescent
 
-ostéoporose idiopathique
+  - sujet agé
 
-autre douleur ostéoarticulaire (lombalgie, sacroiliite, coxopathie..)
+## diagnostic différentiel:​
 
-douleur extrarachidienne (colique néphrétique, tumeur pelvienne, anévrysme de l'aorte..)
+- myélome multiple ( sujet agé > 60ans, rachialgies diffuses, plasmocytose médullaire)
 
-diagnostic étiologique: ​
+- métastases osseuses ( cancers ostéophyles: prostate et sein+++)
 
-causes discales:
+- mal de pott ( la radiographie montre la spondylodiscite)
 
-Hernie discale+++: début brutal, douleur mécanique, impulsive, trajet L5, S1, L3 ou L4, antécédents de lombalgie, syndrome rachidien lombaire segmentaire, syndrome radiculaire unilatéral monoradiculaire, la radiographie montre un baillement postérieur L4-L5, diagnostic confirmé au scanner ou à l'IRM​
+- [ostéoporose idiopathique]({{ site.baseurl }}{% link _posts/Rhumatologie/2021-11-26-ostéoporose-commune.markdown %})
 
-Discarthrose: début progressif en général, douleur mécanique, peu impulsive, trajet L5, S1, L3 ou L4, souvent peu systématisé, antécédents lombalgiques, syndrome rachidien lombaire segmentaire, syndrome radiculaire uni ou bidirectionnel, la radiographie montre un pincement discal, parfois vide discal, une condensation des plateaux vertébraux, des ostéphytes marginaux
+- autre douleur ostéoarticulaire (lombalgie, sacroiliite, coxopathie..)
 
-causes non discales:​ la douleur radiculaire limite la marche,est non impulsive et son trajet est souvent moins typique et peut etre pluri-radiculaire
+- douleur extrarachidienne (colique néphrétique, tumeur pelvienne, anévrysme de l'aorte..)
 
-​Arthrose postérieure​
+## diagnostic étiologique: ​
 
-Spondylolisthesis
+- causes discales:
 
-canal lombaire rétréci
+  - Hernie discale+++: début brutal, douleur mécanique, impulsive, trajet L5, S1, L3 ou L4, antécédents de lombalgie, syndrome rachidien lombaire segmentaire, syndrome radiculaire unilatéral monoradiculaire, la radiographie montre un baillement postérieur L4-L5, diagnostic confirmé au scanner ou à l'IRM​
 
-Fibrose post-opératoire
+  - Discarthrose: début progressif en général, douleur mécanique, peu impulsive, trajet L5, S1, L3 ou L4, souvent peu systématisé, antécédents lombalgiques, syndrome rachidien lombaire segmentaire, syndrome radiculaire uni ou bidirectionnel, la radiographie montre un pincement discal, parfois vide discal, une condensation des plateaux vertébraux, des ostéphytes marginaux
 
-Traitement: (curatif, séparé de la prévention pour un souci de lisibilité)
+- causes non discales:​ la douleur radiculaire limite la marche,est non impulsive et son trajet est souvent moins typique et peut etre pluri-radiculaire
 
-buts: ​lutter contre la douleur,éviter la chronicité, éviter les complications...
+  - [arthrose postérieure]({{ site.baseurl }}{% link _posts/Rhumatologie/2021-11-16-arthrose.markdown %})
 
-moyens:
+  - Spondylolisthesis
 
-non médicamenteux:  éducation thérapeutique, mesures hygiéno-diététiques(hygiène du dos)...​
+  - canal lombaire rétréci
 
-médicamenteux:
+  - Fibrose post-opératoire
 
-antalgiques: (tous)​
+## Traitement:
 
-tramadol 50/100/200 mg oral 400mg/24h en 2 ou 3 prises, ESI: nausées,vomissements,vertiges
+(curatif, séparé de la prévention pour un souci de lisibilité)
 
-morphine: 5,10,20mg oral 60mg/24h en 3 à 4 prises, ESI: vertiges, constipation
+### buts:
 
-anti-inflammatoires non stéroidiens (AINS):
+​lutter contre la douleur,éviter la chronicité, éviter les complications...
 
-diclofénac 50/75/100 mg oral 150 mg/24h en 3 prises (Les AINS sont toujours pris au milieu d'un repas, expliquer au patient) ESI: ulcère, insufisance rénale..
-ur l'appli
-MES FICHES D'EXTERNAT
-mon site post-it personnel
-Lombosciatique Commune:​​​ 
+### moyens:
 
-Définition: Douleur localisée au rachis lombaire avec irradiation dans les membres inférieurs suivant le trajet du nerf sciatique, due à une détérioration du disque intervertébral et/ou des articulations vertébrales postérieures.
+#### non médicamenteux:
 
-Etiopathogénie:
+- éducation thérapeutique
+- mesures hygiéno-diététiques(hygiène du dos)...​
 
-Terrain: adulte jeune, prédilection 30-50 ans, légère prédominance masculine
+#### médicamenteux:
 
-facteurs : 
+- antalgiques: (tous)​
 
-obésité
+  - tramadol 50/100/200 mg oral 400mg/24h en 2 ou 3 prises, ESI: nausées,vomissements,vertiges
 
-surmenage articulaire​​
+  - morphine: 5,10,20mg oral 60mg/24h en 3 à 4 prises, ESI: vertiges, constipation
 
-mécanisme: détérioration des éléments du rachis lombaire entrainant un compression nerveuse par:
+- anti-inflammatoires non stéroidiens (AINS):
 
-conflit disco-radiculaire
+  - diclofénac 50/75/100 mg oral 150 mg/24h en 3 prises (Les AINS sont toujours pris au milieu d'un repas, expliquer au patient) ESI: ulcère, insufisance rénale..
 
-conflit ostéo-radiculaire​
+  - acéclofénac 100mg oral 200mg/24h en deux prises, ESI: digestifs et rénal..
 
-  ces conflits sont à l'origine d'un phénomène inflammatoire local responsable en grande partie des       poussées douloureuses.​
+- Myorelaxants: tetrazepam, diazepam...​
 
-Diagnostic positif:​ (tdd = Lombosciatique aigue non compliquée)
+- Antidépresseurs antiépileptiques: gabapentine, pregabaline
 
-signes cliniques:
+- corticoides par voie locale
 
-Signes fonctionnels: 
+#### physiques:
 
-Douleur: Lombalgie vive, de début brutal à l'occasion d'un effort avec sensation de blocage, parfois pas de facteur déclenchant, évoluant depuis moins d'un mois (aigue), d'horaire mécanique, impulsive et intense.
+- massokinésithérapie (15-20 séances) à but antalgique ou de rééducation,
 
-Sciatalgie (douleur) soit dans le territoire de L5 ou S1 (voire examen du rachis)
+- orthèses lombaires (platre, résine, ceinture..)
 
-impotence fonctionnelle majeure
+#### chirurgicaux:
 
-pas de signes généraux mais antécédents de lombalgie souvent, préciser le contexte socio-professionnel (nature du travail exercé, habitudes de vie..)
+- cure hernaire (discectomie, laminectomie..)
 
-Signes physiques:​
+- rhizolyse
 
-syndrome rachidien: 
+- arthrodèse
 
-trouble statique: ​attitude scoliotique (position antalgique) et effacement de la lordose lombaire (physiologique)
+- remplacement prothétique
 
-spinalgie palpatoire L4-L5 ou L5-S1 avec ou sans contracture des muscles paravertébraux
+### indications:​
 
-Raideur rachidienne élective (affecte certains mouvements, les autres sont conservés)
+- Lombosciatique aigue commune: repos au lit, éducation thérapeutique, antalgiques, AINS, immobilisation par othèse à la phase algique
 
-syndrome radiculaire: 
+- Lombosciatique chronique: éducation thérapeutique,soutien psychologique/antidépresseurs, antalgiques(tramadol),kinésithérapie+++,chirurgie
 
-signe de la sonnette​
+## surveillance: ​
 
-signe de lasègue
+- clinique: ​effets secondaires des médicaments++
 
-signe du talon
-
-signe de la pointe
-
-L'examen neurologique est normal (le tdd étant non compliqué), mais il doit etre systématiquement réalisé​ à la recherche d'un syndrome neurogène périphérique...
-
-Etat général conservé
-
-signes paracliniques:​
-
-Biologie:
-
-NFS (leucocytes 5000 à 10000/mm3),VS(< 10mm à h1) ,CRP(< 6mg/L) normales
-
-imagerie:
-
-radiographie du rachis dorso-lombo-pelvi-fémorale (incidence de sèze):​ normale au peut montrer un pincement. il faut aussi s'assurer de la parfaite visibilité des pédicules, des épineuses et des pédicules transverses et d'absence de modification de la densité osseuse, d'une diminution de la hauteur du corps vertébral, et de l'altération des contours osseux.
-
-le scanner(TDM) et l'imagerie par résonnance magnétique (IRM): confirment le diagnostic en précisant la topographie de l'atteinte
-
-Evolution:​
-
-surveillance:
-
-clinique: douleur lombaire et radiculaire par EVA, contracture paravertébrale, mobilité rachidienne (quotidien)
-
-Formes cliniques: 
-
-topographiques:​
-
-Lombosciatique bilatérale
-
-Lombosciatique tronquée
-
-symptomatiques:
-
-forme hyperalgique
-
-Lombosciatique claudicante (périmètre de marche à définir)
-
-évolutives: ​
-
-Lombosciatique chronique: persistance des douleurs > 3 mois​, retentissement socio-professionel, économique et psychoaffectif important, examen clinique plus pauvre
-
-Lombosciatique paralysante: déficit sensitivo-moteur L5 ou S1, syndrome de la queue de cheval, ou du cone terminal
-
-selon le terrain: ​
-
-enfant, adolescent
-
-sujet agé
-
-diagnostic différentiel:​
-
-myélome multiple ( sujet agé > 60ans, rachialgies diffuses, plasmocytose médullaire)
-
-métastases osseuses ( cancers ostéophyles: prostate et sein+++)
-
-mal de pott ( la radiographie montre la spondylodiscite)
-
-ostéoporose idiopathique
-
-autre douleur ostéoarticulaire (lombalgie, sacroiliite, coxopathie..)
-
-douleur extrarachidienne (colique néphrétique, tumeur pelvienne, anévrysme de l'aorte..)
-
-diagnostic étiologique: ​
-
-causes discales:
-
-Hernie discale+++: début brutal, douleur mécanique, impulsive, trajet L5, S1, L3 ou L4, antécédents de lombalgie, syndrome rachidien lombaire segmentaire, syndrome radiculaire unilatéral monoradiculaire, la radiographie montre un baillement postérieur L4-L5, diagnostic confirmé au scanner ou à l'IRM​
-
-Discarthrose: début progressif en général, douleur mécanique, peu impulsive, trajet L5, S1, L3 ou L4, souvent peu systématisé, antécédents lombalgiques, syndrome rachidien lombaire segmentaire, syndrome radiculaire uni ou bidirectionnel, la radiographie montre un pincement discal, parfois vide discal, une condensation des plateaux vertébraux, des ostéphytes marginaux
-
-causes non discales:​ la douleur radiculaire limite la marche,est non impulsive et son trajet est souvent moins typique et peut etre pluri-radiculaire
-
-​Arthrose postérieure​
-
-Spondylolisthesis
-
-canal lombaire rétréci
-
-Fibrose post-opératoire
-
-Traitement: (curatif, séparé de la prévention pour un souci de lisibilité)
-
-buts: ​lutter contre la douleur,éviter la chronicité, éviter les complications...
-
-moyens:
-
-non médicamenteux:  éducation thérapeutique, mesures hygiéno-diététiques(hygiène du dos)...​
-
-médicamenteux:
-
-antalgiques: (tous)​
-
-tramadol 50/100/200 mg oral 400mg/24h en 2 ou 3 prises, ESI: nausées,vomissements,vertiges
-
-morphine: 5,10,20mg oral 60mg/24h en 3 à 4 prises, ESI: vertiges, constipation
-
-anti-inflammatoires non stéroidiens (AINS):
-
-diclofénac 50/75/100 mg oral 150 mg/24h en 3 prises (Les AINS sont toujours pris au milieu d'un repas, expliquer au patient) ESI: ulcère, insufisance rénale..
-
-acéclofénac 100mg oral 200mg/24h en deux prises, ESI: digestifs et rénal..
-
-Myorelaxants: tetrazepam, diazepam...​
-
-Antidépresseurs antiépileptiques: gabapentine, pregabaline
-
-corticoides par voie locale
-
-physiques:
-
- massokinésithérapie (15-20 séances) à but antalgique ou de rééducation,
-
-orthèses lombaires (platre, résine, ceinture..)
-
-chirurgicaux:
-
- cure hernaire (discectomie, laminectomie..)
-
-rhizolyse
-
-arthrodèse
-
-remplacement prothétique
-
-indications:​
-
-Lombosciatique aigue commune: repos au lit, éducation thérapeutique, antalgiques, AINS, immobilisation par othèse à la phase algique
-
-Lombosciatique chronique: éducation thérapeutique,soutien psychologique/antidépresseurs, antalgiques(tramadol),kinésithérapie+++,chirurgie
-
-surveillance: ​
-
-clinique: ​effets secondaires des médicaments++
-
-paraclinique: fonctions rénale et hépatique
-
+- paraclinique: fonctions rénale et hépatique
