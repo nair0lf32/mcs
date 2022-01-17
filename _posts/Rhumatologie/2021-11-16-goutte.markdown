@@ -7,13 +7,15 @@ categories: Rhumatologie
 permalink: /goutte/
 ---
 
-# Goutte:​​​
+# Goutte:
 
-Définition: Atteinte articulaire inflammatoire liée à une surcharge importante et prolongée de l'organisme en acide urique aboutissant à une hyperuricémie ( > 60mg/L chez la femme et > 70mg/L chez l'homme )
+## Définition:
 
-Etiopathogénie:
+Atteinte articulaire inflammatoire liée à une surcharge importante et prolongée de l'organisme en acide urique aboutissant à une hyperuricémie ( > 60mg/L chez la femme et > 70mg/L chez l'homme )
 
-Terrain:
+## Etiopathogénie:
+
+### Terrain:
 
 L'enfant n'a pas de goutte avant l'age du coit​
 
@@ -21,180 +23,189 @@ La femme ne l'a pas avant la ménopause
 
 Les eunuques ne sont ni chauves ni goutteux
 
-facteurs :
+### facteurs :
 
 plus fréquente chez l'homme que la femme, mais cette différe,ce s'atténue à l'age de la ménopause
 
 forme primitive: Sujet obèse, bon vivant, amateur de bonne chair et de bons vins
 
-mécanisme:
+### mécanisme:
 
-Hyperuricémie: résultant soit d'une production excessive, soit un défaut d'élimination
+- Hyperuricémie: résultant soit d'une production excessive, soit un défaut d'élimination
 
-Précipitation: fortement liée à la chronicité de l'hyperuricémie, et des facteurs comme le PH sanguin et la température ambiante
+- Précipitation: fortement liée à la chronicité de l'hyperuricémie, et des facteurs comme le PH sanguin et la température ambiante
 
-Diagnostic positif:​ (tdd = crise aigue de goutte au gros orteil)
+## Diagnostic positif:
 
-signes cliniques:
+(tdd = crise aigue de goutte au gros orteil)
 
-Signes fonctionnels:
+### signes cliniques:
 
-Douleur: spontanée ou déclenchée par un/des facteur(s) (excès alimentaire ou alcoolique, consommation de certains aliments, traumatisme local, surmenage physique ou intellectuel, maladie intercurrente, traitement diurétique ou hypouricémiant...). Parfois prodromes (malaises,troubles digestifs, fourmillements, paresthésies...)
+#### Signes fonctionnels:
 
-La crise débute la nuit au niveau de l'articulation métatarso-phalangienne du gros orteil. Il s'agit d'un véritable coup de tonnerre dans un ciel serein. Le patient est réveillé par une douleur d'apparition brutale qui devient vite violente et mémorable. Le patient se rappelle la date plusieurs années plus tard. Elle est pulsatile, lancinante à type de broiement. Elle est exacerbée par le moindre frolement, meme le frottement du drap sur l'orteil est insuportable obligeant le malade à rester confiné au lit. L'impotence fontionnelle est absolue. Le siège au niveau du gros orteil rend le port de chaussure impossible. La crise dure toute la nuit et cède partiellement au petit matin (chant du coq), reste sourde dans la journée pour reprendre de plus belle la nuit suivante (le malade a la hantise de la nuit) sur une durée de 7 à 10 jours (douleur dizaine de chapelet). La fin de la crise est caractérisée par une sensation de bien-etre du patient (le malade a l'impression d'etre délivré). la fin de la crise est marquée par une desquamation cutanée en pelure d'oignon.
+- Douleur: spontanée ou déclenchée par un/des facteur(s) (excès alimentaire ou alcoolique, consommation de certains aliments, traumatisme local, surmenage physique ou intellectuel, maladie intercurrente, traitement diurétique ou hypouricémiant...). Parfois prodromes (malaises,troubles digestifs, fourmillements, paresthésies...)
 
-signes généraux:​
+> " La crise débute la nuit au niveau de l'articulation métatarso-phalangienne du gros orteil. Il s'agit d'un véritable coup de tonnerre dans un ciel serein. Le patient est réveillé par une douleur d'apparition brutale qui devient vite violente et mémorable. Le patient se rappelle la date plusieurs années plus tard. Elle est pulsatile, lancinante à type de broiement. Elle est exacerbée par le moindre frolement, meme le frottement du drap sur l'orteil est insuportable obligeant le malade à rester confiné au lit. L'impotence fontionnelle est absolue. Le siège au niveau du gros orteil rend le port de chaussure impossible. La crise dure toute la nuit et cède partiellement au petit matin (chant du coq), reste sourde dans la journée pour reprendre de plus belle la nuit suivante (le malade a la hantise de la nuit) sur une durée de 7 à 10 jours (douleur dizaine de chapelet). La fin de la crise est caractérisée par une sensation de bien-etre du patient (le malade a l'impression d'etre délivré). la fin de la crise est marquée par une desquamation cutanée en pelure d'oignon."
 
-patient agité​
+#### signes généraux:
 
-fièvre ( souvent > 39°c) sans altération de l'état général
+- patient agité
 
-Signes physiques:​
+- fièvre ( souvent > 39°c) sans altération de l'état général
 
-inspection: articulation tuméfiée, peau tendue, luisante, dilatation veineuse, sueur​
+#### Signes physiques:
 
-palapation: chaleur locale​
+- inspection: articulation tuméfiée, peau tendue, luisante, dilatation veineuse, sueur
 
-mobilisation: impossible à cause de la douleur
+- palapation: chaleur locale
 
-ponction articulaire: liquide infllammatoire
+- mobilisation: impossible à cause de la douleur
 
-signes paracliniques:​
+- ponction articulaire: liquide infllammatoire
 
-Biologie:​
+### signes paracliniques:​
 
-hémogramme (NFS): hyperleucocytose ( > 15000/mm3 ) à prédominace neutrophile​ (normale entre 5000 et 1000) une trombocytose ( > 400000/mm3) (normale entre 150000 et 300000)
+#### Biologie:​
 
-vitesse de sédimentation (VS): élevée, pouvant dépasser 100 mm à h1 (normale < 10)
+- hémogramme (NFS): hyperleucocytose ( > 15000/mm3 ) à prédominace neutrophile​ (normale entre 5000 et 1000) une trombocytose ( > 400000/mm3) (normale entre 150000 et 300000)
 
-protéine c réactive (CRP): augmentée > 100mg/L voire 200 (normale < 6mg/L)
+- vitesse de sédimentation (VS): élevée, pouvant dépasser 100 mm à h1 (normale < 10)
 
-dosage du taux d'acide urique (uricémie): > 70mg/L chez l'homme et > 60mg/L chez la femme. l'hyperuricémie est inconstante durant la crise et doit etre différée 3-4 jours après la crise
+- protéine c réactive (CRP): augmentée > 100mg/L voire 200 (normale < 6mg/L)
 
-anlyse du liquide de ponction: liquide trouble parfois purulent avec plus de 50000 éléments par mm3 et contenant des cristaux d'urate de sodium (fines aiguilles pointues aux deux extrémités, souvent à l'intérieur d'un polynucléaire qu'ils embrochent, fortement biréfringents en lumière polarisée. confirment le diagnostic). il n'y a pas de germe.
+- dosage du taux d'acide urique (uricémie): > 70mg/L chez l'homme et > 60mg/L chez la femme. l'hyperuricémie est inconstante durant la crise et doit etre différée 3-4 jours après la crise
 
-Evolution:​
+- anlyse du liquide de ponction: liquide trouble parfois purulent avec plus de 50000 éléments par mm3 et contenant des cristaux d'urate de sodium (fines aiguilles pointues aux deux extrémités, souvent à l'intérieur d'un polynucléaire qu'ils embrochent, fortement biréfringents en lumière polarisée. confirment le diagnostic). il n'y a pas de germe.
 
-surveillance:
+### Evolution:
 
-clinique: douleur par EVA, signes locaux de l'inflammation ( mal traitée: évolution vers la chronicité )
+#### surveillance:
 
-paraclinique: NFS, VS, CRP, uricémie
+- clinique: douleur par EVA, signes locaux de l'inflammation ( mal traitée: évolution vers la chronicité )
 
-Formes cliniques:
+- paraclinique: NFS, VS, CRP, uricémie
 
-compliquée ( goutte chronique ):
+## Formes cliniques:
 
-tophus/tophi: masses sous-cutanées indolores, de consistance ferme, de taille variable pouvant atteindre une "orange"​, d'abord mou puis ferme,en cas d'ulcération laisse soudre une bouillie crayeuse blanchatre. ils siègent aux mains, coudes, médiotarses, gros orteil, pavillon des oreilles..
+- compliquée ( goutte chronique ):
 
-Lésions articulaires (arthropathie uratique): conséquences de la destruction articulaire, siégeant aux meme endroits que les tophi, tuméfaction et déformation régulière bosselée, douleurs à la mobilisation, raideur articualire. géodes à la radiographie articulaire avec des lacunes et des lésions pseudoarthrosiques en "hallebarde"
+  - tophus/tophi: masses sous-cutanées indolores, de consistance ferme, de taille variable pouvant atteindre une "orange", d'abord mou puis ferme,en cas d'ulcération laisse soudre une bouillie crayeuse blanchatre. ils siègent aux mains, coudes, médiotarses, gros orteil, pavillon des oreilles..
 
-atteinte rénale: lithiase rénale secondaire à une congrégation de cristaux dans les voies urinaires, colique néphrétique, échographie rénale et voies urinaires. On peut aussi avoir une insuffisance rénale secondaire à une lithiase obstructive avec retentissement sur le haut appareil urinaire et dépot d'urate de sodium dans le parenchyme rénal.
+  - Lésions articulaires (arthropathie uratique): conséquences de la destruction articulaire, siégeant aux meme endroits que les tophi, tuméfaction et déformation régulière bosselée, douleurs à la mobilisation, raideur articualire. géodes à la radiographie articulaire avec des lacunes et des lésions pseudoarthrosiques en "hallebarde"
 
-topographiques:​
+  - atteinte rénale: lithiase rénale secondaire à une congrégation de cristaux dans les voies urinaires, colique néphrétique, échographie rénale et voies urinaires. On peut aussi avoir une insuffisance rénale secondaire à une lithiase obstructive avec retentissement sur le haut appareil urinaire et dépot d'urate de sodium dans le parenchyme rénal.
 
-autres articulations: cheville, genou, main, coude (monoarticulaire, oligoarticulaire, ou polyarticulaire) (prédomine à une articulation du membre inférieur)
+- topographiques:
 
-extra-articualires: ténosynovite (tendon et gaine), bursite (bourses séreuses)
+  - autres articulations: cheville, genou, main, coude (monoarticulaire, oligoarticulaire, ou polyarticulaire) (prédomine à une articulation du membre inférieur)
 
-symptomatiques:
+  - extra-articualires: ténosynovite (tendon et gaine), bursite (bourses séreuses)
 
-forme suraigue,pseudo-phlegmoneuse: tableau fébrile et signes fluxionnaires locaux intenses
+- symptomatiques:
 
-goutte asthénique: phénomènes inflammatoires modérés , peu intenses et tableau peu caractérisque
+  - forme suraigue,pseudo-phlegmoneuse: tableau fébrile et signes fluxionnaires locaux intenses
 
-selon le terrain: ​
+  - goutte asthénique: phénomènes inflammatoires modérés , peu intenses et tableau peu caractérisque
 
-sexe: maladie de l'homme, possible chez la femme ménopausée et secondaire chez la femme non-ménopausée..
+- selon le terrain:
 
-age: rares chez l'enfant, liées à un défict en HGPRT ( hypoxanthine-guanine-phospho-ribosyl-transférase ), maladie de LESCH NYHAN
+  - sexe: maladie de l'homme, possible chez la femme ménopausée et secondaire chez la femme non-ménopausée..
 
-diagnostic différentiel:​
+  - age: rares chez l'enfant, liées à un défict en HGPRT ( hypoxanthine-guanine-phospho-ribosyl-transférase ), maladie de LESCH NYHAN
 
-arthrite septique (similitude clinique et biologique, porte d'entée, terrain favorisant, ponction articulaire+++)
+## diagnostic différentiel:​
 
-poussée congestive d'arthrose (pas de signes inflammatoires locaux, ni biologiques)
+- [arthrite septique]({{ site.baseurl }}{% link _posts/Rhumatologie/2021-11-26-arthrite-infectieuse.markdown %}) (similitude clinique et biologique, porte d'entée, terrain favorisant, ponction articulaire+++)
 
-choncrocalcinose articulaire (similitude clinique, femme agée++, liserés calciques à la radiographie des genous et des poignets soit une méniscocalcinose, la ponction articulaire montre des cristaux de pyrophosphate de calcium dihydratés avec une forme paralépipède)
+- poussée congestive d'[arthrose]({{ site.baseurl }}{% link _posts/Rhumatologie/2021-11-16-arthrose.markdown %}) (pas de signes inflammatoires locaux, ni biologiques)
 
-arthrite réactionelle
+- choncrocalcinose articulaire (similitude clinique, femme agée++, liserés calciques à la radiographie des genous et des poignets soit une méniscocalcinose, la ponction articulaire montre des cristaux de pyrophosphate de calcium dihydratés avec une forme paralépipède)
 
-rhumatisme psoriasique
+- [arthrite réactionelle]({{ site.baseurl }}{% link _posts/Rhumatologie/2021-11-26-spondylarthrites.markdown %})
 
-polyarthrite rhumatoide
+- [rhumatisme psoariasique]({{ site.baseurl }}{% link _posts/Rhumatologie/2021-11-26-spondylarthrites.markdown %})
 
-diagnostic étiologique: ​
+- [polyarthrite rhumatoide]({{ site.baseurl }}{% link _posts/Rhumatologie/2021-11-16-polyarthrite-rhumatoide.markdown %})
 
-goutte primitive ou idiopathique​
+## diagnostic étiologique: ​
 
-goutte secondaire:
+- goutte primitive ou idiopathique​
 
-causes rénales:​ insuffisance rénale chronique, polykystose rénale, saturnisme (intoxication au plomb)
+- goutte secondaire:
 
-causes hématologiques: leucémies, myélome, hémoglobinopathies
+  - causes rénales:​ insuffisance rénale chronique, polykystose rénale, saturnisme (intoxication au plomb)
 
-causes endocriniennes: diabète sucré, hypothyroidie, hyperparathyroidie
+  - causes hématologiques: leucémies, myélome, hémoglobinopathies
 
-cause iatrogènes: aspirine à faible dose, diurétiques, betabloquants, antituberculeux (pyrazinamide et ethambutol)
+  - causes endocriniennes: diabète sucré, hypothyroidie, hyperparathyroidie
 
-autres causes: psoriasis étendu, sarcoidose...
+  - cause iatrogènes: aspirine à faible dose, diurétiques, betabloquants, antituberculeux (pyrazinamide et ethambutol)
 
-goutte enzymopathique: liée à un déficit en HGPRT ( hypoxanthine-guanine-phospho-ribosyl-transférase ) ou maladie de LESH NYHAN ( forme complète avec retard mental encéphalopathie, automutilation, incompatible avec la vie )​
+  - autres causes: psoriasis étendu, sarcoidose...
 
-Traitement: (curatif, séparé de la prévention pour un souci de lisibilité)
+- goutte enzymopathique: liée à un déficit en HGPRT ( hypoxanthine-guanine-phospho-ribosyl-transférase ) ou maladie de LESH NYHAN ( forme complète avec retard mental encéphalopathie, automutilation, incompatible avec la vie )​
 
-buts: ​lutter contre l'inflammation,éviter les récidives et les complications...
+## Traitement:
 
-moyens:
+(curatif, séparé de la prévention pour un souci de lisibilité)
 
-non médicamenteux: éducation thérapeutique, mesures hygiéno-diététiques(régime alimentaire pauvre en viande et alcool, perte de poids...)
+### buts:
 
-médicamenteux:
+​lutter contre l'inflammation,éviter les récidives et les complications...
 
-antigouteux (symptomatique):
+### moyens:
 
-colchicine 1mg oral 1 à 3cp/24h, ESI: diarrhée
+#### non médicamenteux:
 
-anti-inflammatoires non stéroidiens (AINS):
+- éducation thérapeutique
+- mesures hygiéno-diététiques(régime alimentaire pauvre en viande et alcool, perte de poids...)
 
-diclofénac 50/75/100 mg oral 100 à 150 mg/24h en 3 prises (Les AINS sont toujours pris au milieu d'un repas, expliquer au patient) ESI: ulcère gastroduodénal, insufisance rénale..
+#### médicamenteux:
 
-corticoides:
+- antigouteux (symptomatique):
 
-prednisone 1,5,20mg oral ou injection locale ,ESI: dépendance par voie orale, préférer l'infiltration locale en absence formelle d'arthrite septique​
+  - colchicine 1mg oral 1 à 3cp/24h, ESI: diarrhée
 
-Biothérapie: anticorps anti II-1​
+- anti-inflammatoires non stéroidiens (AINS):
 
-Hypouricémiants:
+  - diclofénac 50/75/100 mg oral 100 à 150 mg/24h en 3 prises (Les AINS sont toujours pris au milieu d'un repas, expliquer au patient) ESI: ulcère gastroduodénal, insufisance rénale..
 
-Allopurinol 100,200,300mg, posologie de base 100mg​, ESi: intolérance rénale...
+- corticoides:
 
-Benzbromarone 100mg, 50 à 100mg sans dépasser 300mg/24h
+  - prednisone 1,5,20mg oral ou injection locale ,ESI: dépendance par voie orale, préférer l'infiltration locale en absence formelle d'arthrite septique​
 
-Febuxostat 80, 120mg, 1cp de 80mg/24h, si objectif non atteint passer à 120mg/24h
+- Biothérapie: anticorps anti II-1​
 
-chirurgicaux:
+- Hypouricémiants:
 
-exérèse de tophi
+  - Allopurinol 100,200,300mg, posologie de base 100mg​, ESi: intolérance rénale...
 
-réparation de lésion ostéoarticulaire
+  - Benzbromarone 100mg, 50 à 100mg sans dépasser 300mg/24h
 
-indications:​
+  - Febuxostat 80, 120mg, 1cp de 80mg/24h, si objectif non atteint passer à 120mg/24h
 
-crise aigue de goutte: colchicine 1mg 1cpx3/24h pendant 1 jour puis 1cpx2/24h les deux jours suivants, puis 1cp/24h, +/- diclofénac 50mg 1cpx3/24h + mesures hygiéno-diététiques ( pas d'hypouricémiant )
+#### chirurgicaux:
 
-goutte chronique: mesures hygiéno-diététiques + hypouricémiant + colchicine ou AINS
+- exérèse de tophi
 
-surveillance: ​​
+- réparation de lésion ostéoarticulaire
 
-maladie:
+### indications:​
 
-clinique: douleur par l'EVA
+- crise aigue de goutte: colchicine 1mg 1cpx3/24h pendant 1 jour puis 1cpx2/24h les deux jours suivants, puis 1cp/24h, +/- diclofénac 50mg 1cpx3/24h + mesures hygiéno-diététiques ( pas d'hypouricémiant )
 
-paraclinique: uricémie tous les 15 jours au début, puis tous les 3 mois si objectif atteint
+- goutte chronique: mesures hygiéno-diététiques + hypouricémiant + colchicine ou AINS
 
-tolérance médicamenteuse: ​
+## surveillance: ​​
 
-clinique: diarrhée (colchicine), prurit (allopurinol)​
+### maladie:
 
-paraclinique: créatininémie+++ et transaminases
+- clinique: douleur par l'EVA
+
+- paraclinique: uricémie tous les 15 jours au début, puis tous les 3 mois si objectif atteint
+
+### tolérance médicamenteuse: ​
+
+- clinique: diarrhée (colchicine), prurit (allopurinol)​
+
+- paraclinique: créatininémie+++ et transaminases
