@@ -85,7 +85,7 @@ VGM = Hte / GR x 10 (normale entre 80-90 femtolitre (fL) )
 
 - macrocytose
 - normocytose
-- microcytose
+- [Microcytose]({{ site.baseurl }}{% link _posts/Généralités/2022-01-21-anemie-microcytaire.markdown %})
 
 Par ailleurs on peut également apprécier la chromie
 
