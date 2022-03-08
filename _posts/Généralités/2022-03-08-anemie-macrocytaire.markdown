@@ -7,7 +7,7 @@ categories: Généralités
 permalink: /anemie-macrocytaire/
 ---
 
-# Anémie Microcytaire
+# Anémie Macrocytaire
 
 ## Definition
 
