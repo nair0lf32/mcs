@@ -33,7 +33,7 @@ Pour résumer les mécanismes de survenue de l'anémie, on peut classer princpal
 - L'Anémie centrale liée à un défaut de production de l'hémoglobine (le taux de reticulocytes est bas)
 - L'Anémie périphérique liée à une consommation excessive de l'hémoglobine (le taux de reticulocytes est normal/élevé)
 
-Les causes sot nombreuses et seron abordées plus bas.
+Les causes sont nombreuses et seront abordées plus bas.
 
 ## Diagnostic positif
 
@@ -61,9 +61,9 @@ Elle peut-etre masquée par un ictère, une cyanose ou se confondre avec un myxo
 
 On peut ensuite avoir d'autres signes indirects ou liés aux étiologies comme:
 
-- cheveux secs, ongles cassants
-- glossite
-- hyppocratisme digital...
+- Cheveux secs, ongles cassants
+- Glossite
+- Hyppocratisme digital...
 
 ### Signes paracliniques
 
@@ -79,13 +79,13 @@ Les valeurs normales du taux d'hémoglobine ayant déja été données en défin
 
 L'anémie n'est pas une pathologie mais un signe. Il importe donc d'en rechercher la cause et la traiter.
 
-Essentiellement trois situations peuvent être observées en observant le volume globulaire moyen (VGM):
+Essentiellement trois situations peuvent être observées en tenant compte du volume globulaire moyen (VGM):
 
 VGM = Hte / GR x 10 (normale entre 80-90 femtolitre (fL) )
 
-- normocytose
 - [Microcytose]({{ site.baseurl }}{% link _posts/Généralités/2022-01-21-anemie-microcytaire.markdown %})
 - [Macrocytose]({{ site.baseurl }}{% link _posts/Généralités/2022-03-08-anemie-macrocytaire.markdown %})
+- [Normocytose]({{ site.baseurl }}{% link _posts/Généralités/2022-03-08-anemie-normocytaire.markdown %})
 
 Par ailleurs on peut également apprécier la chromie
 
