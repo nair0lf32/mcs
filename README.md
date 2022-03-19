@@ -1,6 +1,15 @@
 # MedicalCheatSheets
 
 A simple static jekyll blog about medical pathologies, with small cheat sheets
-as posts or articles. the blog is written in french and articles are added gradually.
+as posts or articles. the blog is written in **French** and articles are added gradually.
 
-Any contriution will be possible when license is added.
+
+The blog includes a progressive web app (pwa) functionality for offline reading:
+
+- Data is precached in the browser using [workbox](https://developers.google.com/web/tools/workbox/).
+
+- Updating to get latest articles can be done when network is available (online)
+
+- The app can be installed via the browser prompt.
+
+Any contribution will be possible when license is added.
