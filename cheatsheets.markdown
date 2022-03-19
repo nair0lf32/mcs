@@ -34,7 +34,9 @@ permalink: /cheatsheets/
 {% endfor %}
 
 <p> 
-Actuellement <b>{{ site.authors.size }}</b> auteur(s) ont contribué au dévelopement de ce blog. Merci à chacun d'entre eux et à tous ceux qui contribuent. Vous pouvez vonsulter la liste des auteurs et voir leur page via le menu ou en cliquant <a href="{{ site.baseurl }}{% link authors.markdown %}" class=""> Ici </a> 
+Actuellement <b>{{ site.authors.size }}</b> auteur(s) ont contribué au dévelopement de ce blog. Merci à tous ceux qui contribuent. 
+Vous pouvez consulter la liste des auteurs et voir leur page via le menu ou en cliquant 
+<a href="{{ site.baseurl }}{% link authors.markdown %}" class=""> Ici </a> 
 <p>
 
 
