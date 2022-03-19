@@ -31,6 +31,11 @@ url: "https://github.com/nair0lf32.io" # the base hostname & protocol for your s
 twitter_username: FlorianEdemessi
 github_username: nair0lf32
 
+# Collections
+collections:
+  authors:
+    output: true
+
 # Build settings
 plugins:
   - jekyll-feed
