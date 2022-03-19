@@ -4,7 +4,7 @@
     "display": "standalone",
     "scope": "/",
     "description": "Blog with medical articles (in french)",
-    "start_url": "https://nair0lf32.github.io/MedicalCheatSheets/",
+    "start_url": "/",
     "name": "Medical Cheat Sheets",
     "short_name": "MCS",
     "icons": [
