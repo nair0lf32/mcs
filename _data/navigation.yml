@@ -4,9 +4,11 @@
 - title: A Propos
   url: /about
 
+- title: Auteurs
+  url: /authors
+
 - title: Cheat Sheets
   url: /cheatsheets
-
   sublinks:
     - title: Tous les articles
       url: /cheatsheets
