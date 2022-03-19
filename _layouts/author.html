@@ -1,0 +1,72 @@
+---
+layout: default
+---
+
+{% assign author = site.authors | where: 'pseudonym', page.author | first %}
+{% if author.name %}
+<h2>{{ author.name }}</h2>
+{% else %}
+<h2>Auteur anonyme</h2>
+{% endif %}
+
+<div class="bio">
+    {% if author.image %}
+    <img src="{{author.image}}" class="avatar" alt="avatar">&nbsp;
+    {% else %}
+    <img src="{{'/assets/images/anon.png?v=' | append: site.github.build_revision | relative_url}}" class="avatar"
+        alt="avatar">&nbsp;
+    {% endif %}
+
+    <h2>Bio:</h2>
+    {% if author.bio %}
+    <p class="bio"> {{ author.bio }}</p>
+    {% else %}
+    <p class="bio"> Aucune bio fournie </p>
+    {% endif %}
+</div>
+
+<h2>Message: </h2>
+
+{{ content }}
+
+<h2>Contacts disponibles: </h2>
+
+<ul>
+    {% if author.github %}
+    <li><a href="https://github.com/{{author.github}}">github</a></li>
+    {% endif %}
+    {% if author.email %}
+    <li><a href="mailto:{{author.email}}">Mail</a></li>
+    {% endif %}
+    {% if author.twitter %}
+    <li><a href="https://twitter.com/{{author.twitter}}">twitter</a></li>
+    {% endif %}
+    {% if author.tel %}
+    <li> telephone: {{author.tel}} </li>
+    {% endif %}
+</ul>
+
+<h2>Mes articles: </h2>
+<ul>
+    {% assign count = 0 %}
+    {% assign filtered_posts = site.posts | where: 'author', page.short_name %}
+    {% for post in filtered_posts %}
+    {% for category in post.categories %}
+    {% unless category contains 'Menu' %}
+    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+    {% assign count = count | plus: 1 %}
+    {% endunless %}
+    {% endfor %}
+    {% endfor %}
+</ul>
+<h3>{{ count }} articles écrits</h3>
+
+
+<style>
+    .avatar {
+        border-radius: 50%;
+        border: 3px black solid;
+        height: 200px;
+        width: 200px;
+    }
+</style>
