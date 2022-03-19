@@ -8,7 +8,12 @@ permalink: /about/
 
 Ce site/blog est alimenté par Jekyll et Github et utilise le thème Cayman. Les liens pour en apprendre plus sur ces technologies sont en pied de page.
 
+Pour contribuer vous devez **ABSOLUMENT lire tout ce qui suit**, surtout si c'est votre toute première contribution.
+
+La documentation aborde les aspects techniques et le paragraphe contribution les étapes à suivre pour faire une contribution.
+
 ## Documentation:
+
 Cette partie concerne surtout les 'pros', en gros toute personne qui s'y connait en développement informatique/web. Le dépot Github du code source est public et open source sous license (à ajouter).Pour contribuer faites simplement un fork ou clonez le dépot et créez une branche pour vos modifications. Ajoutez vos articles au format markdown en respectant la nomenclature et le format des posts jekyll, dans le dossier '_drafts'et Je me chargerai de ranger l'article dans la catégorie _posts correspondante après un code review. Vous pouvez aussi l'ajouter directement dans '_posts' si vous connaissez la bonne catégorie ou ranger le fichier. Je ferai un merge après un code review si tout est correct.
 
 Si vous clonez localement n'oubliez pas d'installer les dépendances avec `bundle install` et de lancer `bundle exec jekyll serve` pour démarrer le serveur de développement.
@@ -25,6 +30,7 @@ _data et ajoutez vos informations au souhait, mais le nom (pseudo) et le numéro
 Pour toute autre forme de contribution ou suggestion ouvrez une issue et on en discute. vous pouvez également faire une PR directement mais pour chaque modification une seule PR. par exemple ne modifiez pas plusieurs fichiers en une seule PR. Si par exemple vous souhaiter changer l'apparence du site via le layout default, modifiez uniquement ce fichier (et éventuellement le fichier scss associé) dans votre PR.
 
 ## Contribution:
+
 Pour tout le monde à présent, comment contribuer? D'abord le plus simple. pour toute suggestion pour modifier par exemple l'apparence du site, ajouter ou retirer une fonctionalité, corriger une erreur ou améliorer le contenu d'un article, veuillez simplement contacter l'auteur principal du site (moi), via les
 liens (icones) en bas de cette page, ou l'auteur de l'article concerné s'il s'agit d'une erreur dans un article.
 Actuellement par exemple si le nom du site (Medical cheat sheets) ne vous plait pas...le truc idéal
@@ -50,7 +56,19 @@ Si c'est votre premier article il faudra ajouter dans l'article vos informations
 votre nom, contacts, liens ou identifiants de réseaux sociaux, au choix bien entendu (vous pouvez rester anonyme en
 utiisant juste un pseudo et un numéro de téléphone, voir l'exemple pour plus de détails)
 
-lorsque vous avez fini de rédiger votre article, vous devez l'uploader dans le dossier MedicalCheatSheets
+Pensez avant tout à vérifier que votre article n'existe pas déjà (j'en ai personellement écrit pas mal). La medecine
+est un vaste champ et il existe des milliers de pathologies. Nous perdrions du temps à nous répéter et il y a beaucoup
+à dire. Vous pouvez par contre suggérer des modifications qui si elles sont pertinentes seront intégrées sans hésiter
+Un auteur peut léguer un article à un autre si il le désire. En gros si vous réécrivez mieux que moi un article vous en
+devenez sans hésiter (avec mon accord) le nouvel auteur et votre article remplace le mien.
+
+Le plus important à retenir c'est que **Deux articles ne peuvent avoir le meme nom**
+
+Donc utilisez l'outil de recherche sur la page des articles pour filtrer et assurez vous que votre article n'existe pas déjà.
+
+Sinon vous devrez contacter l'auteur pour négocier une réécriture.
+
+Lorsque vous avez fini de rédiger votre article, vous devez l'uploader dans le dossier MedicalCheatSheets
 sur Google Drive (il vous faut donc un compte Google). Il y a au bas de cette page un lien pour uploader directement dans ce dossier.
 
 Utlisez le uniquement si vous avez fini de rédiger votre article et souhaitez l'ajouter.
@@ -59,20 +77,22 @@ Si vous avez des fichiers (images ou liens que vous n'arrivez pas à mettre dans
 réfférencez leur noms de fichier dans l'article à l'endroit ou vous désirez les insérer et
 archivez l'ensemble dans un dossier au format zip ou rar, puis uploadez l'archive.
 
-En gros vos pouvez uploader un seul fichier ou une archive contenant plusieurs fichiers.
+En gros vos pouvez uploader un seul fichier ou une archive contenant plusieurs fichiers (comme vous voulez)
+
 Notez cependant qu'il existe une limite de taille aux fichiers uploadés. il est préférable d'utiliser
-une archive zip ou rar mais vos pouvez uploader un dossier ou un fichier uniquement (moins idéal).
+une archive zip ou rar. Uploader un dossier ou un fichier uniquement (moins idéal) reste possible.
+
 Dans tous les cas remplissez correctement l'en-tete du fichier article pour qu'on puisse facilement
 l'identifier et l'associer à un auteur.
 
-Je ferai un tour chaque semaine pour vérifier la disponibilté de nouvelles contribtions. votre
+Je ferai un tour chaque semaine pour vérifier la disponibilté de nouvelles contributions. votre
 article sera donc évalué, modifié au besoin et inséré quelques jours après sa mise en ligne.
 
 Vous etes l'ultime propriétaire de votre article et en etes le premier responsable, donc vous avez
 le droit de réclamer des modifcations à tout moment ou ré-uploader vous meme une version différente,
 mise à jour, ou supprimmer (s'il le faut) votre article.
 
-Merci pour votre contribution
+Merci pour votre contribution.
 
 <div align=center style="margin-top:5%;">
 <a href="https://drive.google.com/drive/folders/1M2ulawlY_FKUrq68LsoJ37XHmAnZYdjg?usp=sharing" class="visit-btn"> Ajouter un fichier</a>
