@@ -23,7 +23,6 @@
     <meta name="msapplication-TileColor" content="#157878">
     <meta name="msapplication-config" content=" ">
 
-
     <!-- Open Graph -->
     <meta property="og:title" content="Medical Cheat Sheets" />
     <meta property="og:type" content="website" />
@@ -39,7 +38,6 @@
     <meta name="twitter:description" property="og:description" itemprop="description"
         content="Un simple blog au sujet de diverses pathologies">
 
-
     {% seo %}
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style"
@@ -53,8 +51,8 @@
     {% include head-custom.html %}
 </head>
 
-<body>
 
+<body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
     <header class="page-header" role="banner">
         <div class='wrapper'>
@@ -77,11 +75,10 @@
         {% endif %}
     </header>
 
-
     <main id="content" class="main-content" role="main">
         <div id="main">
-            {{ content }}
 
+            {{ content }}
 
         </div>
         <footer class="site-footer">
@@ -93,7 +90,6 @@
             {% if page.author %}
             {% include author_bio.html %}
             {% endif %}
-
 
 
             {% if site.github.is_project_page %}
