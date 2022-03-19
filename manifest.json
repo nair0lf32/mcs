@@ -2,9 +2,9 @@
     "theme_color": "#157878",
     "background_color": "#fff",
     "display": "standalone",
-    "scope": "/",
+    "scope": "./",
     "description": "Blog with medical articles (in french)",
-    "start_url": "/",
+    "start_url": "./",
     "name": "Medical Cheat Sheets",
     "short_name": "MCS",
     "icons": [
