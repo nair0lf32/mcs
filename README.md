@@ -13,3 +13,9 @@ The blog includes a progressive web app (pwa) functionality for offline reading:
 - The app can be installed via the browser prompt.
 
 Any contribution will be possible when license is added.
+
+<!-- TODO:
+- add "who can contribute" details
+- change the PWA method (cache first to network first)
+- add "sources used" on authors pages
+-->
