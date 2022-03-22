@@ -18,4 +18,5 @@ Any contribution will be possible when license is added.
 - add "who can contribute" details
 - change the PWA method (cache first to network first)
 - add "sources used" on authors pages
+- add contributing, code of conduct, license support ressources...
 -->
