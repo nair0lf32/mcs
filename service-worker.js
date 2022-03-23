@@ -1,2 +1,39 @@
-if(!self.define){let e,i={};const a=(a,s)=>(a=new URL(a+".js",s).href,i[a]||new Promise((i=>{if("document"in self){const e=document.createElement("script");e.src=a,e.onload=i,document.head.appendChild(e)}else e=a,importScripts(a),i()})).then((()=>{let e=i[a];if(!e)throw new Error(`Module ${a} didn’t register its module`);return e})));self.define=(s,r)=>{const d=e||("document"in self?document.currentScript.src:"")||location.href;if(i[d])return;let c={};const n=e=>a(e,d),o={module:{uri:d},exports:c,require:n};i[d]=Promise.all(s.map((e=>o[e]||n(e)))).then((e=>(r(...e),c)))}}define(["./workbox-b45ff455"],(function(e){"use strict";self.addEventListener("message",(e=>{e.data&&"SKIP_WAITING"===e.data.type&&self.skipWaiting()})),e.precacheAndRoute([{url:"404.html",revision:"d2a04dc84439c6fa7137b4d3e616cead"},{url:"about/index.html",revision:"e95aa51360780aa16b14313a6e2b5a7c"},{url:"anemie-macrocytaire/index.html",revision:"ae8c6d9b57a9b265393c037e956865a8"},{url:"anemie-microcytaire/index.html",revision:"4666fc75a0ada0eb8851f2ec65d1d90f"},{url:"anemie-normocytaire/index.html",revision:"1c96734b833dbb76ba330a9875b68116"},{url:"anemie/index.html",revision:"2a78002855dd9aa542b8257324efedee"},{url:"arthrite/index.html",revision:"e3d294aaec079f9f06ddb615c3666dcd"},{url:"arthrose/index.html",revision:"88926d71f1266edd6dbe23558539863a"},{url:"assets/css/style.css",revision:"12eff67090769a4825c20544144ed859"},{url:"assets/images/android-chrome-192x192.png",revision:"e50e8b52da2aa749b2010dcb4fd313e3"},{url:"assets/images/android-chrome-512x512.png",revision:"613ced4fdd53152951328d933336b170"},{url:"assets/images/anon.png",revision:"05290a5e187851fe3c38abfcf5672d32"},{url:"assets/images/apple-touch-icon.png",revision:"e48bb2523e38f1bca02e689702a62bf7"},{url:"assets/images/favicon-16x16.png",revision:"bd654f229bf3c5365a945ffb0d67a9c8"},{url:"assets/images/favicon-32x32.png",revision:"c9234f764a305550234295064d899e82"},{url:"assets/images/favicon.ico",revision:"f94e1ee9efe0e457c699d1d5e6c99b0d"},{url:"assets/images/github_icon.png",revision:"4fea192f6d32a895ab650462d7715862"},{url:"assets/images/icon-search.png",revision:"91a91f740b9a1179b286654446aaebe2"},{url:"assets/images/mail_icon.png",revision:"d4e91d1803a4371abb044f3211fcdd6f"},{url:"assets/images/mcs-404.png",revision:"1521bbf3b79aad705a23330c77875d31"},{url:"assets/images/MCS.png",revision:"7fe2d3be6485b79761b3234d09890366"},{url:"assets/images/Thumbs.db",revision:"468eac43fac0c0d0e9f7f2ba2e7b6de4"},{url:"assets/images/twitter_icon.png",revision:"fa696cfc52610ef6df08a0c2895ecc18"},{url:"assets/images/whatsapp_icon.png",revision:"18f2412a109c6af7a3f2e7d9a3a8961e"},{url:"assets/js/main.js",revision:"fae09c4e333ff8c2db8f3c87318c3d5b"},{url:"assets/posts-assets/anemie.jpg",revision:"ebfe99701a8e5559b411ff6c66b90c97"},{url:"assets/posts-assets/etoile-maigne.webp",revision:"86230f4bcc55c76f33dea5c3c33e607c"},{url:"assets/posts-assets/hemogramme.jpg",revision:"d222e7f4775f37d100817d97a16a5203"},{url:"assets/posts-assets/Observation-psychiatrie.pdf",revision:"e2d3c96becd239388c2b1a244c1d1a87"},{url:"assets/posts-assets/Thumbs.db",revision:"7ec945bd6749f6a8bdfcdc6f5179fead"},{url:"authors/index.html",revision:"b465ccb941ad1e5d871dce79d4e59124"},{url:"authors/nair0lf32.html",revision:"d90a2da82c74926cbf0965416188211c"},{url:"cardiologie/index.html",revision:"6c5d4a4e5fdca86fcb5e0e5427b79a29"},{url:"cheatsheets/index.html",revision:"49bef802199ddc25c390fc4bf6c2bad4"},{url:"chirurgiepediatrique/index.html",revision:"97b9192bd4f7e096c3b5ab593ca5a826"},{url:"chirurgieviscerale/index.html",revision:"a4921d46aa7bd7889a6acd335bf93fc3"},{url:"dermatologie/index.html",revision:"c503daba8f07c55e321c91e4af982fbc"},{url:"endocrinologie/index.html",revision:"67f5bec7f5e09d934d42519e05fbc037"},{url:"examen-rhumatologique/index.html",revision:"435ccff176625d7ffc17d1519a21186b"},{url:"exemple/index.html",revision:"5b33cfa5bd304ce83e27145e049ec3f3"},{url:"feed.xml",revision:"67ad73026c6fa5e5412b6d15bc1192a3"},{url:"généralités/index.html",revision:"87c2387cb3f165c1d25edca2c5dec4d0"},{url:"gonarthrose/index.html",revision:"800f5db3db16fdb2ad2cc43435b09a26"},{url:"goutte/index.html",revision:"54e034c32c372088f7065fe4e819cc98"},{url:"gynecologie/index.html",revision:"4d3d5e9fa64a48f85b97d3fdc3d0dfda"},{url:"hematologie/index.html",revision:"c558c7240d8588fd7b2adca9f59d8cf0"},{url:"hepatogastroenterologie/index.html",revision:"486ac61d3969ae4641e0238a6ed82faf"},{url:"index.html",revision:"b0c8242d32e7250ac2c78ca65d87855c"},{url:"infectiologie/index.html",revision:"a078835b533d0b9c087f6409222357db"},{url:"lombosciatique/index.html",revision:"7994ef0236f4f428b70eec45751c23aa"},{url:"manifest.json",revision:"4676f3a1033fd4a3c9602a2de12faa2b"},{url:"mpr/index.html",revision:"1576e3680e2c1cd84d199c96d693ccf1"},{url:"nephrologie/index.html",revision:"451df000edab6cc28605113b8dab988c"},{url:"neurologie/index.html",revision:"d9950527c85c3dd15522f30e54bfb463"},{url:"observation/index.html",revision:"92185569c9a02bc3391e4eb782a891f0"},{url:"ophtalmologie/index.html",revision:"f43412cf4d9f777ba5d094629ecc23ea"},{url:"orl/index.html",revision:"1ee3b1ce055cec04941b09f2030515a8"},{url:"osteoporose/index.html",revision:"29d15388778411573ca1d826caf396a9"},{url:"pediatrie/index.html",revision:"2319d5d3d736873f652a316dc1c1986f"},{url:"pneumologie/index.html",revision:"393d35100e3502c1d30ec45b1c2ce0a7"},{url:"polyarthriterhumatoide/index.html",revision:"c93e2293b22cba73081d214ff2acf24f"},{url:"psychiatrie/index.html",revision:"3b49f2fb31cf75e5855df737c4735def"},{url:"README.md",revision:"fb1d27bb709493e000cf0972fd66b9b5"},{url:"rhumatologie/index.html",revision:"efe373e524190d76e7c52805a22aa545"},{url:"service-worker.js",revision:"4da2ee1278e1127b01af03de4daa71eb"},{url:"spondylarhrites/index.html",revision:"8623a4a5cff07b3752420dfdea89a717"},{url:"spondylodiscites/index.html",revision:"21244898e0284a18e668446036ab04d9"},{url:"traumatologie/index.html",revision:"3cf4e51f72aa5fe9016c9fc7c6ea34da"},{url:"urgences-reanimation/index.html",revision:"0df83a2a872fb854adf0f8076bf8a05f"},{url:"urologie/index.html",revision:"0e1ec5aa78e76ec0555951c40fa4f725"},{url:"workbox-b45ff455.js",revision:"9bfeff618b535714a1b38a8628fdaa72"},{url:"workbox-config.js",revision:"0fdfde87fc0a79afd986f3f2eeba666a"}],{ignoreURLParametersMatching:[/^utm_/,/^fbclid$/]})}));
-//# sourceMappingURL=service-worker.js.map
+
+// set names for both precache & runtime cache
+workbox.core.setCacheNameDetails({
+    prefix: 'medicalcheatsheets',
+    suffix: 'v1.0',
+    precache: 'precache',
+    runtime: 'runtime-cache'
+});
+
+// let Service Worker take control of pages ASAP
+workbox.core.skipWaiting();
+workbox.core.clientsClaim();
+
+// let Workbox handle our precache list
+workbox.precaching.precacheAndRoute(self.__precacheManifest);
+
+// use `NetworkFirst` strategy for html
+workbox.routing.registerRoute(
+    /\.html$/,
+    new workbox.strategies.NetworkFirst()
+);
+
+// use `NetworkFirst` strategy for css and js
+workbox.routing.registerRoute(
+    /\.(?:js|css)$/,
+    new workbox.strategies.NetworkFirst()
+);
+
+// use `CacheFirst` strategy for images
+workbox.routing.registerRoute(
+    /assets\/(img|icons)/,
+    new workbox.strategies.CacheFirst()
+);
+
+// use `StaleWhileRevalidate` third party files
+workbox.routing.registerRoute(
+    /^https?:\/\/cdn.staticfile.org/,
+    new workbox.strategies.StaleWhileRevalidate()
+);
