@@ -40,6 +40,7 @@ collections:
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-pwa-workbox
 
 destination: ./_site
 
@@ -67,3 +68,17 @@ include:
 #   - vendor/ruby/
 
 theme: jekyll-theme-cayman
+
+pwa:
+  sw_src_filepath: service-worker.js # Optional
+  sw_dest_filename: service-worker.js # Optional
+  dest_js_directory: assets/js # Required
+  # precache_recent_posts_num: number # Optional
+  precache_glob_directory: / # Optional
+  precache_glob_patterns: # Optional
+    - "/**/*.{js,json,css}"
+    - "/**/*.{ico,jpg,jpeg,png,svg}"
+    - "/**/*.html"
+  precache_glob_ignores: # Optional
+    - "sw-register.js"
+    - "fonts/**/*"

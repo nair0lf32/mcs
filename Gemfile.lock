@@ -150,6 +150,7 @@ GEM
     jekyll-optional-front-matter (0.3.2)
       jekyll (>= 3.0, < 5.0)
     jekyll-paginate (1.1.0)
+    jekyll-pwa-workbox (5.1.41)
     jekyll-readme-index (0.3.0)
       jekyll (>= 3.0, < 5.0)
     jekyll-redirect-from (0.16.0)
@@ -289,6 +290,7 @@ DEPENDENCIES
   github-pages (~> 219)
   jekyll-feed (~> 0.12)
   jekyll-paginate
+  jekyll-pwa-workbox
   kramdown
   pygments.rb
   tzinfo (~> 1.2)
