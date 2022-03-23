@@ -12,6 +12,8 @@ The blog includes a progressive web app (pwa) functionality for offline reading:
 
 - The app can be installed via the browser prompt.
 
+- if any problem is faced when installing try to clean your browser cache and retry
+
 Any contribution will be possible when license is added.
 
 <!-- TODO:
