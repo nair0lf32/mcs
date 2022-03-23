@@ -1,11 +1,11 @@
 module.exports = {
 	globDirectory: '_site/',
 	globPatterns: [
-		'**/*.{html,css,scss,png,ico,db,js,jpg,webp,pdf,xml,json,markdown,md}'
+		'**/*.{html,css,png,ico,db,js,mjs,jpg,webp,pdf,xml,json,md}'
 	],
-	swDest: './service-worker.js',
+	swDest: '_site/service-worker.js',
 	ignoreURLParametersMatching: [
 		/^utm_/,
 		/^fbclid$/
-	],
+	]
 };
