@@ -4,7 +4,7 @@ A simple static jekyll blog about medical pathologies, with small cheat sheets
 as posts or articles. the blog is written in **French** and articles are added gradually.
 
 
-The blog includes a progressive web app (pwa) functionality for offline reading:
+The blog includes a progressive web app (pwa) functionality for offline reading (working on it):
 
 - Data is precached in the browser using [workbox](https://developers.google.com/web/tools/workbox/).
 
@@ -12,13 +12,13 @@ The blog includes a progressive web app (pwa) functionality for offline reading:
 
 - The app can be installed via the browser prompt.
 
-- if any problem is faced when installing try to clean your browser cache and retry
+- if any problem is faced when installing or updating just **clean your browser cache** and retry
 
 Any contribution will be possible when license is added.
 
 <!-- TODO:
 - add "who can contribute" details
-- change the PWA method (cache first to network first)
+- fix the goddamn PWA
 - add "sources used" on authors pages
 - add contributing, code of conduct, license support ressources...
 -->

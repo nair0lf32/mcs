@@ -12,6 +12,20 @@ Pour contribuer vous devez **ABSOLUMENT lire tout ce qui suit**, surtout si c'es
 
 La documentation aborde les aspects techniques et le paragraphe contribution les étapes à suivre pour faire une contribution.
 
+## Qui peut contribuer ?
+
+Réponse courte: Tout le monde. (toi aussi)
+Réponse longue: 
+    - Les Médecins, étudiants en medecine, ou tout autre professionnel de la santé qui a une certaine base en pathologie
+    (C'est la contribution la plus importante et la plus prisée. Si vous etes dans cette catégorie vous me facilitez la tâche de faire des articles.)
+    - Les développeurs qui ont une certaine expérience du domaine de la santé (si vous savez coder c'est un gros plus)
+    - Les scientifiques qui ont une certaine expérience en pathologie
+    - Les auteurs (web et autres media) qui ont une certaine expérience du domaine de la santé
+    - Les autres...( c'est vague hein ? ) Je veux parler de tous ceux qui ont envie de participer (pas forcément à l'écriture d'article)
+
+Après au moins une contribution vous serez ajouté à la liste des contributeurs (disponible après au moins une contribution). Si vous avez écrit un article
+Vous rejoignez plutot la liste des auteurs du site. Les administrateurs et modérateurs du site seront choisis parmi les auteurs volontaires les plus distingués et
+les plus motivés.
 ## Documentation:
 
 Cette partie concerne surtout les 'pros', en gros toute personne qui s'y connait en développement informatique/web. Le dépot Github du code source est public et open source sous license (à ajouter).Pour contribuer faites simplement un fork ou clonez le dépot et créez une branche pour vos modifications. Ajoutez vos articles au format markdown en respectant la nomenclature et le format des posts jekyll, dans le dossier '_drafts'et Je me chargerai de ranger l'article dans la catégorie _posts correspondante après un code review. Vous pouvez aussi l'ajouter directement dans '_posts' si vous connaissez la bonne catégorie ou ranger le fichier. Je ferai un merge après un code review si tout est correct.

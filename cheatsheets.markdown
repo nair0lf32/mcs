@@ -4,7 +4,7 @@ title: Cheat Sheets
 permalink: /cheatsheets/
 ---
 
-{% include search.html %} 
+{% include search.html %}
 
 <!-- Count all posts and categories but exclude Menus -->
   {% assign posts = 0 %}
@@ -17,7 +17,6 @@ permalink: /cheatsheets/
   {% endfor %}
 
 <p> Actuellement <b>{{ posts }}</b> articles sont disponibles, répartis en <b>{{ categories }}</b>  catégories: <p>
-
 
 {% for category in site.categories %}
 {% unless category contains 'Menu' %}
@@ -36,7 +35,5 @@ permalink: /cheatsheets/
 <p> 
 Actuellement <b>{{ site.authors.size }}</b> auteur(s) ont contribué au dévelopement de ce blog. Merci à tous ceux qui contribuent. 
 Vous pouvez consulter la liste des auteurs et voir leur page via le menu ou en cliquant 
-<a href="{{ site.baseurl }}{% link authors.markdown %}" class=""> Ici </a> 
+<a href="{{ site.baseurl }}{% link authors.markdown %}" class=""> Ici </a>
 <p>
-
-
