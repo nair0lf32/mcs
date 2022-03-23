@@ -4,6 +4,7 @@ title: "Polyarthrite Rhumatoide"
 author: "nairolf32"
 date: 2021-11-16 17:23:03 +0100
 categories: Rhumatologie
+refs: non fournies
 permalink: /polyarthriterhumatoide/
 ---
 

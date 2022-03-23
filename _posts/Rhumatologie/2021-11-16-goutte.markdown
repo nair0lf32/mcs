@@ -4,6 +4,7 @@ title: "Goutte"
 author: "nairolf32"
 date: 2021-11-16 16:57:00 +0100
 categories: Rhumatologie
+refs: non fournies
 permalink: /goutte/
 ---
 

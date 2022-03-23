@@ -14,12 +14,9 @@
 ---
 
 
->Hey salut! Bienvenue sur ma page de profil. Je suis l'auteur principal de ce >blog (administrateur en chef et modérateur supreme).
+> Hey salut! Bienvenue sur ma page de profil. Je suis l'auteur principal de ce blog (administrateur en chef et modérateur supreme).
+> J'ai écrit la plupart des articles (vu que j'avais de l'avance)
+> Y'a pas grand chose par ici mais tu devrais aller voir du coté des articles
+> Tu veux en écrire un ? visite la page à propos d'abord, et surtout respecte les règles (y'en a meme pas beaucoup)
 >
->J'ai écrit la plupart des articles (vu que j'avais de l'avance)
->
->Y'a pas grand chose par ici mais tu devrais aller voir du coté des articles
->
->Tu veux en écrire un ? visite la page à propos d'abord, et surtout respecte >les règles (y'en a meme pas beaucoup)
->
->  *"une grande modération implique de nombreux haineux"*
+> *"une grande modération implique de nombreux haineux"*

@@ -4,31 +4,35 @@ title: Exemple d'Article
 author: nairolf32
 date: 2021-09-09 17:27:53 +0100
 categories: Exemple
-refs: non fournies
+refs: non fournies 
 permalink: /exemple/
 ---
 
-```
-Tout article doit comporter l'en-tete qui suit. copiez et collez le dans votre article.
-Si vous contribuez directement sur github inspirez vous des autres articles. S'il s'agit surtout de
-votre tout premier article, vous pouvez utiliser le modèle suivant. certaines infos ne sont pas obligatoires. Les 3 tirets qui encadrent l'en-tete sont obligatoires.
+> Tout article doit comporter l'en-tete qui suit. copiez le dans votre article (sans les commentaires entre parenthèses).
+> Si vous contribuez directement sur github inspirez vous des autres articles. S'il s'agit surtout de
+> votre tout premier article, vous pouvez utiliser le modèle suivant. certaines infos ne sont pas obligatoires. 
+> Les 3 tirets qui encadrent l'en-tete sont obligatoires.
+> Les infos obligatoires pour tout article sont: layout, title, author, date, categories, permalink et refs
+> Le reste est facultatif mais recommandé pour tout "premier article"
 
 ---
-title: Exemple d'Article (le titre de l'article)
-author: nairolf32 (votre pseudo ou nom)
-name: votre nom complet (c'est facultatif')
+layout: default (laissez le comme tel. S'il manque on l'ajoutera en modération)
+title: Exemple d'Article (le titre de l'article, choisi par vous)
+author: nairolf32 (votre pseudo, vous le choisissez vous même mais il est obligatoire)
+name: votre nom complet (facultatif, vous pouvez utilser juste un pseudo et rester partiellement anonyme)
 email: votre adresse email (facultatif si vous avez déja fourni un autre contact)
-github: votre github (facultatif)
+github: votre github (facultatif, ça concerne surtout les développeurs)
 twitter: votre twitter (facultatif s'il y a déja un autre contact)
-tel: votre numéro de téléphone (facultatif si on peut vous joindre autrement))
-bio: votre bio, le texte qui s'affiche à coté de votre nom (c'est facultatif)
-image: un lien vers votre image de profil (c'est facultatif mais ça fait cool)
-date: 2021-09-09 17:27:53 +0100 (date et heure de publication)
-categories: Exemple (catégorie de votre article)
+tel: votre numéro de téléphone (facultatif si on peut vous joindre autrement)
+bio: votre bio, le court texte descriptif qui s'affiche à coté de votre nom (c'est facultatif, mais ça fait cool)
+image: un lien vers votre image de profil. Vous pouvez fournir une image vous meme. (c'est facultatif mais ça fait encore plus cool)
+date: 2021-09-09 17:27:53 +0100 (date et heure de publication sous cet horrible format: YYYY-MM-DD HH:MM:SS +HH:MM)
+categories: Exemple (catégorie de votre article. voir les catégories dans le menu)
+refs: ref1, ref2, ref3 (vos sources ou références, séparer par des virgules. C'est obligatoire mais vous pouvez mettre "non fournies" si vous n'en avez pas)
+permalink: /titre/ (le lien vers votre article. il doit être unique. Il sera vérifié et modifié au besoin)
 ---
 
-Il y a d'autres infos capitales commes le layout, le permalink, les tags qui seront
-ajoutées à votre article, mais si vous contribuez via github et que vous savez comment faire, vous pouvez les ajouter vous meme.
+Il y a d'autres infos qui peuvent être ajoutées à votre article, mais si vous contribuez via github et que vous savez comment faire, vous pouvez les ajouter vous meme.
 
 ```
 
@@ -36,30 +40,25 @@ ajoutées à votre article, mais si vous contribuez via github et que vous savez
 
 ## Definition:
 
-Il est important de savoir de quoi l'on parle alors la défiition
-est quand meme capitale je pense.
+Il est important de savoir de quoi l'on parle alors la défiition est quand meme capitale je pense.
 
 ## Ethiopathogénie
 
-```
-En fait ici cette sous-section vous pouvez la nommer comme vous voulez, mais si
-vous voulez parler des mécanismes physiopathologiques d'une maladie faites le en UNE SEULE section le plus brièement possible. Les articles de ce site ne sont pas des documents de recherche ou des articles scientifiques. ce sont
-juste de petits pense-bete donc le souci numéro un c'est d'etre concis.
-Il est possible et vivement recommandé d'utiliser de LIENS vers d'autres
-articles du site ou autres sources externes fiables. nous verrons plus tard comment
-mettre un lien en markdown, parce qu'il y en aura beaucoup
-```
+> En fait ici cette sous-section vous pouvez la nommer comme vous voulez, mais si
+> vous voulez parler des mécanismes physiopathologiques d'une maladie faites le en UNE SEULE section le plus brièvement possible. Les articles de ce site ne sont pas des 
+> documents de recherche ou des articles scientifiques. ce sont juste de petits pense-bete donc le souci numéro un c'est d'etre concis.
+> Il est possible et vivement recommandé d'utiliser de LIENS vers d'autres articles du site ou autres sources externes **fiables**. Nous verrons plus tard comment
+> mettre un lien en markdown, parce qu'il y en aura beaucoup
 
 - terrain / facteurs favorisants
 - mécanismes physiopathologiques
 
 ## Diagnostic positif
 
-```
-Vous pouvez encore mettre le sous-titre que vous voulez.
-Encore ici il faut donner les éléments clés du diagnostic. LISTEZ les signes et faites des liens vers
-des pages ou articles qui les décrivent plus amplement...si vous tenez absolument à décrire les signes faites le en une phrase.
-```
+> Vous pouvez encore mettre le sous-titre que vous voulez.
+> Encore ici il faut donner les éléments clés du diagnostic. LISTEZ les signes et faites des liens vers
+> des pages ou articles qui les décrivent plus amplement...si vous tenez absolument à décrire les signes faites le en une phrase.
+
 
 ### signes cliniques :
 
@@ -95,9 +94,8 @@ des pages ou articles qui les décrivent plus amplement...si vous tenez absolume
 - examen1: résultat vs normale
 - examen2: résultat vs normale
 
-```
-ici si vous avez des images il est fortement recommandé de les ajouter
-```
+> ici si vous avez des images il est fortement recommandé de les ajouter
+
 
 #### complications possibles
 
@@ -106,10 +104,9 @@ ici si vous avez des images il est fortement recommandé de les ajouter
 
 ## Formes cliniques:
 
-```
-Ici vous pouvez détailler brièvement les formes cliniques de la maladie.
-classez les par catégories, listez les et citez les différences clés avec le type de description.
-```
+> Ici vous pouvez détailler brièvement les formes cliniques de la maladie.
+> classez les par catégories, listez les et citez les différences clés avec le type de description.
+
 
 ### topographiques
 
@@ -131,10 +128,8 @@ classez les par catégories, listez les et citez les différences clés avec le 
 - pathologie 1
 - pathologie 2
 
-```
-ici encore listez simplement. Il est vivement recommandé de faire des liens vers
-les articles qui décrivent les signes cliniques...sur ce site ou ailleurs
-```
+> ici encore listez simplement. Il est vivement recommandé de faire des liens vers
+> les articles qui décrivent les signes cliniques...sur ce site ou ailleurs
 
 ## traitement
 
