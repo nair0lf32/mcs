@@ -109,8 +109,10 @@ mise à jour, ou supprimmer (s'il le faut) votre article.
 Merci pour votre contribution.
 
 <div align=center style="margin-top:5%;">
-<a href="https://drive.google.com/drive/folders/1M2ulawlY_FKUrq68LsoJ37XHmAnZYdjg?usp=sharing" class="visit-btn"> Ajouter un fichier</a>
+<a href="https://drive.google.com/drive/folders/1M2ulawlY_FKUrq68LsoJ37XHmAnZYdjg?usp=sharing" class="contribute"> Ajouter un fichier</a>
 </div>
 
-
-
+<style>
+.contribute{padding:1%; font-size: 1.2rem; border: 1px black solid; text-decoration: none; outline: none;  background: none; color: green;}
+.contribute:hover{text-decoration: none; background:green; color:white; border: 1px yellow solid;}
+</style>

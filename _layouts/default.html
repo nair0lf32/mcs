@@ -87,6 +87,10 @@
             <p>publié le {{ page.date | date: "%d/%m/%Y, à %R" }} </p>
             {% endif %}
 
+            {% if page.refs %}
+            <p>sources/refferences: {{ page.refs }} </p>
+            {% endif %}
+
             {% if page.author %}
             {% include author_bio.html %}
             {% endif %}

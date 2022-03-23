@@ -4,6 +4,7 @@ title: Observation médicale
 author: nairolf32
 date: 2021-10-04 16:52:00 +0100
 categories: Généralités
+refs: non fournies
 permalink: /observation/
 ---
 
