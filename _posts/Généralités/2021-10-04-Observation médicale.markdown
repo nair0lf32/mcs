@@ -145,7 +145,7 @@ chaque examen sera détaillé dans une section séparée...cliquez sur un examen
 
 Comme nous l'avons dit précédemment ce plan classique peut connaitre quelques variations selon les services et selon la circonstance:
 
-En psychiatrie l'anamnèse comprend l'histoire de la maladie, la biographie du patient et les représentations socio-culturelles. [cliquez ici]({{ site.baseurl }}/assets/posts-assets/Observation-psychiatrie.pdf) si vous souhaitez voir un document pdf de ce plan.
+En psychiatrie l'anamnèse comprend l'histoire de la maladie, la biographie du patient et les représentations socio-culturelles. Utilisez les liens suivants pour télécharger un pdf du plan d'observation médicale en [psychiatrie]({{ site.baseurl }}/assets/posts-assets/Observation-psychiatrie.pdf) ou en [pédiatrie]({{ site.baseurl }}/assets/posts-assets/Observation-pediatrie.pdf)
 
 En chirurgie pédiatrique/pédiatrie on est parfois amené à faire une anamnèse gestationnelle (pour les tout petits enfants) ou l'on renseigne le déroulement et le suivi de la grossesse, les conditions de l'accouchement, le statut vaccinal de l'enfant...
 
