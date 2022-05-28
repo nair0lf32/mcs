@@ -45,8 +45,8 @@ voir schéma classique du cycle:
 ### Signes cliniques
 - Incubation : 8-15 jours
 - Phase d’état : Fièvre 38-39°C +/- frissons, céphalées, courbatures généralisées, anorexie, nausées +/- vomissements
-### Signes paracliniques
 
+### Signes paracliniques
 #### Biologie
 
 - Frottis Sanguin ou Goutte Epaisse + avec identification des *P. falciparum*
@@ -86,6 +86,8 @@ L' évolution du paludisme simple est généralement favorable sous traitement. 
 12- Hyperparasitémie ˃ 10% ou 250.000 p/µL 
 
 La présence d'un seul de ces signes de gravité est suffisant pour déclarer le paludisme grave. Les enfants sont le plus souvent exposés à la forme grave du paludisme. Voir l'article [paludisme infantile]({{ site.baseurl }}{% link _posts/Pédiatrie/2022-04-18-paludisme-infantile.markdown %}) pour plus d'informations.
+
+chez la femme enceinte en zone d'endémie toute fièvre est considérée comme un paludisme
 
 Comme autres formes cliniques on distingue:
 
