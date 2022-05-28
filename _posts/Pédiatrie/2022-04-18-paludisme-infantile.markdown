@@ -19,7 +19,7 @@ du **paludisme grave** qui lui s'accompagne d'au moins l'un des [signes de gravi
 
 ## Ethiopathogénie
 
-la physiopathologie du paludisme sera détaillée dans un prochain article (TODO)
+voir l'article sur le [paludisme]({{ site.baseurl }}{% link _posts/Infectiologie/2022-05-28-Paludisme.markdown %}) pour plus de détails
 
 Le paludisme grave est lié à une cytoadhérence des erythrocytes parasités aux cellules endothéliales,
 ou à des erythrocytes non-parasités (rosetting), réduisant la lumière vasculaire, détruisant les hématies, entrainant une hypoxie tissulaire
