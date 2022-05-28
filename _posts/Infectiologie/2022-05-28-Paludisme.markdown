@@ -99,6 +99,7 @@ Comme autres formes cliniques on distingue:
 - Fièvre typhoide (fièvre 38-39°C, céphalées, vertiges, insomnie, epistaxis, diarrhée avec selles liquides jaune ocre "jus de melon", coproculture/hémoculture identifie Salmonella, SDW)
 - Brucellose (fièvre sudoro-algique, Hémoculture/histologie)
 - Autres: septicémie, méningite, infection urinaire...
+
 ## Traitement
 
 ### Curatif:
