@@ -16,9 +16,19 @@ The blog includes a progressive web app (pwa) functionality for offline reading 
 
 Any contribution will be possible when license is added.
 
+## Usage
+`git clone` the repository, then install the dependencies with:
+
+`bundle install`
+
+You need to run it everytime there is changes in the dependancies
+
+Next, run the server with:
+
+`bundle exec jekyll serve`
+
+The server will make the project available at: http://127.0.0.1:4000/MedicalCheatSheets/ 
+
 <!-- TODO:
-- add "who can contribute" details
-- fix the goddamn PWA
-- add "sources used" on authors pages
 - add contributing, code of conduct, license support ressources...
 -->
