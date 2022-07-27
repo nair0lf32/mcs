@@ -4,18 +4,18 @@ title: A propos
 permalink: /about/
 ---
 
-# A propos:
+# A propos
 
 Ce site/blog est alimenté par Jekyll et Github et utilise le thème Cayman. Les liens pour en apprendre plus sur ces technologies sont en pied de page.
-
 Pour contribuer vous devez **ABSOLUMENT lire tout ce qui suit**, surtout si c'est votre toute première contribution.
-
 La documentation aborde les aspects techniques et le paragraphe contribution les étapes à suivre pour faire une contribution.
 
 ## Qui peut contribuer ?
 
-Réponse courte: Tout le monde. (toi aussi)
-Réponse longue: 
+Réponse courte: Tout le monde (toi aussi)
+
+Réponse longue:
+
     - Les Médecins, étudiants en medecine, ou tout autre professionnel de la santé qui a une certaine base en pathologie
     (C'est la contribution la plus importante et la plus prisée. Si vous etes dans cette catégorie vous me facilitez la tâche de faire des articles.)
     - Les développeurs qui ont une certaine expérience du domaine de la santé (si vous savez coder c'est un gros plus)
@@ -26,30 +26,30 @@ Réponse longue:
 Après au moins une contribution vous serez ajouté à la liste des contributeurs (disponible après au moins une contribution). Si vous avez écrit un article
 Vous rejoignez plutot la liste des auteurs du site. Les administrateurs et modérateurs du site seront choisis parmi les auteurs volontaires les plus distingués et
 les plus motivés.
-## Documentation:
 
-Cette partie concerne surtout les 'pros', en gros toute personne qui s'y connait en développement informatique/web. Le dépot Github du code source est public et open source sous license (à ajouter).Pour contribuer faites simplement un fork ou clonez le dépot et créez une branche pour vos modifications. Ajoutez vos articles au format markdown en respectant la nomenclature et le format des posts jekyll, dans le dossier '_drafts'et Je me chargerai de ranger l'article dans la catégorie _posts correspondante après un code review. Vous pouvez aussi l'ajouter directement dans '_posts' si vous connaissez la bonne catégorie ou ranger le fichier. Je ferai un merge après un code review si tout est correct.
+## Documentation
+
+Cette partie concerne surtout les "pros", en gros toute personne qui s'y connait en développement informatique/web. Le dépot Github du code source est public et open source sous license (à ajouter). Pour contribuer faites simplement un fork ou clonez le dépot et créez une branche pour vos modifications. Ajoutez vos articles au format markdown en respectant la nomenclature et le format des posts jekyll, dans le dossier `_drafts` et rangez l'article dans la catégorie `_posts` correspondante (si vous connaissez la bonne catégorie ou ranger le fichier, aka spécialité médicale correspondante). la modération arrangera ça lors du code review et fera un merge si tout est correct.
 
 Si vous clonez localement n'oubliez pas d'installer les dépendances avec `bundle install` et de lancer `bundle exec jekyll serve` pour démarrer le serveur de développement.
-
 Consultez la documentation de jekyll (lien en bas de page) pour plus d'informations.
 
-Inspirez vous de l'exemple d'article pour remplir l'en-tête et rédiger. 
-Créez une branche et Faites ensuite vos pull-request en utilsant
-un nom clair et simple comme 'add-exemple-to-Examples'. Un commit par pull-request (squash commits), et une seule Pull request (PR) par article ajouté.
+Inspirez vous de [l'exemple d'article]({{ site.baseurl }}{% link _posts/2021-09-09-Exemple.markdown %}) pour remplir l'en-tête et rédiger votre article.
 
-Si c'est votre premier article dans la meme PR modifiez le fichier authors.yml dans le dossier
-_data et ajoutez vos informations au souhait, mais le nom (pseudo) et le numéro (tel) sont obligatoires.
+Créez une branche et Faites ensuite vos pull-requests en utilsant un nom clair et simple comme 'add-exemple-to-Examples'.
+Un commit par pull-request (squash commits), et une seule Pull request (PR) par article ajouté.
+
+Si c'est votre premier article dans la meme PR modifiez le fichier `authors.yml` dans le dossier
+`_data` et ajoutez vos informations au souhait, mais le nom (pseudo) et le numéro (tel) ou au moins un contact sont obligatoires.
 
 Pour toute autre forme de contribution ou suggestion ouvrez une issue et on en discute. vous pouvez également faire une PR directement mais pour chaque modification une seule PR. par exemple ne modifiez pas plusieurs fichiers en une seule PR. Si par exemple vous souhaiter changer l'apparence du site via le layout default, modifiez uniquement ce fichier (et éventuellement le fichier scss associé) dans votre PR.
 
-## Contribution:
+## Contribution
 
 Pour tout le monde à présent, comment contribuer? D'abord le plus simple. pour toute suggestion pour modifier par exemple l'apparence du site, ajouter ou retirer une fonctionalité, corriger une erreur ou améliorer le contenu d'un article, veuillez simplement contacter l'auteur principal du site (moi), via les
 liens (icones) en bas de cette page, ou l'auteur de l'article concerné s'il s'agit d'une erreur dans un article.
-Actuellement par exemple si le nom du site (Medical cheat sheets) ne vous plait pas...le truc idéal
-c'est d'en suggérer un nouveau. Votre proposition pourrait etre acceptée et vous auriez contribué
-en donnant un meilleur nom ou logo au site.
+Actuellement par exemple si le nom du site (Medical cheat sheets) ne vous plait pas...
+le truc idéal c'est d'en suggérer un nouveau. Votre proposition pourrait etre acceptée et vous auriez contribué en donnant un meilleur nom ou logo au site.
 
 Si vous voulez écrire un article, le format de fichier préféré est le markdown style github (GFM). vous pouvez cliquer sur ce lien pour lire la documentation de Github sur ce format de texte simple:
 
@@ -66,8 +66,8 @@ Vous pouvez ici voir un exemple d'article détaillé avec le markdown correspond
 
 [Exemple]({{ site.baseurl }}{% post_url 2021-09-09-Exemple %})
 
-Si c'est votre premier article il faudra ajouter dans l'article vos informations d'auteur, notamment 
-votre nom, contacts, liens ou identifiants de réseaux sociaux, au choix bien entendu (vous pouvez rester anonyme en
+Si c'est votre premier article il faudra ajouter dans l'article vos informations d'auteur, notamment votre nom, contacts,
+liens ou identifiants de réseaux sociaux, au choix bien entendu (vous pouvez rester anonyme en
 utiisant juste un pseudo et un numéro de téléphone, voir l'exemple pour plus de détails)
 
 Pensez avant tout à vérifier que votre article n'existe pas déjà (j'en ai personellement écrit pas mal). La medecine

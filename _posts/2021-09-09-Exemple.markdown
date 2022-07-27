@@ -8,37 +8,58 @@ refs: non fournies
 permalink: /exemple/
 ---
 
-> Tout article doit comporter l'en-tete qui suit. copiez le dans votre article (sans les commentaires entre parenthèses).
-> Si vous contribuez directement sur github inspirez vous des autres articles. S'il s'agit surtout de
-> votre tout premier article, vous pouvez utiliser le modèle suivant. certaines infos ne sont pas obligatoires. 
-> Les 3 tirets qui encadrent l'en-tete sont obligatoires.
-> Les infos obligatoires pour tout article sont: layout, title, author, date, categories, permalink et refs
-> Le reste est facultatif mais recommandé pour tout "premier article"
+> Il est recommandé d'etre familier avec le [markdown](https://guides.github.com/features/mastering-markdown/) pour tout faciliter
+> Vous pouvez d'ailleurs voir la correspondance markdown de cette page sur github en cliquant [ici](https://github.com/nair0lf32/MedicalCheatSheets/blob/master/_posts/2021-09-09-Exemple.markdown). 
+> La syntaxe n'est pas si compliquée et l'avantage majeur est de pouvoir insérer des liens plus facilement pour vos articles
+> Mais si vous préférez un autre format d'écriture pas de souci, la modération se chargera de vous le convertir.
 
+> Absolument tout article doit comporter l'en-tete qui suit. copiez-collez dans votre article (sans les commentaires entre parenthèses évidemment) puis modifiez.
+> Si vous contribuez directement sur github inspirez vous des autres articles. 
+> S'il s'agit surtout de votre tout premier article, vous pouvez utiliser le modèle suivant. certaines infos ne sont pas obligatoires.
+> Les 3 tirets qui encadrent l'en-tete sont obligatoires.
+> Les infos obligatoires pour tout article sont: **layout, title, author, date, categories, permalink et refs**
+> Chaque info est écrite en une ligne (pas de saut de ligne) avant de passer à la suivante
+> Le reste est facultatif mais recommandé pour tout "premier article"
+> D'autres infos peuvent être ajoutées à votre article par la modération, mais si vous contribuez via github et que vous savez comment faire,
+vous pouvez les ajouter vous même en suivant le modèle des autres articles.
+
+
+````
 ---
 layout: default (laissez le comme tel. S'il manque on l'ajoutera en modération)
+
 title: Exemple d'Article (le titre de l'article, choisi par vous)
+
 author: nairolf32 (votre pseudo, vous le choisissez vous même mais il est obligatoire)
+
 name: votre nom complet (facultatif, vous pouvez utilser juste un pseudo et rester partiellement anonyme)
+
 email: votre adresse email (facultatif si vous avez déja fourni un autre contact)
+
 github: votre github (facultatif, ça concerne surtout les développeurs)
+
 twitter: votre twitter (facultatif s'il y a déja un autre contact)
+
 tel: votre numéro de téléphone (facultatif si on peut vous joindre autrement)
+
 bio: votre bio, le court texte descriptif qui s'affiche à coté de votre nom (c'est facultatif, mais ça fait cool)
+
 image: un lien vers votre image de profil. Vous pouvez fournir une image vous meme. (c'est facultatif mais ça fait encore plus cool)
+
 date: 2021-09-09 17:27:53 +0100 (date et heure de publication sous cet horrible format: YYYY-MM-DD HH:MM:SS +HH:MM)
+
 categories: Exemple (catégorie de votre article. voir les catégories dans le menu)
-refs: ref1, ref2, ref3 (vos sources ou références, séparer par des virgules. C'est obligatoire mais vous pouvez mettre "non fournies" si vous n'en avez pas)
-permalink: /titre/ (le lien vers votre article. il doit être unique. Il sera vérifié et modifié au besoin)
+
+refs: ref1; ref2; ref3; ... (vos sources ou références, séparer par des point-virgules et espaces. La dernière ref aussi a un point-virgule à la fin. 
+C'est obligatoire mais vous pouvez mettre "non fournies" si vous n'en avez pas)
+
+permalink: /titre/ (le lien local vers votre article. il doit être unique. Il sera vérifié et modifié au besoin)
 ---
-
-Il y a d'autres infos qui peuvent être ajoutées à votre article, mais si vous contribuez via github et que vous savez comment faire, vous pouvez les ajouter vous meme.
-
-```
+````
 
 # Titre de l'article / Nom de la pathologie
 
-## Definition:
+## Definition
 
 Il est important de savoir de quoi l'on parle alors la défiition est quand meme capitale je pense.
 
@@ -46,9 +67,9 @@ Il est important de savoir de quoi l'on parle alors la défiition est quand meme
 
 > En fait ici cette sous-section vous pouvez la nommer comme vous voulez, mais si
 > vous voulez parler des mécanismes physiopathologiques d'une maladie faites le en UNE SEULE section le plus brièvement possible. Les articles de ce site ne sont pas des 
-> documents de recherche ou des articles scientifiques. ce sont juste de petits pense-bete donc le souci numéro un c'est d'etre concis.
-> Il est possible et vivement recommandé d'utiliser de LIENS vers d'autres articles du site ou autres sources externes **fiables**. Nous verrons plus tard comment
-> mettre un lien en markdown, parce qu'il y en aura beaucoup
+> documents de recherche ou des articles scientifiques. ce sont juste de petits pense-bêtes donc le souci numéro un c'est d'etre concis.
+> Il est possible et vivement recommandé d'utiliser des LIENS vers d'autres articles du site ou autres sources externes **fiables**.
+> Ne lésinez pas sur les liens (vous pouvez chercher la syntaxe markdown pour les liens si vous voulez)
 
 - terrain / facteurs favorisants
 - mécanismes physiopathologiques
@@ -59,22 +80,21 @@ Il est important de savoir de quoi l'on parle alors la défiition est quand meme
 > Encore ici il faut donner les éléments clés du diagnostic. LISTEZ les signes et faites des liens vers
 > des pages ou articles qui les décrivent plus amplement...si vous tenez absolument à décrire les signes faites le en une phrase.
 
+### Signes cliniques
 
-### signes cliniques :
+#### Signes fonctionnels
 
-#### signes fonctionnels :
+- signe 1
+- signe 2 avec description brève
+- signe 3 (avec détails brefs)
+
+#### Signes généraux
 
 - signe 1
 - signe 2
 - signe 3
 
-#### signes généraux :
-
-- signe 1
-- signe 2
-- signe 3
-
-#### signes physiques:
+#### signes physiques
 
 - inspecton: signe 1, signe 2, signe 3
 - palpation: signe 4, signe 5, signe 6
@@ -82,31 +102,30 @@ Il est important de savoir de quoi l'on parle alors la défiition est quand meme
 - auscultation: signe 10, signe 11, signe 12
 - mobilisation: signe 13, signe 14, signe 15
 
-### signes paracliniques:
+### Signes paracliniques
 
-#### biologie:
+#### Biologie
 
 - examen1: résultat vs normale
 - examen2: résultat vs normale
 
-#### imagerie:
+#### Imagerie
 
 - examen1: résultat vs normale
 - examen2: résultat vs normale
 
 > ici si vous avez des images il est fortement recommandé de les ajouter
 
-
-#### complications possibles
+#### Complications possibles ou evolution
 
 - complication 1
 - complication 2
 
-## Formes cliniques:
+## Formes cliniques
 
 > Ici vous pouvez détailler brièvement les formes cliniques de la maladie.
 > classez les par catégories, listez les et citez les différences clés avec le type de description.
-
+> Encore une fois...faites des liens vers les autres articles ou sources externes
 
 ### topographiques
 
@@ -123,7 +142,7 @@ Il est important de savoir de quoi l'on parle alors la défiition est quand meme
 - forme 1
 - forme 2
 
-## diagnostic différentiel
+## Diagnostic différentiel
 
 - pathologie 1
 - pathologie 2
@@ -131,25 +150,33 @@ Il est important de savoir de quoi l'on parle alors la défiition est quand meme
 > ici encore listez simplement. Il est vivement recommandé de faire des liens vers
 > les articles qui décrivent les signes cliniques...sur ce site ou ailleurs
 
-## traitement
+## Diagnostic etiologique ou étiologies (au besoin)
 
-### buts:
+> Bon en réalité pas besoin de la démarche étiologique ici, listez juste les étiologies
+> vous utiliserez (devinez quoi...) DES LIENS vers d'autres articles ou sources externes
+> Je crois que vous commencez à capter l'intéret de faire des liens
+
+## Traitement
+
+### Buts
 
 pourquoi pas?
 
-### moyens:
+### Moyens
 
 - moyen 1
 - moyen 2
 - moyen 3
 
-### indications:
+### Indications
 
 - indication 1
 - indication 2
 - indication 3
 
-#### surveillance
+## Prévention (si possible)
+
+#### Surveillance
 
 - De la maladie:
 
@@ -160,3 +187,9 @@ pourquoi pas?
 
   - clinique: signe 7, signe 8, signe 9
   - paraclinique: signe 10, signe 11, signe 12
+
+> Si vous avez envie de conclure avec un commentaire personnel ou autre chose, Vous pouvez le faire directement
+> à la fin de l'article sans forcément ajouter un titre "conclusion" ou "commentaires" mais bon, l'essentiel est d'être bref.
+> Vous n'etes absolument pas obligé de FIDELEMENT reproduire ce plan. Vous l'adpaterez selon vos sources d'informations et vos préférences.
+> Mais ce plan sert de guide ou de base sur laquelle on s'entend, pour ainsi dire...
+> La modération se chargera de vérifier votre article de toute façon. Merci pour votre contribution.

@@ -1,8 +1,8 @@
 # MedicalCheatSheets
 
-A simple static jekyll blog about medical pathologies, with small cheat sheets
-as posts or articles. the blog is written in **French** and articles are added gradually.
+A simple static jekyll blog about medical pathologies, with short posts or articles.
 
+The blog is written in **French** and articles are added gradually.
 
 The blog includes a progressive web app (pwa) functionality for offline reading (working on it):
 
@@ -17,18 +17,15 @@ The blog includes a progressive web app (pwa) functionality for offline reading 
 Any contribution will be possible when license is added.
 
 ## Usage
-`git clone` the repository, then install the dependencies with:
 
-`bundle install`
+`git clone` the repository, then install the dependencies with `bundle install`
 
-You need to run it everytime there is changes in the dependancies
+also every time there is changes in the dependencies you need to install them
 
-Next, run the server with:
-
-`bundle exec jekyll serve`
+then, run the server with `bundle exec jekyll serve`
 
 The server will make the project available at: http://127.0.0.1:4000/MedicalCheatSheets/ 
 
 <!-- TODO:
-- add contributing, code of conduct, license support ressources...
+- add contributing, code of conduct, license support resources...
 -->
