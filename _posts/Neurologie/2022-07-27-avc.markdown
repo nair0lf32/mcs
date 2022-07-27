@@ -1,0 +1,292 @@
+---
+layout: default
+title: AVC
+author: nairolf32
+date: 2022-07-27 18:17:03 +0100
+categories: Neurologie
+refs: Cours FSS-UAC "AVC",Dr GNONLONFOUN Dieudonné,Octobre 2019; "Prise en charge des AVC", Prof HOUINATO Dismand, Prof ADJIEN Constant, MCA GNONLONFOUN Dieudonné, 2020;
+permalink: /avc/
+---
+
+# Accidents vasculaires cérébraux (AVC)
+
+## Definition
+
+L'AVC est un déficit neurologique soudain d’origine vasculaire présumée et d’expressions clinique variée
+
+## Ethiopathogénie
+
+### Facteurs de risque
+
+RR = risk ratio, OR = odds ratio
+
+| Non modifiables   | Modifiables  |
+| -------------     | ------------ |
+| Age > 55 ans RR=2 | HTA chronique: RR=4    |
+| Sexe: 1,25x chez les hommes avant 75 ans puis inversion | Diabète: OR=2 |
+| Race (noire ++)    | Dyslipidémie  |
+| Antécédents personnels d’AVC | Alcooloisme > 60g/j ou tabagisme: OR=2 |
+| Facteurs génétiques | Oestroprogestatifs |
+| Petit poids de naissance | Cardiopathies emboligènes |
+|           | Sédentarité, obésité |
+|           | Hémocystéinémie |
+
+### Phases de l'AVC
+
+- phase hyperaigue: 0-48 heures post AVC
+- phase aigue: 2-14 jours post AVC
+- phase subaigue: 14 jours - 6 mois post AVC
+- phase chronique: > 6 mois post AVC
+
+### Classification
+
+- AVC d’origine artérielle:
+  - AVC ischémique (AVCI = 80%)
+    - AIC (Accident ischémique constitué)
+    - AIT (Accident ischémique transitoire)
+    - Lacunes
+  
+  - AVC hémorragiques (AVCH = 20%)
+    - Intraparenchymateux
+    - Hémorragie méningée
+
+- AVC d’origine veineuse
+  - Thrombophlébite cérébrale (TVC)
+
+Pour mieux comprendre le mécanisme des AVC il importe de connaitre l'anatomie de la vascularisation cérébrale
+(cercle artériel et territoires vasculaires) mais nous n'en parlerons pas ici.
+
+### AVC Ischémique
+
+- Mécanisme occlusif
+  - Embolique+++
+  - Thrombotique (souffrance du territoire cérébral en aval)
+  
+- Mécanisme hémodynamique
+  - Effondrement de la Pression Artérielle régionale
+  - AVCI par lésion des artères de gros et moyens calibres entrainant un infarctus de grande taille
+  - AVCI par lésion des artérioles donnant un infarctus de petite taille (des Lacunes)
+
+### AVC Hémorragique
+
+- Hémorragie cérébro-méningée
+- Innondation ventriculaire
+- Hématome lobaire
+- Hématome profond
+
+## Diagnostic positif
+
+### AVC ischémique
+
+#### signes cliniques (avci)
+
+- Installation soudaine (début brutal)
+- Signes cliniques variables selon la topographie de l’infarctus et en fonction du territoire vasculaires touché
+
+#### Les AVCI Carotidiens:
+
+#### AVCI Sylvien superficiel
+
+- Hémiparésie à prédominance brachiofaciale (++)
+- Troubles sensitifs dans le territoire paralysé
+- Hémianopsie latérale homonyme
+- L'Atteinte de l’hémisphère majeur comporte :
+  - aphasie (Troubles du langage) motrice et non fluente de Broca si infarctus antérieur
+  - aphasie sensorielle et fluente de Wernicke (atteinte temporale postérieure)
+  - apraxie : idéomotrice et idéatoire (atteinte pariétale)
+- L' Atteinte de l’hémisphère mineur se manifeste par :
+  - un syndrome d’Anton-Babinski :
+    - anosognosie (non-reconnaissance du trouble)
+    - hémiasomatognosie (non-reconnaissance de l’hémicorps paralysé)
+    - héminégligence (spatiale, motrice et visuelle controlatéral, gênant
+la rééducation)
+    - syndrome de Gerstmann : acalculie, agraphie, agnosie des doigts et
+indistinction gauche/droite
+
+#### AVCI de la cérébrale antérieure
+
+- Hémiparésie controlatérale à prédominance crurale
+- Syndrome frontal
+
+#### AVCI Sylvien profond ou total
+
+- Hémiplégie controlatérale totale et proportionnelle
+
+#### Les AVCI Vertébro-basilaires
+
+- AVC de la cérébrale postérieure:
+  - Hémianopsie latérale homonyme
+  - BAV voire cécité corticale
+
+- Infarctus cérébelleux
+  - Trouble de l’équilibre
+  - Trouble de la coordination
+
+- AVCI du tronc cérébral
+  - Syndrome alterne
+
+#### signes paracliniques (avci):
+
+#### imagerie:
+
+TDM (Scanner) Cérébral: L'Ischémie apparait comme une hypodensité spontannée (noire ou sombre) dans le territoire vasculaire atteint
+
+- AVCI sylvien superficiel:
+
+<img src="{{ '/assets/posts-assets/avci-sylvien-superficiel.jpg?v=' | append: site.github.build_revision | relative_url }}" alt="AVCI sylvien superficiel" />
+
+On peut également avoir des signes indirects avant 48h au scanner (effacement des sillons corticaux,trop belle artère sylvienne):
+
+<img src="{{ '/assets/posts-assets/signes-indirects-ischemie.png?v=' | append: site.github.build_revision | relative_url }}" alt="signes indirects ischemie" width=200/>
+<img src="{{ '/assets/posts-assets/signes-indirects-ischemie2.png?v=' | append: site.github.build_revision | relative_url }}" alt="signes indirects ischemie2" width=200/>
+
+IRM cérébrale: L'ischémie apparait comme un hypersignal (blanc) en séquence de diffusion (autres séquences = FLAIR et perfusion)
+
+<img src="{{ '/assets/posts-assets/irm-avci.jpg?v=' | append: site.github.build_revision | relative_url }}" alt="signes indirects ischemie" />
+
+#### complications possibles (acvi)
+
+- 15-20% de décès sur les 02 premières semaines
+- Dépression
+- Démence vasculaire
+- Epilepsie
+- Spasticité
+- Douleurs neuropathiques
+
+### AVC Hémorragique
+
+#### signes cliniques (avch)
+
+Début brutal
+
+#### Hémorragie capsulo-lenticulaire
+
+- HIC
+- Hémiplégie controlatérale ± Hémianesthésie
+- Trouble du langage 
+- Déviation conjuguée de la tête et des yeux dans les hématomes volumineux
+
+#### Autres formes:
+
+- Hématome Thalamique
+- Hématome lobaire
+- Hématome du cervelet
+- Hématome du Tronc cérébral (protubérenciel)
+
+#### signes paracliniques (avch)
+
+#### imagerie
+
+TDM (Scanner) Cérébral: L'Hémorragie apparait comme une hyperdensité spontannée (blanc) dans le parenchyme ou les ventricules
+
+- Hémorragie cérébro-méningée avec inondation ventriculaire:
+
+<img src="{{ '/assets/posts-assets/hemorragie-capsulo-lenticulaire.jpg?v=' | append: site.github.build_revision | relative_url }}" alt="hemorragie capsulo lenticulaire" />
+
+#### Complications possibles (avch)
+
+- Pronostic fonctionnel meilleur que AVCI
+- Mortalité à 1mois: 30%
+- 1/2 patients décèdent dans les 48h
+- Complications immédiates:
+  - resaignement (récidive) 
+  - Engagement cérébral
+  - Hydrocéphalie aigue
+  - Inondation (ventriculaire)
+- Complications tardives: 
+  - Complications de décubitus
+  - Epilepsie
+
+## Diagnostic différentiel
+
+Il ne faut pas confondre
+
+- AVCI et AVCH (L'Imagerie fait la différence)
+- AVC Ischémique avec:
+  - Traumatisme crânien, toxique, tumeurs cérébrales
+- Un AIT avec:
+  - Une Crise d’épilepsie partielle
+  - Une Crise de migraine avec aura
+  - Une Hypoglycémie
+  - Une Hystérie, lipothymie...
+- Un AVC Hémorragique avec:
+  - Une tumeur cérébrale (imagerie)
+
+## Etiologies
+
+### AVCI
+
+- Etiologies vasculaires:
+  - Athérosclérose
+  - Artériolosclérose
+  - Dissection des artères cervico-encéphaliques
+  - Macro-angiopathies rares (SVCR,AI)
+  
+- Etiologies Cardiaques (emboligènes):
+  - Fibrilation Auriculaire
+  - Infarctus Du Myocarde
+  - Prothèses valvulaires mécaniques
+  - Cardiomyopathies dilatées
+  - autres causes rares (Endocardite infectieuse, Foramen Ovale Perméable, Rétrécissement Mitral,
+ Bioprothèse valvulaire, Anvrysme du Septum Inter Atrial (ASIA))
+  
+- Etiologies Hématologiques:
+  - Polyglobulie
+  - Thrombocytémie
+  - Drépanocytose homozygote
+  - Dysglobulinémie, CIVD
+  - Leucémie, Thrombophilie (déficit en proteine C ou S, en antithrombine, mutation leiden du facteur V,
+  syndrome d'anticorps antiphospholipides)
+
+### AVCH
+
+- Hypertension artérielle chronique
+- Malformations Vasculaires: Anévrysme, angiomes caverneux ou cavernomes
+- Malformations Artério-Veineuses
+- Télangiectasies
+- Angiopathies amyloïde cérébrale
+- Troubles de la coagulation de l’hémostase
+- Tumeur cérébrale
+- Traumatismes crâniens, toxicomanie, endocardite d’osler, TVC, les vascularites
+- Causes indéterminée (10%)
+
+## Traitement
+
+### Mesures Générales
+
+- Repos au lit strict à la phase aiguë
+- Position demi-assisse après 2-3 jours (AVCi)
+- Liberté des voies aériennes
+- Maintien d’une tension artérielle suffisante
+- Maintien d’une bonne fonction cardiaque
+- Assurer un bon équilibre hydro-électrolytique et nutritionnel
+- Lutte contre l’hyperglycémie
+- Lutte contre l’hyperthermie
+- Prévention des complications thromboemboliques
+- Traitement antiépileptique si crise avérée
+- Traitements anti-œdémateux: niveau de preuve insuffisant
+- Kinésithérapie
+- Nursing:
+  - Massage et friction des points de pression
+  - Soins de bouche et des yeux
+  - Changement de position toutes les quatre heures
+  - Sonde urinaire si besoin
+
+### Mesures spécifiques
+
+#### AVCI
+
+- Traitement anti-arthritique 
+- Antiagrégants plaquettaires: AAS (100à 300mg/j), clopidogrel 75mg
+- Traitement hyperaigu des AIC: thrombolyse, thrombectomie
+- Traitement des facteurs de risque
+- Cardiopathies emboligènes (HBPM chevauchement AVK)
+- Traitement chirurgical:
+  - Dans les infarctus malins
+  - Dissection et sténose carotidienne (Endartériectomie)
+
+#### AVCH
+
+- Drainage chirurgical
+- Drainages ventriculaires si hydrocéphalie
+- Normalisation des paramètres de coagulation chez patients sous anticoagulant ou Arrêt de tout traitement anticoagulant
