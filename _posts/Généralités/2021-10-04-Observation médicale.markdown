@@ -4,7 +4,7 @@ title: Observation médicale
 author: nairolf32
 date: 2021-10-04 16:52:00 +0100
 categories: Généralités
-refs: non fournies
+refs: FSS-UAC "DEMARCHE MEDICALE ET PLAN D’OBSERVATION MEDICALE", Interne Emile S. FALOLA;
 permalink: /observation/
 ---
 
