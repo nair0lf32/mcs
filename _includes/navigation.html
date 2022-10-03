@@ -21,10 +21,11 @@
             {% assign class = 'active' %}
             {% endif %}
             {% if link.sublinks %}
-            <li class="dropdown {{ class }}">
-                <a href="javascript:void(0)" class="dropdown-toggle">{{ link.title }} <span
-                        class="fa fa-caret-down"></span></a>
-                <ul class="dropdown-menu">
+            <li class="dropdown {{ class }}" onclick="toggledown()">
+                <a href="javascript:void(0)" class="dropdown-toggle">{{ link.title }}
+                    <span id="carret" class="fa fa-caret-down"></span>
+                </a>
+                <ul class="dropdown-menu" id="dropdown-menu">
                     {% for sublink in link.sublinks %}
                     <li class="ddm">
                         <a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
@@ -43,13 +44,22 @@
 
 
     <script>
-        /* Set the width of the side navigation to 320px */
+        /* Set the width of the side navigation to 330px */
         function openNav() {
-            document.getElementById("mySidenav").style.width = "325px";
+            document.getElementById("mySidenav").style.width = "330px";
         }
         /* Set the width of the side navigation to 0 */
         function closeNav() {
             document.getElementById("mySidenav").style.width = "0";
+        }
+
+        function toggledown() {
+            var x = document.getElementById("dropdown-menu");
+            if (x.style.display === "none") {
+                x.style.display = "block";
+            } else {
+                x.style.display = "none";
+            }
         }
     </script>
 </body>

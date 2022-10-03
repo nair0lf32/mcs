@@ -80,11 +80,6 @@
   }
 }
 
-/* Optional: Style the caret down icon */
-.fa-caret-down {
-  float: right;
-  padding-right: 4px;
-}
 
 .sidenav ul {
     list-style-type: none;
@@ -92,7 +87,6 @@
 
 #navbar ul li a, .dropdown-toggle {
     color: white;
-    text-align: center; /*doesn't seem to do anything*/
     padding: 14px 16px;
     text-decoration: none;
     display: inline-block;
@@ -100,6 +94,7 @@
 
 .dropdown-menu {
     display: none;
+    text-align: left;
     position: absolute;
     min-width: 50px;
     z-index: 1;
@@ -113,15 +108,9 @@
     text-align: left;
 }
 
-.ddm {
-    display: block;
-}
 
 .dropdown-content a:hover {background-color: white;}
 
-.dropdown:hover .dropdown-menu {
-    display: block;
-}
 
 .wrapper
 {
