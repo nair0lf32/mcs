@@ -20,6 +20,8 @@ Les informations réunies sur ce site proviennent essentiellement des cours de p
 
 Ce projet Hébergé sur Github s'ouvre également à toute forme de contribution...surtout la rédaction des articles. en gros vous pouvez contribuer à écrire un ou plusieurs des articles de ce site en respectant le style de plan simple adopté et le format de texte Markdown (Md), version kramdown GFM, ou simplement faire des propositions pour l'améliorer.
 
+*Nous avons ajouté des "articles secrets" qui n'apparaissent que sur la page des auteurs*
+
 Pour en savoir plus suivez ce lien:
 
 <a href="{{ site.baseurl }}{% link about.markdown %}" class="about"> A propos </a>

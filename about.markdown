@@ -27,9 +27,13 @@ Après au moins une contribution vous serez ajouté à la liste des contributeur
 Vous rejoignez plutot la liste des auteurs du site. Les administrateurs et modérateurs du site seront choisis parmi les auteurs volontaires les plus distingués et
 les plus motivés.
 
+Si vous voulez écrire un article mais vous ne voulez pas qu'il soit dans la liste "Tous les articles", mais accessible seulement via votre page "autheur", vous pouvez également en faire un "article secret".
+
 ## Documentation
 
 Cette partie concerne surtout les "pros", en gros toute personne qui s'y connait en développement informatique/web. Le dépot Github du code source est public et open source sous license (à ajouter). Pour contribuer faites simplement un fork ou clonez le dépot et créez une branche pour vos modifications. Ajoutez vos articles au format markdown en respectant la nomenclature et le format des posts jekyll, dans le dossier `_drafts` et rangez l'article dans la catégorie `_posts` correspondante (si vous connaissez la bonne catégorie ou ranger le fichier, aka spécialité médicale correspondante). la modération arrangera ça lors du code review et fera un merge si tout est correct.
+
+Le dossier `Secrets` contient tous les articles secrets, quelque soit l'auteur.
 
 Si vous clonez localement n'oubliez pas d'installer les dépendances avec `bundle install` et de lancer `bundle exec jekyll serve` pour démarrer le serveur de développement.
 Consultez la documentation de jekyll (lien en bas de page) pour plus d'informations.
@@ -68,7 +72,9 @@ Vous pouvez ici voir un exemple d'article détaillé avec le markdown correspond
 
 Si c'est votre premier article il faudra ajouter dans l'article vos informations d'auteur, notamment votre nom, contacts,
 liens ou identifiants de réseaux sociaux, au choix bien entendu (vous pouvez rester anonyme en
-utiisant juste un pseudo et un numéro de téléphone, voir l'exemple pour plus de détails)
+utiisant juste un pseudo et un numéro de téléphone. voir l'exemple pour plus de détails)
+
+Si vous souhaiter faire un article secret, remplissez simplement l'en-tete avec la categorie "Secrets" (ou contactez un modérateur pour vous faire aider)
 
 Pensez avant tout à vérifier que votre article n'existe pas déjà (j'en ai personellement écrit pas mal). La medecine
 est un vaste champ et il existe des milliers de pathologies. Nous perdrions du temps à nous répéter et il y a beaucoup

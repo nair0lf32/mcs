@@ -52,7 +52,7 @@ layout: default
     {% assign filtered_posts = site.posts | where: 'author', page.short_name %}
     {% for post in filtered_posts %}
     {% for category in post.categories %}
-    {% unless category contains 'Menu' %}
+    {% unless category contains 'Menu' or category contains 'Secrets' or category contains 'Exemple'%}
     <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
     {% assign count = count | plus: 1 %}
     {% endunless %}
@@ -60,6 +60,24 @@ layout: default
     {% endfor %}
 </ul>
 <h3>{{ count }} articles écrits</h3>
+
+<h2>Mes articles Secrets: </h2>
+<ul>
+    {% assign count2 = 0 %}
+    {% assign my_posts = site.posts | where: 'author', page.short_name %}
+    {% for post in my_posts %}
+    {% for category in post.categories%}
+    {% unless category contains 'Menu'or category contains 'Exemple' %}
+    {% if category contains 'Secrets' %}
+    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+    {% assign count2 = count2 | plus: 1 %}
+    {% endif %}
+    {% endunless %}
+    {% endfor %}
+    {% endfor %}
+</ul>
+<h3>{{ count2 }} articles secrets</h3>
+
 
 
 <style>
