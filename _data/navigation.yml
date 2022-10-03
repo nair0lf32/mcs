@@ -7,12 +7,11 @@
 - title: Auteurs
   url: /authors
 
-- title: Cheat Sheets
+- title: Tous les articles
   url: /cheatsheets
-  sublinks:
-    - title: Tous les articles
-      url: /cheatsheets
 
+- title: Catégories
+  sublinks:
     - title: Généralités
       url: /généralités
 
