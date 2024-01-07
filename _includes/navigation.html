@@ -9,10 +9,10 @@
 
 <body>
     <!-- Use any element to open the sidenav -->
-    <a class="btn" onclick="openNav()">Menu</a>
+    <a class="btn" onclick="toggleNav()">Menu</a>
 
     <nav id="mySidenav" class="sidenav">
-        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <a href="javascript:void(0)" class="closebtn" onclick="toggleNav()">&times;</a>
         <ul>
             {% assign links = site.data.navigation %}
             {% for link in links %}
@@ -21,11 +21,12 @@
             {% assign class = 'active' %}
             {% endif %}
             {% if link.sublinks %}
-            <li class="dropdown {{ class }}" onclick="toggledown()">
-                <a href="javascript:void(0)" class="dropdown-toggle">{{ link.title }}
-                    <span id="carret" class="fa fa-caret-down"></span>
+            <li class="dropdown {{ class }}">
+                <a href="javascript:void(0)" class="dropdown-toggle" onclick="toggleDropdown(this)">
+                    {{ link.title }}
+                    <span id="caret" class="fa fa-caret-down"></span>
                 </a>
-                <ul class="dropdown-menu" id="dropdown-menu">
+                <ul class="dropdown-menu">
                     {% for sublink in link.sublinks %}
                     <li class="ddm">
                         <a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
@@ -42,23 +43,24 @@
         </ul>
     </nav>
 
-
     <script>
-        /* Set the width of the side navigation to 330px */
-        function openNav() {
-            document.getElementById("mySidenav").style.width = "330px";
-        }
-        /* Set the width of the side navigation to 0 */
-        function closeNav() {
-            document.getElementById("mySidenav").style.width = "0";
+        function toggleNav() {
+            var sidenav = document.getElementById("mySidenav");
+            sidenav.style.width = sidenav.style.width === "330px" ? "0" : "330px";
         }
 
-        function toggledown() {
-            var x = document.getElementById("dropdown-menu");
-            if (x.style.display === "none") {
-                x.style.display = "block";
+        function toggleDropdown(link) {
+            var dropdown = link.nextElementSibling;
+            var caret = link.querySelector('#caret');
+
+            if (dropdown.style.display === "none" || !dropdown.style.display) {
+                dropdown.style.display = "block";
+                caret.classList.remove('fa-caret-down');
+                caret.classList.add('fa-caret-up');
             } else {
-                x.style.display = "none";
+                dropdown.style.display = "none";
+                caret.classList.remove('fa-caret-up');
+                caret.classList.add('fa-caret-down');
             }
         }
     </script>
