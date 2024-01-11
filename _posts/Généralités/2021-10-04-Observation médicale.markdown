@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Observation médicale
 author: nairolf32
 date: 2021-10-04 16:52:00 +0100
@@ -8,7 +8,7 @@ refs: FSS-UAC "DEMARCHE MEDICALE ET PLAN D’OBSERVATION MEDICALE", Interne Emil
 permalink: /observation/
 ---
 
-# Observation médicale:
+# Introduction
 
 La base de la prise en charge médicale et du dossier du patient, c'est un document médico-légal que tout médecin sait rédiger. C'est l'une des premières choses qu'on apprend en pratique. Le plan peut varier légèrement selon les services, mais voici globalement le plan d'une observation médicale:
 
