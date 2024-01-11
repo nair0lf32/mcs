@@ -28,7 +28,7 @@ vous pouvez les ajouter vous même en suivant le modèle des autres articles.
 ---
 layout: default (laissez le comme tel. S'il manque on l'ajoutera en modération)
 
-title: Exemple d'Article (le titre de l'article, choisi par vous)
+title: Exemple d'Article (le titre de l'article, choisi par vous, idéalement le nom de la pathologie ou le sujet de l'article)
 
 author: nairolf32 (votre pseudo, vous le choisissez vous même mais il est obligatoire)
 
@@ -56,8 +56,6 @@ C'est obligatoire mais vous pouvez mettre "non fournies" si vous n'en avez pas)
 permalink: /titre/ (le lien local vers votre article. il doit être unique. Il sera vérifié et modifié au besoin)
 ---
 ````
-
-# Titre de l'article / Nom de la pathologie
 
 ## Definition
 
