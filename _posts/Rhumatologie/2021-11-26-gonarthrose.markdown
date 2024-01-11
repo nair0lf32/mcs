@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Gonarthrose"
 author: "nairolf32"
 date: 2021-11-26 12:09:58 +0100
@@ -7,8 +7,6 @@ categories: Rhumatologie
 refs: non fournies
 permalink: /gonarthrose/
 ---
-
-# Gonarthrose:
 
 ## Définition:
 

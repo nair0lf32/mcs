@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Anémie Microcytaire
 author: nairolf32
 date: 2022-01-21 14:46:00 +0100
@@ -7,8 +7,6 @@ categories: Généralités
 refs: non fournies
 permalink: /anemie-microcytaire/
 ---
-
-# Anémie Microcytaire
 
 ## Definition
 

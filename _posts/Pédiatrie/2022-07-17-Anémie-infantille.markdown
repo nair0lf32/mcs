@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Anémie de l'enfant
 author: nairolf32
 date: 2022-07-17 20:55:00 +0100
@@ -7,8 +7,6 @@ categories: Pédiatrie
 refs: Cours FSS-UAC "anémie chez l'enfant" Dr. Lutécia ZOHOUN 2020
 permalink: /anemie-infantile/
 ---
-
-# Anémie de l'enfant
 
 ## Definition
 

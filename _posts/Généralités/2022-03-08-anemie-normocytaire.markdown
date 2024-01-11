@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Anémie Normocytaire
 author: nairolf32
 date: 2022-01-21 20:19:42 +0100
@@ -7,8 +7,6 @@ categories: Généralités
 refs: non fournies
 permalink: /anemie-normocytaire/
 ---
-
-# Anémie Normocytaire
 
 ## Definition
 

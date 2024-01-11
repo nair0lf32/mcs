@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Paludisme
 author: nairolf32
 date: 2022-05-28 20:45:00 +0100
@@ -7,8 +7,6 @@ categories: Infectiologie
 refs: Cours FSS-UAC "paludisme" (2020) et "traitement du paludisme grave" (2021) Prof. Angèle KOUANOU 2020, "Epidémiologie du paludisme en Afrique" prof AGUEMON Badirou
 permalink: /paludisme/
 ---
-
-# Paludisme
 
 ## Definition
 

@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Polyarthrite Rhumatoide"
+layout: post
+title: "Polyarthrite Rhumatoide (PR)"
 author: "nairolf32"
 date: 2021-11-16 17:23:03 +0100
 categories: Rhumatologie
@@ -8,7 +8,6 @@ refs: non fournies
 permalink: /polyarthriterhumatoide/
 ---
 
-# Polyarthrite Rhumatoide (PR):​​​
 
 ## Définition:
 

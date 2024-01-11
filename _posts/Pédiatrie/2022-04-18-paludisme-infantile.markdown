@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Paludisme de l'enfant
 author: nairolf32
 date: 2022-04-18 17:45:00 +0100
@@ -7,8 +7,6 @@ categories: Pédiatrie
 refs: Cours FSS-UAC "paludisme chez l'enfant" Prof. Jules M. ALAO 2021, [http://campus.cerimes.fr/parasitologie/enseignement/paludisme/site/html/7_2.html]
 permalink: /paludisme-infantile/
 ---
-
-# Paludisme de l'enfant
 
 ## Definition
 
