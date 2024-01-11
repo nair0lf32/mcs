@@ -1,0 +1,107 @@
+---
+---
+
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: " fr" }}">
+
+<head>
+    <meta charset="UTF-8">
+    <!-- PWA -->
+    <link rel="manifest" href="{{ '/manifest.json?v=' | append: site.github.build_revision | relative_url }}" />
+    <script type="text/javascript"
+        src="{{ '/assets/js/main.js?=' | append: site.github.build_revision | relative_url }}"></script>
+
+    <!-- insert favicons by favicon generator-->
+    <link rel="apple-touch-icon" sizes="180x180"
+        href="{{ '/assets/images/apple-touch-icon.png?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="icon" type="image/png" sizes="32x32"
+        href="{{ '/assets/images/favicon-32x32.png?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="icon" type="image/png" sizes="16x16"
+        href="{{ '/assets/images/favicon-16x16.png?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="shortcut icon"
+        href="{{ '/assets/images/favicon.ico?v=' | append: site.github.build_revision | relative_url }}">
+    <meta name="msapplication-TileColor" content="#157878">
+    <meta name="msapplication-config" content=" ">
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="Medical Cheat Sheets" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://nair0lf32.github.io/MedicalCheatSheets/" />
+    <meta property="og:description" content="Un simple blog au sujet de diverses pathologies">
+    <meta property="og:site_name" content="MedicalCheatSheets">
+    <meta property="og:image" itemprop="image primaryImageOfPage"
+        content="https://raw.githubusercontent.com/nair0lf32/MedicalCheatSheets/master/assets/images/MCS.png" />
+    <!-- OG for twitter -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:domain" content="http://nair0lf32.github.io/MedicalCheatSheets/">
+    <meta name="twitter:title" property="og:title" itemprop="name" content="MedicalCheatSheets">
+    <meta name="twitter:description" property="og:description" itemprop="description"
+        content="Un simple blog au sujet de diverses pathologies">
+
+    {% seo %}
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style"
+        type="text/css" crossorigin>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+
+    {% include head-custom.html %}
+</head>
+
+
+<body>
+    <a id="skip-to-content" href="#content">Skip to the content.</a>
+    <header class="page-header" role="banner">
+        <div class='wrapper'>
+            <img class="logo"
+                src="{{ '/assets/images/MCS.png?v=' | append: site.github.build_revision | relative_url }}"
+                alt="MCS-logo" />
+            <h2 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h2>
+        </div>
+        <h3 class="project-tagline">{{ page.description | default: site.description | default:
+            site.github.project_tagline }}</h3>
+
+        {% include navigation.html %}
+
+        <a href="{{ site.baseurl }}{% link cheatsheets.markdown %}" class="btn">Tous les articles</a>
+    </header>
+
+    <main id="content" class="main-content" role="main">
+        <div id="main">
+
+            {{ content }}
+
+        </div>
+        <footer class="site-footer">
+
+            {% if page.date %}
+            <p>publié le {{ page.date | date: "%d/%m/%Y, à %R" }} </p>
+            {% endif %}
+
+            {% if page.refs %}
+            <p>sources/refferences: {{ page.refs }} </p>
+            {% endif %}
+
+            {% if page.author %}
+            {% include author_bio.html %}
+            {% endif %}
+
+
+            {% if site.github.is_project_page %}
+            <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{
+                    site.github.repository_name
+                    }}</a> est maintenu par &copy; <a href="{{ site.github.owner_url }}">{{ site.github.owner_name
+                    }}</a>, 2021.</span>
+            {% endif %}
+            <span class="site-footer-credits">Cette page <a href="https://jekyllrb.com/">Jekyll</a> est alimentée par <a
+                    href="https://pages.github.com">GitHub
+                    Pages</a>.</span>
+        </footer>
+    </main>
+
+</body>
+
+</html>
