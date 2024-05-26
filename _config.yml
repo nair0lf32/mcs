@@ -25,9 +25,13 @@ description: >
 locale: "fr"
 encoding: UTF-8
 markdown: kramdown
+highlighter: rouge
+permalink: pretty
 
-baseurl: "/MedicalCheatSheets" # the subpath of your site, e.g. /blog
-url: "https://github.com/nair0lf32.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+baseurl: "/mcs" # the subpath of your site, e.g. /blog
+url: "https://nair0lf32.gihub.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FlorianEdemessi
 github_username: nair0lf32
 

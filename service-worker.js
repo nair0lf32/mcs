@@ -1,7 +1,7 @@
 
 // set names for both precache & runtime cache
 workbox.core.setCacheNameDetails({
-    prefix: 'medicalcheatsheets',
+    prefix: 'mcs',
     suffix: 'v1.0',
     precache: 'precache',
     runtime: 'runtime-cache'
