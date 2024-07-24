@@ -1,21 +1,20 @@
 ---
 ---
-
 @import "{{ site.theme }}";
 
 /* The side navigation menu */
 .sidenav {
   height: 100%;
   width: 0; /* starts 0 width - change with JavaScript */
-  position: fixed; 
-  z-index: 1; 
-  top: 0; 
+  position: fixed;
+  z-index: 1;
+  top: 0;
   left: 0;
   margin-bottom: 30px;
-  background-color: #111; 
-  overflow-x: hidden; 
-  padding-top: 60px; 
-  transition: 0.5s; 
+  background-color: #111;
+  overflow-x: hidden;
+  padding-top: 60px;
+  transition: 0.5s;
 }
 
 /* The navigation menu links */
@@ -28,17 +27,14 @@
   transition: 0.3s;
 }
 
-/* Add an active class to the active dropdown button */
 .sidenav a.active {
   background-color: green;
   color: white;
 }
 
-/* On mouse-over */
 .sidenav a:hover:not(.active), .dropdown-btn:hover:not(.active) {
   color: green;
 }
-
 
 /* Position and style the close button (top right corner) */
 .sidenav .closebtn {
@@ -49,7 +45,8 @@
   margin-left: 40px;
 }
 
-/* Style page content - use this if you want to push the page content to the right when you open the side navigation */
+/* Style page content - use this if you want to push the page content
+to the right when you open the side navigation */
 #main {
   transition: margin-left .5s;
 }
@@ -60,26 +57,6 @@
   font-size: 20px; /* Increased text to enable scrolling */
   padding: 0px 10px;
 }
-
-/* On screens that are less than 700px wide, make the sidebar into a topbar */
-@media screen and (max-width: 700px) {
-  .sidebar {
-    width: 100%;
-    height: auto;
-    position: relative;
-  }
-  .sidebar a {float: left;}
-  div.content {margin-left: 0;}
-}
-
-/* On screens that are less than 400px, display the bar vertically, instead of horizontally */
-@media screen and (max-width: 400px) {
-  .sidebar a {
-    text-align: center;
-    float: none;
-  }
-}
-
 
 .sidenav ul {
     list-style-type: none;
@@ -131,4 +108,28 @@ a{
 a:hover {
   text-decoration: none;
   color: yellowgreen;
+}
+
+/* Media queries below. handle bigger screens later */
+@media screen and (max-width: 700px) {
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+
+  .sidebar a {
+    float: left;
+  }
+
+  div.content {
+    margin-left: 0;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .sidebar a {
+    text-align: center;
+    float: none;
+  }
 }

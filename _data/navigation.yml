@@ -12,16 +12,10 @@
 
 - title: Catégories
   sublinks:
-    - title: Généralités
-      url: /généralités
-
-    - title: Rhumatologie
-      url: /rhumatologie
-
     - title: Cardiologie
       url: /cardiologie
 
-    - title: Chirurgie Pediatrique
+    - title: Chirurgie Pédiatrique
       url: /chirurgiepediatrique
 
     - title: Chirurgie Viscérale
@@ -33,11 +27,20 @@
     - title: Endocrinologie
       url: /endocrinologie
 
+    - title: Fondamentaux
+      url: /fondamentaux
+
+    - title: Généralités
+      url: /généralités
+
     - title: Gynécologie
       url: /gynecologie
 
     - title: Hématologie
       url: /hematologie
+
+    - title: Hépato-gastro-entérologie
+      url: /hepatogastroenterologie
 
     - title: Infectiologie
       url: /infectiologie
@@ -48,11 +51,14 @@
     - title: Neurologie
       url: /neurologie
 
-    - title: ORL
-      url: /orl
+    - title: Néphrologie
+      url: /nephrologie
 
     - title: Ophtalmologie
       url: /ophtalmologie
+
+    - title: ORL
+      url: /orl
 
     - title: Pneumologie
       url: /pneumologie
@@ -60,20 +66,17 @@
     - title: Pédiatrie
       url: /pediatrie
 
-    - title: Traumatologie
-      url: /traumatologie
-
     - title: psychiatrie
       url: /psychiatrie
+
+    - title: Rhumatologie
+      url: /rhumatologie
+
+    - title: Traumatologie
+      url: /traumatologie
 
     - title: Urgences et Réanimation
       url: /urgences-reanimation
 
     - title: Urologie
       url: /urologie
-
-    - title: Néphrologie
-      url: /nephrologie
-
-    - title: Hépato-gastro-entérologie
-      url: /hepatogastroenterologie

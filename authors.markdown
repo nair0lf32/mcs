@@ -10,7 +10,7 @@ permalink: /authors/
 <ul>
   {% for author in site.authors %}
     <li>
-      <h2> <a href="{{ author.url | relative_url }}">{{ author.pseudonym }}</a> </h2>
+      <p> <a href="{{ author.url | relative_url }}">{{ author.pseudonym }}</a> </p>
     </li>
   {% endfor %}
 </ul>
