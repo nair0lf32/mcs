@@ -10,6 +10,9 @@ permalink: /hematologie/
 {% assign category = page.title %}
 
 <h2>{{ category }}</h2>
+
+> Au sujet des pathologies du sang et des organes hématopoïétiques (la moelle osseuse, les ganglions lymphatiques, la rate)
+
 {% for post in site.posts %}
 {% if post.categories contains category %}
 <li> <a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>

@@ -10,6 +10,9 @@ permalink: /endocrinologie/
 {% assign category = page.title %}
 
 <h2>{{ category }}</h2>
+
+> Au sujet des pathologies endocriniennes (liées aux glandes endocrines et leurs hormones), et du métabolisme en général
+
 {% for post in site.posts %}
 {% if post.categories contains category %}
 <li> <a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>

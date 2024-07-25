@@ -10,6 +10,9 @@ permalink: /mpr/
 {% assign category = page.title %}
 
 <h2>{{ category }}</h2>
+
+> Au sujet de la Médecine Physique et de Réadaptation (La gestion des handicaps physiques et de certaines maladies chroniques)
+
 {% for post in site.posts %}
 {% if post.categories contains category %}
 <li> <a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>

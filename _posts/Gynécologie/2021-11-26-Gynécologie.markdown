@@ -10,6 +10,9 @@ permalink: /gynecologie/
 {% assign category = page.title %}
 
 <h2>{{ category }}</h2>
+
+> Au sujet des pathologies gynécologiques (liées aux organes génitaux féminins) et obstétricales (liées à la grossesse et à l'accouchement)
+
 {% for post in site.posts %}
 {% if post.categories contains category %}
 <li> <a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>

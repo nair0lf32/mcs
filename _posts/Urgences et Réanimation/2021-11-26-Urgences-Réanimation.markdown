@@ -10,6 +10,9 @@ permalink: /urgences-reanimation/
 {% assign category = page.title %}
 
 <h2>{{ category }}</h2>
+
+> Au sujet des urgences médicales et détresses vitales
+
 {% for post in site.posts %}
 {% if post.categories contains category %}
 <li> <a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
