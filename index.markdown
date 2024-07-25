@@ -34,12 +34,4 @@ Pour en savoir plus suivez ce lien
 
 Bonne visite !
 
-<div align=center style="margin-top:5%;">
 <a href="{{ site.baseurl }}{% link cheatsheets.markdown %}" class="visit-btn"> Voir les articles</a>
-</div>
-
-<style>
-.about{font-size:1.3rem;}
-.visit-btn{padding:1%; font-size: 1.3rem; border: 1px black solid; text-decoration: none; outline: none;  background: none; color: green;}
-.visit-btn:hover{text-decoration: none; background:green; color:white;}
-</style>

@@ -17,21 +17,14 @@ permalink: /cheatsheets/
   {% endunless %}
 {% endfor %}
 
-<style>
-  .hidden {
-    display: none;
-  }
-</style>
-
-<p> Actuellement <b>{{ posts }}</b> articles sont disponibles, répartis en <b>{{ categories }}</b> catégories: <p>
+Actuellement <b>{{ posts }}</b> articles sont disponibles, répartis en <b>{{ categories }}</b> catégories
 
 {% assign sortedCategories = site.categories | sort %}
 
 {% for category in sortedCategories %}
-  {% unless category contains 'Menu' or category contains 'Secrets' or category contains 'Exemple'%}
+  {% unless category contains 'Menu' or category contains 'Exemple'%}
     <div class="articles">
       <h2>{{ category[0] }} ({{ category[1].size }})</h2>
-
       <ul id="myUL" class="ul">
         {% assign sortedArticles = category[1] | sort: 'title' %}
         {% for post in sortedArticles %}
@@ -42,8 +35,6 @@ permalink: /cheatsheets/
   {% endunless %}
 {% endfor %}
 
-<p>
 Actuellement <b>{{ site.authors.size }}</b> auteur(s) ont contribué au développement de ce blog. Merci à tous ceux qui contribuent.
 Vous pouvez consulter la liste des auteurs et voir leur page via le menu ou en cliquant
 <a href="{{ site.baseurl }}{% link authors.markdown %}" class=""> Ici </a>
-<p>

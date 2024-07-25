@@ -110,6 +110,79 @@ a:hover {
   color: yellowgreen;
 }
 
+
+.about {
+  font-size: 1.3rem;
+}
+
+    .hidden {
+      display: none;
+    }
+
+/* The visit-button on index page */
+.visit-btn {
+  margin-top: 5%;
+  display: flex;
+  align-self: center;
+  max-width: fit-content;
+  margin-inline: auto;
+  padding: 1%;
+  font-size: 1.3rem;
+  border: 1px black solid;
+  text-decoration: none;
+  outline: none;
+  background: none;
+  color: green;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
+.visit-btn:hover {
+  text-decoration: none;
+  background: green;
+  color: white;
+}
+
+
+/* search bar for articles */
+                #myInput {
+                  display: block;
+                  background-image: url("{{ '/assets/images/icon-search.png?v=' | append: site.github.build_revision | relative_url }}");
+                  /* Add a search icon to input */
+                  background-position: 10px 12px;
+                  background-repeat: no-repeat;
+                  width: 75%;
+                  font-size: 16px;
+                  padding: 12px 20px 12px 40px;
+                  border: 1px solid #ddd;
+                  margin-bottom: 12px;
+                }
+
+                #myUL {
+                  list-style-type: none;
+                  padding: 0;
+                  margin: 0;
+                }
+
+                #myUL li a {
+                  border: 1px solid #ddd;
+                  margin-top: -1px;
+                  background-color: #f6f6f6;
+                  padding: 12px;
+                  text-decoration: none;
+                  font-size: 18px;
+                  color: black;
+                  display: block;
+                }
+
+                #myUL li a:hover:not(.header) {
+                  background-color: #eee;
+                }
+
+                .articles>h2:only-child {
+                  display: none;
+                }
+
+
 /* Media queries below. handle bigger screens later */
 @media screen and (max-width: 700px) {
   .sidebar {

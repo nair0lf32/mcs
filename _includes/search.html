@@ -1,73 +1,24 @@
 <head>
-    <title></title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <style>
-        #myInput {
-            background-image: url("{{ '/assets/images/icon-search.png?v=' | append: site.github.build_revision | relative_url }}");
-            /* Add a search icon to input */
-            background-position: 10px 12px;
-            background-repeat: no-repeat;
-            width: 75%;
-            font-size: 16px;
-            padding: 12px 20px 12px 40px;
-            border: 1px solid #ddd;
-            margin-bottom: 12px;
-        }
+</head>
 
-        #myUL {
-            list-style-type: none;
-            padding: 0;
-            margin: 0;
-        }
-
-        #myUL li a {
-            border: 1px solid #ddd;
-            margin-top: -1px;
-            background-color: #f6f6f6;
-            padding: 12px;
-            text-decoration: none;
-            font-size: 18px;
-            color: black;
-            display: block;
-        }
-
-        #myUL li a:hover:not(.header) {
-            background-color: #eee;
-        }
-
-        .articles>h2:only-child {
-            display: none;
-        }
-    </style>
-
-    <head>
-
-
-
-
-    <body>
-        <input type="search" id="myInput" onkeyup="searchFunction()" placeholder="Cherchez un article..">
-
-        <script>
-            function searchFunction() {
-
-                var input = document.getElementById('myInput'),
-                    filter = input.value.toUpperCase(),
-
-                    //TODO: fix the selection for better search results display
-                    li = document.querySelectorAll(".ul li");
-
-                // Loop through all list items, and hide those who don't match the search query
-                for (var i = 0; i < li.length; i++) {
-                    var a = li[i].querySelector("a");
-
-                    if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-                        li[i].style.display = "block";
-                    } else {
-                        li[i].style.display = "none";
-                    }
+<body>
+    <input type="search" id="myInput" onkeyup="searchFunction()" placeholder="Cherchez un article..">
+    <script>
+        function searchFunction() {
+            var input = document.getElementById('myInput'),
+                filter = input.value.toUpperCase(),
+                //TODO: fix the selection for better search results display
+                li = document.querySelectorAll(".ul li");
+            // Loop through all list items, and hide those who don't match the search query
+            for (var i = 0; i < li.length; i++) {
+                var a = li[i].querySelector("a");
+                if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
+                    li[i].style.display = "block";
+                } else {
+                    li[i].style.display = "none";
                 }
             }
-        </script>
-
-    </body>
+        }
+    </script>
+</body>
