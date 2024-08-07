@@ -9,7 +9,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 
 # gem "jekyll", "~> 4.2.0"
-gem "github-pages", group: :jekyll_plugins
+gem "github-pages", ">= 232", group: :jekyll_plugins
 gem 'jekyll-paginate'
 gem 'kramdown'
 gem 'pygments.rb'
