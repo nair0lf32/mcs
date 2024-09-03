@@ -35,6 +35,4 @@ Actuellement <b>{{ posts }}</b> articles sont disponibles, répartis en <b>{{ ca
   {% endunless %}
 {% endfor %}
 
-Actuellement <b>{{ site.authors.size }}</b> auteur(s) ont contribué au développement de ce blog. Merci à tous ceux qui contribuent.
-Vous pouvez consulter la liste des auteurs et voir leur page via le menu ou en cliquant
-<a href="{{ site.baseurl }}{% link authors.markdown %}" class=""> Ici </a>
+Actuellement <b>{{ site.authors.size }}</b> auteur(s) ont contribué au développement de ce blog. Merci à tous ceux qui contribuent. Vous pouvez consulter la liste des auteurs et voir leur page via le menu ou en cliquant <a href="{{ site.baseurl }}{% link authors.markdown %}" class=""> Ici </a>

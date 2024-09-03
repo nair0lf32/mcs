@@ -11,8 +11,7 @@ permalink: /généralités/
 
 <h2>{{ category }}</h2>
 
-> Au sujet des pathologies générales, et des principes de médecine en général. Ici, on parle de tout ce qui n'est pas spécifique à une spécialité médicale (que tout médecin doit connaître) mais qui ne relève pas non plus des
-sciences fondamentales (biologie, chimie, physique, mathématiques, etc.)
+> Au sujet des pathologies générales, et des principes de médecine en général. Ici, on parle de tout ce qui n'est pas spécifique à une spécialité médicale (que tout médecin doit connaître) mais qui ne relève pas non plus des sciences fondamentales (biologie, chimie, physique, mathématiques, etc.)
 
 {% for post in site.posts %}
 {% if post.categories contains category %}

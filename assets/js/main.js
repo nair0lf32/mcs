@@ -8,6 +8,7 @@
         script.async = true;
         script.src = '{{'sw - register.js'|relative_url}}?v=' + Date.now();
         firstScript.parentNode.insertBefore(script, firstScript);
+
     };
 
 // Only trigger if service workers are supported in browser.
