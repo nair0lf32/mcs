@@ -1,6 +1,6 @@
 # MedicalCheatSheets (MCS)
 
-A simple static Jekyll blog about medical pathologies, with short posts or articles. The blog is written in **French** and articles are added gradually. The blog includes a progressive web app (pwa) functionality for offline reading (working on it):
+A simple static [Jekyll](https://jekyllrb.com/) blog about medical pathologies, with short posts or articles. The blog is written in **French** and articles are added gradually. The blog includes a progressive web app (pwa) functionality for offline reading (working on it):
 
 - Data is pre-cached in the browser using [workbox](https://developers.google.com/web/tools/workbox/).
 - Updating to get latest articles can be done when network is available (online)
@@ -11,8 +11,12 @@ Any contribution will be possible when license is added.
 
 ## Usage
 
-`git clone` the repository, then install the dependencies with `bundle install`.
-Then, run the server with `bundle exec Jekyll serve`. The server will make the project available at: `http://127.0.0.1:4000/mcs/`
+- `git clone` the repository
+- Install the dependencies with `bundle install`
+- Run the server with `bundle exec Jekyll serve`
+- `bundle exec jekyll build` to build the project
+
+The server will make the project available at: `http://127.0.0.1:4000/mcs/`
 
 **Important note**: As this is not a regular Jekyll setup but using `github-pages`plugin instead,
 you might have conflicts issues with your ruby version and the plugin versions (gh-pages doesn't support ruby > 2.7) which results in a nightmare especially when you are trying to setup on Linux. Here is a temporary (I wish) workaround:
