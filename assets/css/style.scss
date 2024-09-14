@@ -1,6 +1,6 @@
 ---
 ---
-@import "{{ site.theme }}";
+@import '{{ site.theme }}' ;
 
 /* The side navigation menu */
 .sidenav {
@@ -181,6 +181,9 @@ a:hover {
                 .articles>h2:only-child {
                   display: none;
                 }
+
+
+
 
 
 /* Media queries below. handle bigger screens later */
