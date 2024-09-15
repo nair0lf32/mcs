@@ -9,9 +9,9 @@ source "https://rubygems.org"
 # Happy Jekylling!
 
 # gem "jekyll", "~> 4.2.0"
-gem "github-pages", group: :jekyll_plugins
+gem "github-pages", ">= 229", group: :jekyll_plugins
 gem 'jekyll-paginate'
-gem 'kramdown'
+gem 'kramdown', '>= 2.4.0'
 gem 'pygments.rb'
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
@@ -22,7 +22,7 @@ gem 'pygments.rb'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-feed", "~> 0.16", ">= 0.16.0"
   gem "jekyll-pwa-workbox"
 end
 
