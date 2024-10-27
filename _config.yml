@@ -45,6 +45,14 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-pwa-workbox
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-glossary_tooltip
+  - jekyll-spaceship
+  - jekyll-language-plugin
+  - jekyll-target-blank
+  - jekyll-github-metadata
+  - premonition
 
 destination: ./_site
 
