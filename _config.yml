@@ -18,28 +18,24 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+#################################### BASIC SETTINGS ####################################
 title: Medical Cheat Sheets
 email: florianedem@gmail.com
 description: >
-  Un simple blog au sujet de diverses pathologies médcales
+  Un simple blog au sujet de diverses pathologies médicales
 locale: "fr"
 encoding: UTF-8
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
-
-
-
 baseurl: "/mcs" # the subpath of your site, e.g. /blog
 url: "https://nair0lf32.gihub.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FlorianEdemessi
 github_username: nair0lf32
-
 # Collections
 collections:
   authors:
     output: true
-
 # Build settings
 plugins:
   - jekyll-feed
@@ -53,12 +49,9 @@ plugins:
   - jekyll-target-blank
   - jekyll-github-metadata
   - premonition
-
 destination: ./_site
-
 include:
   - static
-
 # exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
@@ -70,8 +63,10 @@ include:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
 theme: jekyll-theme-cayman
+
+
+#################################### PWA SETTINGS ####################################
 
 pwa:
   sw_src_filepath: service-worker.js # Optional
@@ -86,3 +81,4 @@ pwa:
   precache_glob_ignores: # Optional
     - "sw-register.js"
     - "fonts/**/*"
+
