@@ -6,7 +6,7 @@ permalink: /about/
 
 # A propos
 
-Ce site/blog est alimenté par Jekyll et Github et utilise le thème Cayman. Les liens pour en apprendre plus sur ces technologies sont en pied de page.
+Ce site/blog est alimenté par {% glossary Jekyll %} et Github et utilise le thème Cayman. Les liens pour en apprendre plus sur ces technologies sont en pied de page.
 Pour contribuer vous devez **ABSOLUMENT lire tout ce qui suit**, surtout si c'est votre toute première contribution.
 La documentation aborde les aspects techniques et le paragraphe contribution les étapes à suivre pour faire une contribution.
 

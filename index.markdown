@@ -20,9 +20,9 @@ Ce projet Hébergé sur Github s'ouvre également à toute forme de contribution
 Pour en savoir plus <a href="{{ site.baseurl }}{% link about.markdown %}" class="about"> cliquez ici </a>
 ou visitez la page "A propos" via le menu de navigation.
 
-**Important**:
 
-> - J'insiste fortement sur le fait que ceci n'est pas un recueil exhaustif d'informations et que ce site bien qu'il s'efforce à l'être n'est pas "rigoureusement" scientifique. Le but premier est de réunir et partager l'essentiel de la pathologie médicale via l'outil internet.
+> error "Important"
+> J'insiste fortement sur le fait que ceci n'est pas un recueil exhaustif d'informations et que ce site bien qu'il s'efforce à l'être n'est pas "rigoureusement" scientifique. Le but premier est de réunir et partager l'essentiel de la pathologie médicale via l'outil internet.
 > - Un travail important de modération est fait pour chaque article par un ou plusieurs administrateurs du site. Nous évitons ainsi au maximum que le contenu des articles soit obsolète, inapproprié ou peu conformes à la vérité scientifique.
 > - Néanmoins il est déconseillé d'utiliser ce site comme référence dans un contexte professionnel ou scientifique.
 > - Bien que ce site cible aussi le grand public, la priorité revient aux étudiants et professionnels du domaine de la santé. Meme si tout le monde est invité à lire nos articles, ces derniers sont les plus habiles à interpréter le contenu de ce site. Toute personne qui n'est pas dans le domaine de la santé doit faire preuve de discernement et de prudence dans l'interprétation des informations contenues dans ce site.
