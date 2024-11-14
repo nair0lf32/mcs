@@ -5,8 +5,6 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-    <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines | escape | truncate: 160 }}">
     <meta name="keywords" content="{{ page.keywords | default: site.keywords }}">
     <!-- PWA -->
     <link rel="manifest" href="{{ '/manifest.json?v=' | append: site.github.build_revision | relative_url }}" />
@@ -23,20 +21,6 @@
         href="{{ '/assets/images/favicon.ico?v=' | append: site.github.build_revision | relative_url }}">
     <meta name="msapplication-TileColor" content="#157878">
     <meta name="msapplication-config" content=" ">
-    <!-- Open Graph -->
-    <meta property="og:title" content="Medical Cheat Sheets" />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="http://nair0lf32.github.io/MedicalCheatSheets/" />
-    <meta property="og:description" content="Un simple blog au sujet de diverses pathologies">
-    <meta property="og:site_name" content="MedicalCheatSheets">
-    <meta property="og:image" itemprop="image primaryImageOfPage"
-        content="https://raw.githubusercontent.com/nair0lf32/MedicalCheatSheets/master/assets/images/MCS.png" />
-    <!-- OG for twitter -->
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:domain" content="http://nair0lf32.github.io/MedicalCheatSheets/">
-    <meta name="twitter:title" property="og:title" itemprop="name" content="MedicalCheatSheets">
-    <meta name="twitter:description" property="og:description" itemprop="description"
-        content="Un simple blog au sujet de diverses pathologies">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style"
         type="text/css" crossorigin>
@@ -58,8 +42,8 @@
                 alt="MCS-logo" />
             <h2 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h2>
         </div>
-        <h3 class="project-tagline">{{ page.description | default: site.description | default:
-            site.github.project_tagline }}</h3>
+        <h3 class="project-tagline"> Un article mcs ({{ page.content | number_of_words }} mots)
+            publié le {{ page.date | date: "%d/%m/%Y" }} par {{ page.author }}</h3>
 
         {% include navigation.html %}
 

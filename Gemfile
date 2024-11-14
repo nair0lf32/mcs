@@ -10,6 +10,7 @@ source "https://rubygems.org"
 
 # gem "jekyll", "~> 4.2.0"
 gem "github-pages", group: :jekyll_plugins, github: 'github/pages-gem', branch: 'master'
+gem 'dotenv', groups: [:development, :test]
 gem 'jekyll-paginate'
 gem 'kramdown'
 gem 'pygments.rb'
@@ -30,16 +31,19 @@ group :jekyll_plugins do
   gem "jekyll-spaceship"
   gem "premonition"
   gem "jekyll-target-blank"
+  gem "jekyll-github-metadata"
+
   #gem "jekyll_picture_tag"
 end
-
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo", "~> 1.2"
   gem "tzinfo-data"
 end
-
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "webrick", "~> 1.7"
+
+# Extras
+gem 'faraday-retry'

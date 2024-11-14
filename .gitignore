@@ -6,3 +6,7 @@ vendor
 Thumbs.db
 assets/images/Thumbs.db
 assets/posts-assets/Thumbs.db
+*.env
+*.log
+*.swp
+*.swo

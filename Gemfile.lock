@@ -71,6 +71,7 @@ GEM
     csv (3.3.0)
     dnsruby (1.72.2)
       simpleidn (~> 0.2.1)
+    dotenv (3.1.4)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
@@ -79,12 +80,14 @@ GEM
     eventmachine (1.2.7)
     eventmachine (1.2.7-x64-mingw32)
     execjs (2.10.0)
-    faraday (2.12.0)
-      faraday-net_http (>= 2.0, < 3.4)
+    faraday (2.12.1)
+      faraday-net_http (>= 2.0, < 3.5)
       json
       logger
-    faraday-net_http (3.3.0)
-      net-http
+    faraday-net_http (3.4.0)
+      net-http (>= 0.5.0)
+    faraday-retry (2.2.1)
+      faraday (~> 2.0)
     ffi (1.17.0)
     forwardable-extended (2.6.0)
     gemoji (4.1.0)
@@ -220,7 +223,7 @@ GEM
       gemoji (>= 3, < 5)
       html-pipeline (~> 2.2)
       jekyll (>= 3.0, < 5.0)
-    json (2.7.4)
+    json (2.8.1)
     kramdown (2.4.0)
       rexml
     kramdown-parser-gfm (1.1.0)
@@ -237,7 +240,7 @@ GEM
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
     minitest (5.25.1)
-    net-http (0.4.1)
+    net-http (0.5.0)
       uri
     nokogiri (1.16.7)
       mini_portile2 (~> 2.8.2)
@@ -279,9 +282,9 @@ GEM
     tzinfo-data (1.2024.2)
       tzinfo (>= 1.0.0)
     unicode-display_width (1.8.0)
-    uri (0.13.1)
+    uri (1.0.2)
     wdm (0.1.1)
-    webrick (1.8.2)
+    webrick (1.9.0)
     zeitwerk (2.6.18)
 
 PLATFORMS
@@ -290,8 +293,11 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  dotenv
+  faraday-retry
   github-pages!
   jekyll-feed (~> 0.12)
+  jekyll-github-metadata
   jekyll-glossary_tooltip
   jekyll-paginate
   jekyll-pwa-workbox

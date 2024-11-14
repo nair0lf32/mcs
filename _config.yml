@@ -21,17 +21,41 @@
 #################################### BASIC SETTINGS ####################################
 title: Medical Cheat Sheets
 email: florianedem@gmail.com
+tagline: "Un simple blog au sujet de diverses pathologies médicales"
 description: >
-  Un simple blog au sujet de diverses pathologies médicales
-locale: "fr"
+  Un blog personnel ouvert à la contribution de tous les professionnels de la santé
+  pour partager des fiches de synthèse sur diverses pathologies médicales.
+keywords: >
+  médecine, santé, pathologies, fiches, synthèse, médical, cheat sheets, mcs, médical,
+  blog, maladies, maladie, pathologie, pathologies, médecin, infirmier, infirmière, aide-soignant,
+  aide-soignante, étudiant, étudiante, santé, santé publique, santé communautaire, santé mentale, santé,
+  endocrinologie, cardiologie, pneumologie, gastro-entérologie, hépatologie, néphrologie, rhumatologie,
+  neurologie, dermatologie, infectiologie, hématologie, oncologie, gynécologie, obstétrique, pédiatrie,
+  psychiatrie, chirurgie, orthopédie, traumatologie, urologie, ophtalmologie, oto-rhino-laryngologie,
+  stomatologie, médecine interne, médecine générale, médecine d'urgence, médecine du travail
+author: Florian Eudes C. EDEMESSI
+locale: "fr_FR"
 encoding: UTF-8
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
 baseurl: "/mcs" # the subpath of your site, e.g. /blog
 url: "https://nair0lf32.gihub.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: FlorianEdemessi
 github_username: nair0lf32
+logo: /assets/images/MCS.png
+image: "https://raw.githubusercontent.com/nair0lf32/MedicalCheatSheets/master/assets/images/MCS.png"
+twitter:
+  username: florianedemessi
+  card: summary
+twitter_username: florianedemessi
+social:
+  name: EDEMESSI Florian
+  links:
+    - https://twitter.com/florianedemessi
+    - https://www.facebook.com/nair0lf32
+    - https://www.linkedin.com/in/florian-edemessi
+    - https://github.com/nair0lf32
+    - https://keybase.io/nair0lf32
 # Collections
 collections:
   authors:
