@@ -20,7 +20,6 @@ Ce projet Hébergé sur {% glossary Github %} s'ouvre également à toute forme 
 Pour en savoir plus <a href="{{ site.baseurl }}{% link about.markdown %}" class="about"> cliquez ici </a>
 ou visitez la page "A propos" via le menu de navigation.
 
-
 > error "Important"
 > J'insiste fortement sur le fait que ceci n'est pas un recueil exhaustif d'informations et que ce site bien qu'il s'efforce à l'être n'est pas "rigoureusement" scientifique. Le but premier est de réunir et partager l'essentiel de la pathologie médicale via l'outil internet.
 >
