@@ -42,6 +42,7 @@ permalink: pretty
 baseurl: "/mcs" # the subpath of your site, e.g. /blog
 url: "https://nair0lf32.gihub.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: nair0lf32
+repository: nair0lf32/mcs
 logo: /assets/images/MCS.png
 image: "https://raw.githubusercontent.com/nair0lf32/MedicalCheatSheets/master/assets/images/MCS.png"
 twitter:
