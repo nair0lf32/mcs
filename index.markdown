@@ -15,7 +15,7 @@ La conception de ce site représente pour moi un exercice et il me permet de mie
 Les informations réunies sur ce site proviennent essentiellement pour ma part des divers cours de pathologie, sémiologie, etc. reçus à la faculté de médecine (FSS Cotonou) et de notes personnelles prises au cours des divers stages effectués en milieu hospitalier. D'autres auteurs du blog pourraient
 utiliser d'autres sources d'information qui seront précisées. Je (ainsi que tous les auteurs potentiels de ce site) m'efforcerai de retranscrire fidèlement ces informations et resterai ouvert à toute correction, suggestion, ou proposition.
 
-Ce projet Hébergé sur Github s'ouvre également à toute forme de contribution...surtout la rédaction des articles. en gros vous pouvez contribuer à écrire un ou plusieurs des articles de ce site en respectant le style de plan simple adopté et le format de texte Markdown (Md), version Kramdown GFM, ou simplement faire des propositions pour l'améliorer.
+Ce projet Hébergé sur {% glossary Github %} s'ouvre également à toute forme de contribution...surtout la rédaction des articles. en gros vous pouvez contribuer à écrire un ou plusieurs des articles de ce site en respectant le style de plan simple adopté et le format de texte {% glossary Markdown %}(Md), version {% glossary Kramdown %} GFM, ou simplement faire des propositions pour l'améliorer.
 
 Pour en savoir plus <a href="{{ site.baseurl }}{% link about.markdown %}" class="about"> cliquez ici </a>
 ou visitez la page "A propos" via le menu de navigation.
@@ -23,6 +23,7 @@ ou visitez la page "A propos" via le menu de navigation.
 
 > error "Important"
 > J'insiste fortement sur le fait que ceci n'est pas un recueil exhaustif d'informations et que ce site bien qu'il s'efforce à l'être n'est pas "rigoureusement" scientifique. Le but premier est de réunir et partager l'essentiel de la pathologie médicale via l'outil internet.
+>
 > - Un travail important de modération est fait pour chaque article par un ou plusieurs administrateurs du site. Nous évitons ainsi au maximum que le contenu des articles soit obsolète, inapproprié ou peu conformes à la vérité scientifique.
 > - Néanmoins il est déconseillé d'utiliser ce site comme référence dans un contexte professionnel ou scientifique.
 > - Bien que ce site cible aussi le grand public, la priorité revient aux étudiants et professionnels du domaine de la santé. Meme si tout le monde est invité à lire nos articles, ces derniers sont les plus habiles à interpréter le contenu de ce site. Toute personne qui n'est pas dans le domaine de la santé doit faire preuve de discernement et de prudence dans l'interprétation des informations contenues dans ce site.

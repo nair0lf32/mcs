@@ -1,3 +1,20 @@
 - term: Jekyll
-  definition: A Static Site Generator (SSG) built with ruby. Widely adopted as of GitHub Pages inclusion.
+  definition: Un générateur de site statique simple, blog-aware, pour les sites web personnels,
+    de projet, ou de l'organisation. Écrit en Ruby par Tom Preston-Werner, co-fondateur de GitHub.
+    Jekyll est distribué sous la licence open source MIT.
   url: https://jekyllrb.com/
+- term: Github
+  definition: Une plateforme de développement inspirée par votre manière de travailler. De l'open source
+    aux entreprises, vous pouvez héberger et revoir du code, gérer des projets et construire des logiciels
+    aux côtés de millions de développeurs.
+  url: https://github.com
+- term: Markdown
+  definition: Un langage de balisage léger avec une syntaxe de formatage de texte brut. Son design vise à
+    être lisible autant que possible, sans être aussi lisible que du texte brut, et il est souvent utilisé
+    pour formater des fichiers lus par des humains en utilisant un logiciel qui convertit le Markdown en HTML.
+  url: https://fr.wikipedia.org/wiki/Markdown;
+- term: Kramdown
+  definition: Un moteur de rendu Markdown rapide et flexible écrit en Ruby. Il est compatible avec la
+    plupart des fonctionnalités de Markdown standard, mais ajoute des fonctionnalités de syntaxe et de
+    rendu plus avancées.
+  url: https://kramdown.gettalong.org/
