@@ -10,7 +10,7 @@ permalink: /diabete/
 
 ## Definition
 
-Le diabète sucré (diabète tout court par abus de langage) est un groupe de maladies métaboliques caractérisées par une hyperglycémie chronique accompagnée de troubles du métabolisme des glucides, des lipides et des protéines résultant soit d'une insuffisance d'insuline, soit d'une résistance à l'action de l'insuline, soit des deux à la fois.
+Le diabète sucré (diabète tout court par abus de langage) est un groupe de maladies métaboliques caractérisées par une {% glossary hyperglycémie %} chronique accompagnée de troubles du métabolisme des glucides, des lipides et des protéines résultant soit d'une insuffisance d'insuline, soit d'une résistance à l'action de l'insuline, soit des deux à la fois.
 
 ## Ethiopathogénie et classification
 
@@ -25,7 +25,7 @@ Le diabète sucré (diabète tout court par abus de langage) est un groupe de ma
   - Insulinopénie supérieure à l'insulinorésistance
 
 - **Diabète gestationnel**
-    Diabète survenant pendant la grossesse. Il est caractérisé par une hyperglycémie qui apparaît ou est diagnostiquée pour la première fois au 2e ou 3e trimestre de la grossesse. Il disparaît généralement après l'accouchement. Il est à risque de diabète de type 2 ultérieur
+    Diabète survenant pendant la grossesse. Il est caractérisé par une {% glossary hyperglycémie %} qui apparaît ou est diagnostiquée pour la première fois au 2e ou 3e trimestre de la grossesse. Il disparaît généralement après l'accouchement. Il est à risque de diabète de type 2 ultérieur
 
 - **Diabètes spécifiques (ou secondaires)**
     Diabète résultant d'une cause connue:
@@ -62,7 +62,7 @@ Le diabète de type 1 résulte d'un processus auto-immun chronique associant une
 Le diabète de type 2 associe également un terrain génétique et des facteurs environnementaux
 (obésité, sédentarité, alimentation...) dont résultent une insulinorésistance et un hyperinsulinisme
 compensateur. Néanmoins, l'insulinorésistance est persistante et l'hyperinsulinisme finit par s'épuiser et
-laisser place à une insulinopénie qui se traduit par une hyperglycémie chronique.
+laisser place à une insulinopénie qui se traduit par une {% glossary hyperglycémie %} chronique.
 
 ## Diagnostic positif
 
@@ -76,12 +76,12 @@ laisser place à une insulinopénie qui se traduit par une hyperglycémie chroni
 >
 > Les symptômes évocateurs (signes cardinaux) du diabète sont (3P 2A):
 >
-> - La polyurie et la polydipsie (syndrome polyuro-polydipsique)
-> - polyphagie
-> - amaigrissement
-> - asthénie
+> - La {% glossary polyurie %} et la {% glossary polydipsie %} (syndrome polyuro-polydipsique)
+> - La {% glossary polyphagie %}
+> - {% glossary amaigrissement %}
+> - {% glossary asthénie %}
 >
-> Pour le diabète gestationnel, le diagnostic est posé **entre 24 et 28 semaines d'aménorrhée**.
+> Pour le diabète gestationnel, le diagnostic est posé **entre 24 et 28 semaines d'{% glossary aménorrhée %}**.
 > On note 05 facteurs de risque majeurs:
 >
 > - age ≥ 35 ans
