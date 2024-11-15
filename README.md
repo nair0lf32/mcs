@@ -26,6 +26,8 @@ you might have conflicts issues with your ruby version and the plugin versions (
 - If you used rbenv too make sure you have the latest version or at least latest version
 of `ruby-build` (to avoid an `OpenSSl` version conflict too *sigh)
 
+The blog is deployed on [Github Pages](https://pages.github.com/) using a github action workflow. The workflow is available in the `.github/workflows` folder.
+
 <!-- TODO:
 - add contributing, code of conduct, license support resources...
 -->
