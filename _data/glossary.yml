@@ -1,20 +1,51 @@
-- term: Jekyll
-  definition: Un générateur de site statique simple, blog-aware, pour les sites web personnels,
-    de projet, ou de l'organisation. Écrit en Ruby par Tom Preston-Werner, co-fondateur de GitHub.
-    Jekyll est distribué sous la licence open source MIT.
-  url: https://jekyllrb.com/
+- term: Amaigrissement
+  definition: Une perte de poids involontaire. Elle peut être un symptôme de diabète sucré.
+  url: https://fr.wikipedia.org/wiki/Amaigrissement
+- term: Aménorrhée
+  definition: L'absence de menstruation.
+  url: https://fr.wikipedia.org/wiki/Am%C3%A9norrh%C3%A9e
+- term: Asthénie
+  definition: Une faiblesse générale. Elle peut être un symptôme de diabète sucré.
+  url: https://fr.wikipedia.org/wiki/Asth%C3%A9nie
+- term: Fièvre
+  definition: Une élévation de la température corporelle au-dessus de la normale. Elle peut être un
+    symptôme de diabète sucré.
+  url: https://fr.wikipedia.org/wiki/Fi%C3%A8vre
 - term: Github
   definition: Une plateforme de développement inspirée par votre manière de travailler. De l'open source
     aux entreprises, vous pouvez héberger et revoir du code, gérer des projets et construire des logiciels
     aux côtés de millions de développeurs.
   url: https://github.com
-- term: Markdown
-  definition: Un langage de balisage léger avec une syntaxe de formatage de texte brut. Son design vise à
-    être lisible autant que possible, sans être aussi lisible que du texte brut, et il est souvent utilisé
-    pour formater des fichiers lus par des humains en utilisant un logiciel qui convertit le Markdown en HTML.
-  url: https://fr.wikipedia.org/wiki/Markdown;
+- term: Hyperglycémie
+  definition: Un excès de glucose dans le sang. C'est une condition qui peut entraîner des complications
+    graves si elle n'est pas traitée.
+  url: https://fr.wikipedia.org/wiki/Hyperglyc%C3%A9mie
+- term: Hypothermie
+  definition: Une température corporelle anormalement basse. Elle peut être un symptôme de diabète sucré.
+  url: https://fr.wikipedia.org/wiki/Hypothermie
+- term: Jekyll
+  definition: Un générateur de site statique simple, blog-aware, pour les sites web personnels,
+    de projet, ou de l'organisation. Écrit en Ruby par Tom Preston-Werner, co-fondateur de GitHub.
+    Jekyll est distribué sous la licence open source MIT.
+  url: https://jekyllrb.com/
 - term: Kramdown
   definition: Un moteur de rendu Markdown rapide et flexible écrit en Ruby. Il est compatible avec la
     plupart des fonctionnalités de Markdown standard, mais ajoute des fonctionnalités de syntaxe et de
     rendu plus avancées.
   url: https://kramdown.gettalong.org/
+- term: Markdown
+  definition: Un langage de balisage léger avec une syntaxe de formatage de texte brut. Son design vise à
+    être lisible autant que possible, sans être aussi lisible que du texte brut, et il est souvent utilisé
+    pour formater des fichiers lus par des humains en utilisant un logiciel qui convertit le Markdown en HTML.
+  url: https://fr.wikipedia.org/wiki/Markdown;
+- term: Polydipsie
+  definition: Une soif excessive. Elle peut être un symptôme de diabète sucré.
+  url: https://fr.wikipedia.org/wiki/Polydipsie
+- term: Polyphagie
+  definition: Une augmentation de l'appétit. Elle peut être un symptôme de diabète sucré.
+  url: https://fr.wikipedia.org/wiki/Polyphagie
+- term: Polyurie
+  definition: Une augmentation de la quantité d'urine excrétée par unité de temps. Elle peut être un
+    symptôme de diabète sucré.
+  url: https://fr.wikipedia.org/wiki/Polyurie
+
