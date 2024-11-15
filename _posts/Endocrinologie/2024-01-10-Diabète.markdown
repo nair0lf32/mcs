@@ -10,28 +10,24 @@ permalink: /diabete/
 
 ## Definition
 
-Le diabète sucré (diabète tout court par abus de lanagage) est un groupe de maladies métaboliques caractérisées par une hyperglycémie chronique accompagnée de troubles du métabolisme des glucides, des lipides et des protéines résultant soit d'une insuffisance d'insuline, soit d'une résistance à l'action de l'insuline, soit des deux à la fois.
+Le diabète sucré (diabète tout court par abus de langage) est un groupe de maladies métaboliques caractérisées par une hyperglycémie chronique accompagnée de troubles du métabolisme des glucides, des lipides et des protéines résultant soit d'une insuffisance d'insuline, soit d'une résistance à l'action de l'insuline, soit des deux à la fois.
 
-## Ethiopathogénie
+## Ethiopathogénie et classification
 
-Avant de rapidement parler de l'étiopathogénie du diabète il importe de classer les différents types de diabète
-
-### Classification
-
-- Diabète de type 1
+- **Diabète de type 1**
   Résulte d'une destruction auto-immune des cellules β (beta) des îlots de Langerhans du pancréas (qui secrètent l'insuline justement). Il est caractérisé par une carence absolue en insuline. Il survient généralement chez les sujets jeunes (moins de 30 ans) et maigres. Il représente 10% des cas de diabète. On a deux sous-types:
   - Diabète de type 1A: avec présence d'auto-anticorps anti-cellules β
   - Diabète de type 1B: sans présence d'auto-anticorps anti-cellules β
 
-- Diabète de type 2
+- **Diabète de type 2**
     Résulte d'une insulinorésistance (les cellules de l'organisme ne répondent plus à l'insuline) et d'une insuffisance relative en insuline. Il représente 90% des cas de diabète. Il survient généralement chez les sujets âgés (plus de 40 ans) et obèses. Deux situations en résultent:
-    - Insulinorésistance supérieure à l'insulinopénie (syndrome métabolique)s
-    - Insulinopénie  supérieure à l'insulinorésistance
+  - Insulinorésistance supérieure à l'insulinopénie (syndrome métabolique)s
+  - Insulinopénie supérieure à l'insulinorésistance
 
-- Diabète gestationnel
-    Diabète survenant pendant la grossesse. Il est caractérisé par une hyperglycémie qui apparait ou est diagnostiquée pour la première fois au 2e ou 3e trimestre de la grossesse. Il disparait généralement après l'accouchement. Il est à risque de diabète de type 2 ultérieur
+- **Diabète gestationnel**
+    Diabète survenant pendant la grossesse. Il est caractérisé par une hyperglycémie qui apparaît ou est diagnostiquée pour la première fois au 2e ou 3e trimestre de la grossesse. Il disparaît généralement après l'accouchement. Il est à risque de diabète de type 2 ultérieur
 
-- Diabètes spécifiques (ou secondaires)
+- **Diabètes spécifiques (ou secondaires)**
     Diabète résultant d'une cause connue:
   - Autres Endocrinopathies (acromégalie, syndrome de Cushing, phéochromocytome...)
   - Maladies du pancréas (pancréatite, tumeur, chirurgie...)
@@ -42,91 +38,97 @@ Avant de rapidement parler de l'étiopathogénie du diabète il importe de class
 Tableau de comparaison du diabète de type 1 et du diabète de type 2
 
 | Caractéristiques | Diabète de type 1 | Diabète de type 2 |
-|------------------|-------------------|-------------------|
+|-----------------:|------------------:|------------------:|
 | Age de Début     | Souvent < 30 ans  | Souvent > 40 ans  |
 | Antécédents familiaux | Souvent absents | Souvent présents |
 | Mode de début | Brutal | Progressif |
 | Corpulence | Poids normal | Poids excessif |
-| Symptomes | +++ | +/- |
+| Symptômes | +++ | +/- |
 | Cétose | Spontanée | Non spontanée |
 | Auto-anticorps | Présents | Absents |
 | Insulinémie | Basse | Normale ou élevée |
 | Maladie auto-immune associée | Oui | Non |
 
-### mécanismes
+### Mécanismes
 
-Le diabète de type 1 résulte d'un processus auto-immun chronique associant une suscebilité génétique (groupe HLA)
-et des facteurs environementaux (viraux, alimentaires, toxiques...). Les principaux anticorps spécifiques du
-pancréas sont:
+Le diabète de type 1 résulte d'un processus auto-immun chronique associant une susceptibilité génétique (groupe HLA) et des facteurs environnementaux (viraux, alimentaires, toxiques...). Les principaux anticorps spécifiques du pancréas sont:
+
 - anticorps anti-glutamate décarboxylase (GAD)
-- anticorps anti-ilots (ICA)
+- anticorps anti-îlots (ICA)
 - anticorps anti-insuline (AIA)
 - anticorps anti-tyrosine phosphatase (IA-2)
 - anticorps anti-zinc transporteur (ZnT8)
 
-Le diabète de type 2 associe également un terrain génétique et des facteurs environnementaux (obésité, sédentarité, alimentation...) dont résultent une insulinorésistance et un hyperinsulinisme compensateur. Néanmoins, l'insulinorésistance est persistante et l'hyperinsulinisme finit par s'épuiser et laisser place à une insulinopénie qui se traduit par une hyperglycémie chronique.
+Le diabète de type 2 associe également un terrain génétique et des facteurs environnementaux
+(obésité, sédentarité, alimentation...) dont résultent une insulinorésistance et un hyperinsulinisme
+compensateur. Néanmoins, l'insulinorésistance est persistante et l'hyperinsulinisme finit par s'épuiser et
+laisser place à une insulinopénie qui se traduit par une hyperglycémie chronique.
 
 ## Diagnostic positif
 
-Les critères diagnostiques (04) du diabète sont:
+> error "A retenir"
+> Les critères diagnostiques (04) du diabète sont:
+>
+> - glycémie à jeun **≥ 1,26 g/L (7 mmol/L)** à deux reprises
+> - glycémie **≥ 2 g/L (11,1 mmol/L)** 2 heures après une charge orale de 75g de glucose anhydre (HGPO)
+> - hémoglobine glyquée (HbA1c) **≥ 6,5%**
+> - glycémie **≥ 2 g/L (11,1 mmol/L)** à n'importe quel moment de la journée avec des **symptômes évocateurs**.
+>
+> Les symptômes évocateurs (signes cardinaux) du diabète sont (3P 2A):
+>
+> - La polyurie et la polydipsie (syndrome polyuro-polydipsique)
+> - polyphagie
+> - amaigrissement
+> - asthénie
+>
+> Pour le diabète gestationnel, le diagnostic est posé **entre 24 et 28 semaines d'aménorrhée**.
+> On note 05 facteurs de risque majeurs:
+>
+> - age ≥ 35 ans
+> - antécédents familiaux de diabète type 2
+> - antécédents personnels de diabète gestationnel
+> - surpoids pré-grossesse (IMC ≥ 27 kg/m²)
+> - antécédents obstétricaux de macrosomie fœtale
+>
+> Le diagnostique se pose ensuite sur les critères suivants:
+>
+> - glycémie à jeun **≥ 0,92 g/L (5,1 mmol/L)**
+> - glycémie à 1h **≥ 1,80 g/L (10 mmol/L)** après une charge orale de 75g de glucose anhydre (HGPO)
+> - glycémie à 2h **≥ 1,53 g/L (8,5 mmol/L)** après une charge orale de 75g de glucose anhydre (HGPO)
 
-- glycémie à jeun ≥ 1,26 g/L (7 mmol/L) à deux reprises
-- glycémie ≥ 2 g/L (11,1 mmol/L) 2 heures après une charge orale de 75g de glucose anhydre (HGPO)
-- hémoglobine glyquée (HbA1c) ≥ 6,5%
-- glycémie ≥ 2 g/L (11,1 mmol/L) à n'importe quel moment de la journée avec des symptomes évocateurs.
-
-Les symptomes évocateurs (signes cardinaux) du diabète sont (3P 2A):
-- La polyurie et la polydipsie (syndrome polyuro-polydipsique)
-- polyphagie
-- amaigrissement
-- asthénie
-
-Pour le diabète gestationnel, le diagnostic est posé entre 24 et 28 semaines d'aménorrhée. On note 05
-facteurs de risque majeurs:
-- age ≥ 35 ans
-- antécédents familiaux de diabète type 2
-- antécédents personnels de diabète gestationnel
-- surpoids pré-grossesse (IMC ≥ 27 kg/m²)
-- antécédents obstétricaux de macrosomie fœtale
-
-Le diagnostique se pose ensuite sur les critères suivants:
-- glycémie à jeun ≥ 0,92 g/L (5,1 mmol/L)
-- glycémie à 1h ≥ 1,80 g/L (10 mmol/L) après une charge orale de 75g de glucose anhydre (HGPO)
-- glycémie à 2h ≥ 1,53 g/L (8,5 mmol/L) après une charge orale de 75g de glucose anhydre (HGPO)
-
-Il faut noter qu'un seul critère suffit pour poser le diagnostic de diabète. 
-La glycémie normale à jeun chez un sujet sain est comprise entre 0,70 et 1,10 g/L (3,9 et 6,1 mmol/L).
-Entre 1,10 et 1,26 g/L (6,1 et 7 mmol/L) on parle d'intolérance au glucose (pré-diabète).
-
-
+Il faut noter qu'**un seul critère suffit** pour poser le diagnostic de diabète.
+La glycémie normale à jeun chez un sujet sain est comprise **entre 0,70 et 1,10 g/L (3,9 et 6,1 mmol/L)**.
+Entre 1,10 et 1,26 g/L (6,1 et 7 mmol/L) on parle d'**intolérance au glucose (pré-diabète)**.
 
 ## Diagnostic différentiel
 
 - Diabète insipide (polyurie-polydipsie sans hyperglycémie)
 - Troubles ioniques (hypercalcémie, hypokaliémie)
-- Troubles psychiatriques (polydipsie psychogène avec glycémmie normale)
+- Troubles psychiatriques (polydipsie psychogène avec glycémie normale)
 - Syndrome de Fanconi (glycosurie normoglycémique, hypouricémie, hypophosphatémie, hypokaliémie)
 
 ## Complications
 
-Les complications du diabète sont nombreuses et seront détaillées individuelement dans des articles séparés.
-On les classe généralement en deux types:
-
-- Complications Aiguës
-  - Acidocétose diabétique
-  - Hyperglycémie hyperosmolaire
-  - Hypoglycémie
-  - Acidose lactique
-- Complications Chroniques
-  - Macroangiopathies
-    - cerveau et vaisseaux cervicaux: AVC ou AIT
-    - vaisseaux coronaires: ischémie myocardique
-    - vaisseaux des membres inférieurs: artériopathie oblitérante des membres inférieurs
-  - Microangiopathies
-    - Rétinopathie diabétique
-    - Néphropathie diabétique (classification de Mogensen)
-    - Neuropathie diabétique (mononeuropathie, polyneuropathie, neuropathie autonome ou végétative)
-    - pied diabétique
+> error "A retenir"
+> Les complications du diabète sont nombreuses et seront détaillées individuellement dans des articles séparés.
+> On les classe généralement en deux types:
+>
+> - Complications Aiguës (04)
+>   - Acidocétose diabétique
+>   - Hyperglycémie hyperosmolaire
+>   - Hypoglycémie
+>   - Acidose lactique
+>
+> - Complications Chroniques (02 types)
+>   - Macroangiopathies:
+>     - cerveau et vaisseaux cervicaux: AVC ou AIT
+>     - vaisseaux coronaires: ischémie myocardique
+>     - vaisseaux des membres inférieurs: artériopathie oblitérante des membres inférieurs
+>   - Microangiopathies:
+>     - Rétinopathie diabétique
+>     - Néphropathie diabétique (classification de Mogensen)
+>     - Neuropathie diabétique (mononeuropathies, polyneuropathies, neuropathie autonome ou végétative)
+>   - pied diabétique
 
 ## Traitement
 
@@ -138,42 +140,42 @@ On les classe généralement en deux types:
 
 ### Moyens
 
-- Education thérapeutique
-- Régime alimentaire: Alimentation variée et équilibrée, répartie en 3 repas et 2 collations, pauvre en sucres rapides et en graisses saturées, riche en fibres, en fruits et légumes, en poissons et en viandes maigres, hypocalorique en cas de surpoids ou d'obésité. classiquement 50% de glucides, 35% de lipides et 15% de protides.
-- Activité physique régulière: 30 minutes par jour, 5 jours par semaine
+- **Education thérapeutique**
+- **Régime alimentaire**: Alimentation variée et équilibrée, répartie en 3 repas et 2 collations, pauvre en sucres rapides et en graisses saturées, riche en fibres, en fruits et légumes, en poissons et en viandes maigres, hypocalorique en cas de surpoids ou d'obésité. classiquement 50% de glucides, 35% de lipides et 15% de protides.
+- **Activité physique régulière**: 30 minutes par jour, 5 jours par semaine
 
-- Médicaments
-  - Insuline
-    - Insuline Ultra-rapide (Novorapid, Humalog)
-    - Insuline rapide (Actrapid, Umuline Rapide)
-    - Insuline semi-lente (Insulatard, Humulin NPH)
-    - Insuline lente (Ultratard, Humulin zinc)
-    - Insuline ultra-lente (Lantus, Levemir)
-    - Insuline prémélangée (Mixtard, Novomix, Humalog Mix)
-  
-  - Antidiabétiques oraux (ADO):
-  
-  | Classe | Mécanisme | Exemples | Effets indésirables |
-  |--------|-----------|----------|---------------------|
-  | Biguanides | Diminution de la production hépatique de glucose et augmentation de l'utilisation périphérique du glucose | Metformine | Troubles digestifs, acidose lactique |
-  | Glitazones (thiazolidinediones) | Diminution de l'insulinorésistance | Pioglitazone | Prise de poids, rétention hydrosodée, insuffisance cardiaque |
-  | Sulfamides hypoglycémiants | Augmentation de la sécrétion d'insuline par le pancréas | Glibenclamide, Gliclazide | Hypoglycémie, prise de poids |
-  | Gliniques (méglitinides) | Augmentation de la sécrétion d'insuline par le pancréas | Répaglinide, Nateglinide | Hypoglycémie, prise de poids |
-  | Analogues du GLP-1 | Augmentation de la sécrétion d'insuline par le pancréas et diminution de la sécrétion de glucagon | Exénatide, Liraglutide | Hypoglycémie, prise de poids |
-  | Inhibiteurs de la DPP-4 (gliptines) | Augmentation de la sécrétion d'insuline par le pancréas et diminution de la sécrétion de glucagon | Sitagliptine, Vildagliptine | Hypoglycémie, prise de poids |
-  | Inhibiteurs des alpha-glucosidases | Diminution de l'absorption intestinale des glucides | Acarbose | Troubles digestifs |
-  | Inhibiteurs de la SGLT2 | Diminution de la réabsorption rénale du glucose | Dapagliflozine | Infections urinaires, hypotension orthostatique, acidocétose diabétique |
+- **Médicaments**
+  - **Insuline**
+    - Insuline Ultra-rapide (NovoRapid:registered: , Humalog:registered:)
+    - Insuline rapide (Actrapid:registered:, Umuline:registered: Rapide)
+    - Insuline semi-lente (Insulatard:registered:, Humulin:registered: NPH)
+    - Insuline lente (Ultratard:registered:, Humulin:registered: zinc)
+    - Insuline ultra-lente (Lantus:registered:, Levemir:registered:)
+    - Insuline prémélangée (Mixtard:registered:, Novomix:registered:, Humalog:registered: Mix)
+
+  - **Antidiabétiques oraux (ADO)**:
+
+  | Classe  | Mécanisme  | Exemples  | Effets indésirables  |
+  |--------:|-----------:|----------:|---------------------:|
+  | **Biguanides** | Diminution de la production hépatique de glucose et augmentation de l'utilisation périphérique du glucose | Metformine:registered:, | Troubles digestifs, acidose lactique |
+  | **Glitazones (thiazolidinediones)** | Diminution de l'insulinorésistance | Pioglitazone:registered:, | Prise de poids, rétention hydrosodée, insuffisance cardiaque |
+  | **Sulfamides hypoglycémiants** | Augmentation de la sécrétion d'insuline par le pancréas | Glibenclamide:registered:, Gliclazide:registered:, | Hypoglycémie, prise de poids |
+  | **Gliniques (méglitinides)** | Augmentation de la sécrétion d'insuline par le pancréas | Repaglinide:registered:, Nateglinide:registered:, | Hypoglycémie, prise de poids |
+  | **Analogues du GLP-1** | Augmentation de la sécrétion d'insuline par le pancréas et diminution de la sécrétion de glucagon | Exenatide:registered:, Liraglutide:registered:, | Hypoglycémie, prise de poids |
+  | **Inhibiteurs de la DPP-4 (gliptines)** | Augmentation de la sécrétion d'insuline par le pancréas et diminution de la sécrétion de glucagon | Sitagliptine:registered:, Vildagliptine:registered:, | Hypoglycémie, prise de poids |
+  | **Inhibiteurs des alpha-glucosidases** | Diminution de l'absorption intestinale des glucides | Acarbose:registered:, | Troubles digestifs |
+  | **Inhibiteurs de la SGLT2** | Diminution de la réabsorption rénale du glucose | Dapagliflozine:registered:, | Infections urinaires, hypotension orthostatique, acidocétose diabétique |
 
 ## indications
 
-- Diabète de type 1:
-  - Insuline
+- **Diabète de type 1**:
+  - **Insuline**
   - Education thérapeutique
   - Régime alimentaire normocalorique
-  
-- Diabète de type 2:
+
+- **Diabète de type 2:**
   - Education thérapeutique
   - Régime alimentaire hypocalorique le plus souvent
   - Activité physique
-  - Médicaments (ADO)
-  - Insuline si échec des ADO
+  - **Médicaments (ADO)**
+  - **Insuline si échec des ADO**
