@@ -26,7 +26,12 @@ you might have conflicts issues with your ruby version and the plugin versions (
 - If you used rbenv too make sure you have the latest version or at least latest version
 of `ruby-build` (to avoid an `OpenSSl` version conflict too *sigh)
 
-The blog is deployed on [Github Pages](https://pages.github.com/) using a github action workflow. The workflow is available in the `.github/workflows` folder.
+The blog is deployed on [Github Pages](https://pages.github.com/) using a github action workflow. The workflow is available in the `.github/workflows/jekyll.yml` folder. Also this project uses many jekyll plugins as dependencies and you can check the `Gemfile` for the list of plugins used. The most important ones are:
+
+- [github-metadata](https://github.com/jekyll/github-metadata) for github pages
+- [spaceship](https://github.com/jeffreytse/jekyll-spaceship) for tables, formulas, and other markdown enhancements
+- [Premonition](https://github.com/lazee/premonition) for nice looking alerts
+- [glossary-tooltips](https://github.com/erikw/jekyll-glossary_tooltip) for glossary tooltips
 
 <!-- TODO:
 - add contributing, code of conduct, license support resources...

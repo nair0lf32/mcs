@@ -16,6 +16,6 @@ viscères (abdominaux et quelques exceptions)
 
 {% for post in site.posts %}
 {% if post.categories contains category %}
-<li> <a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+<li> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> </li>
 {% endif %}
 {% endfor %}

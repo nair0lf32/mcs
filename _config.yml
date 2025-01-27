@@ -40,7 +40,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: pretty
 baseurl: "/mcs" # the subpath of your site, e.g. /blog
-url: "https://nair0lf32.gihub.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://nair0lf32.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: nair0lf32
 repository: nair0lf32/mcs
 logo: /assets/images/MCS.png
@@ -77,17 +77,19 @@ plugins:
 destination: ./_site
 include:
   - static
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+  - assets
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - node_modules/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Theme settings
 theme: jekyll-theme-cayman
 
 

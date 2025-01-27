@@ -3,9 +3,7 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
-Thumbs.db
-assets/images/Thumbs.db
-assets/posts-assets/Thumbs.db
+**/Thumbs.db
 *.env
 *.log
 *.swp

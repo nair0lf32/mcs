@@ -18,16 +18,16 @@ L'AVC est un déficit neurologique soudain d’origine vasculaire présumée et 
 
 RR = risk ratio, OR = odds ratio
 
-| Non modifiables   | Modifiables  |
-| -------------     | ------------ |
-| Age > 55 ans RR=2 | HTA chronique: RR=4    |
-| Sexe: 1,25x chez les hommes avant 75 ans puis inversion | Diabète: OR=2 |
-| Race (noire ++)    | Dyslipidémie  |
-| Antécédents personnels d’AVC | Alcooloisme > 60g/j ou tabagisme: OR=2 |
-| Facteurs génétiques | Oestroprogestatifs |
-| Petit poids de naissance | Cardiopathies emboligènes |
-|           | Sédentarité, obésité |
-|           | Hémocystéinémie |
+| Non modifiables                                         | Modifiables                            |
+| ------------------------------------------------------- | -------------------------------------- |
+| Age > 55 ans RR=2                                       | HTA chronique: RR=4                    |
+| Sexe: 1,25x chez les hommes avant 75 ans puis inversion | Diabète: OR=2                          |
+| Race (noire ++)                                         | Dyslipidémie                           |
+| Antécédents personnels d’AVC                            | Alcooloisme > 60g/j ou tabagisme: OR=2 |
+| Facteurs génétiques                                     | Oestroprogestatifs                     |
+| Petit poids de naissance                                | Cardiopathies emboligènes              |
+|                                                         | Sédentarité, obésité                   |
+|                                                         | Hémocystéinémie                        |
 
 ### Phases de l'AVC
 
@@ -43,7 +43,7 @@ RR = risk ratio, OR = odds ratio
     - AIC (Accident ischémique constitué)
     - AIT (Accident ischémique transitoire)
     - Lacunes
-  
+
   - AVC hémorragiques (AVCH = 20%)
     - Intraparenchymateux
     - Hémorragie méningée
@@ -59,7 +59,7 @@ Pour mieux comprendre le mécanisme des AVC il importe de connaitre l'anatomie d
 - Mécanisme occlusif
   - Embolique+++
   - Thrombotique (souffrance du territoire cérébral en aval)
-  
+
 - Mécanisme hémodynamique
   - Effondrement de la Pression Artérielle régionale
   - AVCI par lésion des artères de gros et moyens calibres entrainant un infarctus de grande taille
@@ -131,16 +131,17 @@ TDM (Scanner) Cérébral: L'Ischémie apparait comme une hypodensité spontanné
 
 - AVCI sylvien superficiel:
 
-<img src="{{ '/assets/posts-assets/avci-sylvien-superficiel.jpg?v=' | append: site.github.build_revision | relative_url }}" alt="AVCI sylvien superficiel" />
+<img src="{{ site.baseurl }}/assets/posts-assets/avci-sylvien-superficiel.jpg?v={{ site.github.build_revision }}" alt="AVCI sylvien superficiel" />
 
 On peut également avoir des signes indirects avant 48h au scanner (effacement des sillons corticaux,trop belle artère sylvienne):
 
-<img src="{{ '/assets/posts-assets/signes-indirects-ischemie.png?v=' | append: site.github.build_revision | relative_url }}" alt="signes indirects ischemie" width=200/>
-<img src="{{ '/assets/posts-assets/signes-indirects-ischemie2.png?v=' | append: site.github.build_revision | relative_url }}" alt="signes indirects ischemie2" width=200/>
+<img src="{{ site.baseurl }}/assets/posts-assets/signes-indirects-ischemie.png?v={{ site.github.build_revision }}" alt="signes indirects ischemie" width=200/>
+
+<img src="{{ site.baseurl }}/assets/posts-assets/signes-indirects-ischemie2.png?v={{ site.github.build_revision }}" alt="signes indirects ischemie2" width=200/>
 
 IRM cérébrale: L'ischémie apparait comme un hypersignal (blanc) en séquence de diffusion (autres séquences = FLAIR et perfusion)
 
-<img src="{{ '/assets/posts-assets/irm-avci.jpg?v=' | append: site.github.build_revision | relative_url }}" alt="signes indirects ischemie" />
+<img src="{{ site.baseurl }}/assets/posts-assets/irm-avci.jpg?v={{ site.github.build_revision }}" alt="signes indirects ischemie" />
 
 #### complications possibles (acvi)
 
@@ -161,7 +162,7 @@ Début brutal
 
 - HIC
 - Hémiplégie controlatérale ± Hémianesthésie
-- Trouble du langage 
+- Trouble du langage
 - Déviation conjuguée de la tête et des yeux dans les hématomes volumineux
 
 #### Autres formes:
@@ -179,7 +180,7 @@ TDM (Scanner) Cérébral: L'Hémorragie apparait comme une hyperdensité spontan
 
 - Hémorragie cérébro-méningée avec inondation ventriculaire:
 
-<img src="{{ '/assets/posts-assets/hemorragie-capsulo-lenticulaire.jpg?v=' | append: site.github.build_revision | relative_url }}" alt="hemorragie capsulo lenticulaire" />
+<img src="{{ site.baseurl }}/assets/posts-assets/hemorragie-capsulo-lenticulaire.jpg?v={{ site.github.build_revision }}" alt="hemorragie capsulo lenticulaire" />
 
 #### Complications possibles (avch)
 
@@ -187,11 +188,11 @@ TDM (Scanner) Cérébral: L'Hémorragie apparait comme une hyperdensité spontan
 - Mortalité à 1mois: 30%
 - 1/2 patients décèdent dans les 48h
 - Complications immédiates:
-  - resaignement (récidive) 
+  - resaignement (récidive)
   - Engagement cérébral
   - Hydrocéphalie aigue
   - Inondation (ventriculaire)
-- Complications tardives: 
+- Complications tardives:
   - Complications de décubitus
   - Epilepsie
 
@@ -219,7 +220,7 @@ Il ne faut pas confondre
   - Artériolosclérose
   - Dissection des artères cervico-encéphaliques
   - Macro-angiopathies rares (SVCR,AI)
-  
+
 - Etiologies Cardiaques (emboligènes):
   - Fibrilation Auriculaire
   - Infarctus Du Myocarde
@@ -227,7 +228,7 @@ Il ne faut pas confondre
   - Cardiomyopathies dilatées
   - autres causes rares (Endocardite infectieuse, Foramen Ovale Perméable, Rétrécissement Mitral,
  Bioprothèse valvulaire, Anvrysme du Septum Inter Atrial (ASIA))
-  
+
 - Etiologies Hématologiques:
   - Polyglobulie
   - Thrombocytémie
@@ -274,7 +275,7 @@ Il ne faut pas confondre
 
 #### AVCI
 
-- Traitement anti-arthritique 
+- Traitement anti-arthritique
 - Antiagrégants plaquettaires: AAS (100à 300mg/j), clopidogrel 75mg
 - Traitement hyperaigu des AIC: thrombolyse, thrombectomie
 - Traitement des facteurs de risque
