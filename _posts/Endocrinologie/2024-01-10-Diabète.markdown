@@ -37,17 +37,17 @@ Le diabète sucré (diabète tout court par abus de langage) est un groupe de ma
 
 Tableau de comparaison du diabète de type 1 et du diabète de type 2
 
-| Caractéristiques | Diabète de type 1 | Diabète de type 2 |
-|-----------------:|------------------:|------------------:|
-| Age de Début     | Souvent < 30 ans  | Souvent > 40 ans  |
-| Antécédents familiaux | Souvent absents | Souvent présents |
-| Mode de début | Brutal | Progressif |
-| Corpulence | Poids normal | Poids excessif |
-| Symptômes | +++ | +/- |
-| Cétose | Spontanée | Non spontanée |
-| Auto-anticorps | Présents | Absents |
-| Insulinémie | Basse | Normale ou élevée |
-| Maladie auto-immune associée | Oui | Non |
+|             Caractéristiques | Diabète de type 1 | Diabète de type 2 |
+| ---------------------------: | ----------------: | ----------------: |
+|                 Age de Début |  Souvent < 30 ans |  Souvent > 40 ans |
+|        Antécédents familiaux |   Souvent absents |  Souvent présents |
+|                Mode de début |            Brutal |        Progressif |
+|                   Corpulence |      Poids normal |    Poids excessif |
+|                    Symptômes |               +++ |               +/- |
+|                       Cétose |         Spontanée |     Non spontanée |
+|               Auto-anticorps |          Présents |           Absents |
+|                  Insulinémie |             Basse | Normale ou élevée |
+| Maladie auto-immune associée |               Oui |               Non |
 
 ### Mécanismes
 
@@ -155,16 +155,16 @@ Entre 1,10 et 1,26 g/L (6,1 et 7 mmol/L) on parle d'**intolérance au glucose (p
 
   - **Antidiabétiques oraux (ADO)**:
 
-  | Classe  | Mécanisme  | Exemples  | Effets indésirables  |
-  |--------:|-----------:|----------:|---------------------:|
-  | **Biguanides** | Diminution de la production hépatique de glucose et augmentation de l'utilisation périphérique du glucose | Metformine:registered:, | Troubles digestifs, acidose lactique |
-  | **Glitazones (thiazolidinediones)** | Diminution de l'insulinorésistance | Pioglitazone:registered:, | Prise de poids, rétention hydrosodée, insuffisance cardiaque |
-  | **Sulfamides hypoglycémiants** | Augmentation de la sécrétion d'insuline par le pancréas | Glibenclamide:registered:, Gliclazide:registered:, | Hypoglycémie, prise de poids |
-  | **Gliniques (méglitinides)** | Augmentation de la sécrétion d'insuline par le pancréas | Repaglinide:registered:, Nateglinide:registered:, | Hypoglycémie, prise de poids |
-  | **Analogues du GLP-1** | Augmentation de la sécrétion d'insuline par le pancréas et diminution de la sécrétion de glucagon | Exenatide:registered:, Liraglutide:registered:, | Hypoglycémie, prise de poids |
-  | **Inhibiteurs de la DPP-4 (gliptines)** | Augmentation de la sécrétion d'insuline par le pancréas et diminution de la sécrétion de glucagon | Sitagliptine:registered:, Vildagliptine:registered:, | Hypoglycémie, prise de poids |
-  | **Inhibiteurs des alpha-glucosidases** | Diminution de l'absorption intestinale des glucides | Acarbose:registered:, | Troubles digestifs |
-  | **Inhibiteurs de la SGLT2** | Diminution de la réabsorption rénale du glucose | Dapagliflozine:registered:, | Infections urinaires, hypotension orthostatique, acidocétose diabétique |
+  |                                  Classe |                                                                                                 Mécanisme |                                             Exemples |                                                     Effets indésirables |
+  | --------------------------------------: | --------------------------------------------------------------------------------------------------------: | ---------------------------------------------------: | ----------------------------------------------------------------------: |
+  |                          **Biguanides** | Diminution de la production hépatique de glucose et augmentation de l'utilisation périphérique du glucose |                              Metformine:registered:, |                                    Troubles digestifs, acidose lactique |
+  |     **Glitazones (thiazolidinediones)** |                                                                        Diminution de l'insulinorésistance |                            Pioglitazone:registered:, |            Prise de poids, rétention hydrosodée, insuffisance cardiaque |
+  |          **Sulfamides hypoglycémiants** |                                                   Augmentation de la sécrétion d'insuline par le pancréas |   Glibenclamide:registered:, Gliclazide:registered:, |                                            Hypoglycémie, prise de poids |
+  |            **Gliniques (méglitinides)** |                                                   Augmentation de la sécrétion d'insuline par le pancréas |    Repaglinide:registered:, Nateglinide:registered:, |                                            Hypoglycémie, prise de poids |
+  |                  **Analogues du GLP-1** |         Augmentation de la sécrétion d'insuline par le pancréas et diminution de la sécrétion de glucagon |      Exenatide:registered:, Liraglutide:registered:, |                                            Hypoglycémie, prise de poids |
+  | **Inhibiteurs de la DPP-4 (gliptines)** |         Augmentation de la sécrétion d'insuline par le pancréas et diminution de la sécrétion de glucagon | Sitagliptine:registered:, Vildagliptine:registered:, |                                            Hypoglycémie, prise de poids |
+  |  **Inhibiteurs des alpha-glucosidases** |                                                       Diminution de l'absorption intestinale des glucides |                                Acarbose:registered:, |                                                      Troubles digestifs |
+  |             **Inhibiteurs de la SGLT2** |                                                           Diminution de la réabsorption rénale du glucose |                          Dapagliflozine:registered:, | Infections urinaires, hypotension orthostatique, acidocétose diabétique |
 
 ## indications
 
