@@ -27,7 +27,7 @@ plus délétaire qu'efficace.
 > Les Effets indésirables, Les contre-indications et les autres formes ou présentations de spécialité ou génériques
 > ont été retirés pour un souci de simplicité. Nous Travaillons actuellement sur un projet parallèle dédié
 > exclusivement aux médicaments qui est une base de données de quelque formes de spécialités ou génériques courantes dans nos contextes.
-> N'hésitez pas à visiter [Medibase](medibase.nairolf32.com) pour plus d'informations.
+> N'hésitez pas à visiter [Medibase](https://medibase.nairolf32.com) pour plus d'informations.
 > De plus un article détaillé pour chaque classe de médicaments sera bientot disponible ici et entrera
 > dans les détails.
 
