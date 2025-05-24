@@ -11,6 +11,10 @@
   definition: Une élévation de la température corporelle au-dessus de la normale. Elle peut être un
     symptôme de diabète sucré.
   url: https://fr.wikipedia.org/wiki/Fi%C3%A8vre
+- term: Gestité
+  definition: Nombre total de grossesses portéées par une femme, indépendamment de l'issue
+    (vivant, mort-né, avortement, etc.). C'est un terme utilisé en obstétrique.
+  url: https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26553471/gestite
 - term: Github
   definition: Une plateforme de développement inspirée par votre manière de travailler. De l'open source
     aux entreprises, vous pouvez héberger et revoir du code, gérer des projets et construire des logiciels
@@ -38,6 +42,10 @@
     être lisible autant que possible, sans être aussi lisible que du texte brut, et il est souvent utilisé
     pour formater des fichiers lus par des humains en utilisant un logiciel qui convertit le Markdown en HTML.
   url: https://fr.wikipedia.org/wiki/Markdown;
+- term: Parité
+  definition: Le nombre de fois qu'une femme a accouché d'un enfant viable. C'est un terme utilisé en
+    obstétrique.
+  url: https://fr.wikipedia.org/Parit%C3%A9_(obst%C3%A9trique)
 - term: Polydipsie
   definition: Une soif excessive. Elle peut être un symptôme de diabète sucré.
   url: https://fr.wikipedia.org/wiki/Polydipsie
