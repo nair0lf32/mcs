@@ -33,6 +33,23 @@ The blog is deployed on [Github Pages](https://pages.github.com/) using a github
 - [Premonition](https://github.com/lazee/premonition) for nice looking alerts
 - [glossary-tooltips](https://github.com/erikw/jekyll-glossary_tooltip) for glossary tooltips
 
-<!-- TODO:
-- add contributing, code of conduct, license support resources...
--->
+
+## File structure
+- `_posts`: contains the articles (markdown files) and the folder structure is used to create the menu
+- `_data`: contains the data files (yaml, json, etc.) used for the blog (categories, tags, etc.)
+- `_includes`: contains the jekyll includes (header, footer, etc.)
+- `_layouts`: contains the jekyll layouts (default, post, etc.)
+- `_sass`: contains the scss files for the stylesheets
+- `assets`: contains the assets (images, css, js, etc.)
+- `index.markdown`: the index page (home page)
+- `about.markdown`: the about page (about the blog)
+- `cheatsheets.markdown`: the cheatsheets page (list of articles)
+- `_config.yml`: the jekyll configuration file (contains the site settings, plugins, etc.)
+- `Gemfile`: the gemfile for the project (contains the dependencies and plugins used)
+
+
+
+## Contributing
+
+If you want to contribute to this project check the [CONTRIBUTING](CONTRIBUTING.md) file for more information. You can also check the [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md) file for the code of conduct.
+- [LICENSE: CC NC 4.0](LICENSE)
